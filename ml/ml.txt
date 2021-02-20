@@ -1,0 +1,1054 @@
+ªx¬ìª¾ÃÑ¥Hª¾ÃÑ±À¼s¤Î±Ð¨|³Ð·s¬°²z©À¡A­P¤O©óÅý¤Ñ¤U¨S¦³Ãø¾Çªºª¾ÃÑ¡CºX¤UPansciªx¬ì¾Ç¬O¥xÆW³Ì¤j¥B³Ì³Q«H¿àªº¬ì¾ÇªÀ¸s¡A³z¹LªÀ¸sÀW¹D¤Î¦Û«Ø¥­¥x¶i¦æ¤º®e¦æ¾P¡A±À°Ê¬ì´¶¤å¤Æ¡C¡u¬ì¾Ç¥Í¡v¬O±M¬°°ê¤¤¥Í¥´³yªº¬ì´¶¾\Åª¥­¥x¡A»P«n¤@®Ñ§½¡B¬ì¾Ç¤ë¥Z±j±jÁp¤â¡A°ö¾i«Ä¤lªº¬ì¾Ç¯À¾i¡CÅwªï»{¦Pªx¬ì²z©À¡A¼_¼ô¥­¥x¶}µo§Þ³Nªº¦n¤â¥[¤J¡A»P§Ú­Ì¤@°_³z¹L¨t²Î¤Æ¤Î´¼¯à¼Æ¾Ú¡A¦V¥¼¨Óª¾ÃÑÂà°Ê¡C
+
+1. °Ñ»P¼Æ¦ì¾Ç²ß¥­¥x¨t²Î³]­p¡B¶}µo»PºûÅ@
+2. ¨ãPHP¶}µo¸gÅç (¼ô±x WordPress «È»s¶}µo¤×¨Î¡^
+3. ¼ô±xRDBMS©Î¨ã³ÆNoSQL¶}µo¸gÅç
+4. ¨ã³ÆRESTful API ¶}µo¸gÅçªÌ¤×¨Î
+5. ¦³¥ø·~¶³ºÝ¥­¥x(¦pAWS, GCPµ¥)¨Ï¥Î¸gÅçªÌ¤×¨Î
+
+1. ¶i®Æ¹s¥óÀËÅç¡B»s³y¹Lµ{¤¤»sµ{¨µÀË¡B¥X³fÀËÅç¡B¹ê¬I«~ºÞ­pµe¡C
+2. ­ìª«®Æ¦¨«~Åç¦¬¡B«~«O³ø§i»s§@¡B«~«Oªí³æºÞ²zµ¥¡C
+3. ºûÅ@¡B§ó·s¡B³B²z¦UÃþ¤å¥óÀÉ®×©M¸ê®Æ®w¨t²Î¤Î¤½¥q¥æ¿ì¨Æ¶µ¡C 
+4. ¨ãµø¹Ï¯à¤O¡]¤uµ{¹Ï¡^¡C 
+5. ¼ô±x¥Í²£ª«®ÆºÞ²z¬yµ{ªÌ¨Î ¡C
+6. »Ý­n¨ã¦³¶}¨®¯à¤O,°t¦X°ê¤º¥X®t¡CÅwªï³ß·RÁú°ê¬y¦æ¨Æ°È©Î¹ï±m§©/Áô§Î²´Ãè/¦³¿³½ìªº¤H¡A¤@¦P¥[¤J§Ú­Ìªº¹Î¶¤¡I
+
+¡°¦¹Â¾¯Ê¬°µu´ÁÁ{®ÉÂd¤H­û¡A¤u§@´Á¶¡¬°§Y¤é°_~110¦~5¤ë¤¤
+
+1.ÅU«È±µ«ÝªA°È¤Î°â«áªA°È¡C
+2.Áô§Î²´Ãè°Ó«~¤¶²Ð¡B¾P°â»P¥]¸ËªA°È¡C
+3.ªù¥«°Ó«~³¯¦C¡B®w¦sºÞ²z¡C
+4.ªù¥«©±°È¸gÀç¡B±À°Ê©±·~ÁZ¤§¥Ø¼Ð¹F¦¨¡C
+5.·|­ûºÞ²z¡A¬ÛÃö¦æ¬F§@·~ ¡C
+6.°¸¶·°t¦Xªù¥«½ü½Õ»P¤ä´©¡C¡¯¡¯¡¯2020¦~6¤ë ¥þ·s±Ò¥Î¥xÆW©Ð¥ò·~°ß¤@¡A±¡¹Ò¦¡°ª¶¥±M·~°V½m¤¤¤ß¡¯¡¯¡¯ 
+¡°¥xÆW©Ð¥ò·~°ß¤@¡A³z¹L±¡¹Ò¦¡¼ÒÀÀµ²¦XAI´¼¼z¡B¹ê¹ÒÂX¥R¤¬°Ê°V½m¡A¨ó§U·s¤H§Ö³t±M·~¤É¯Å¡AÀu½èªA°È«È¤á¡A»â¥ý¦P·~¶Ç²Î°V½m¡C  
+¡°·~¬É°ß¤@¡A¥¸¸ê¤W»õ´£¨Ñ´¼¼z«¬°V½m¤¤¤ß¡Ï±¡¹Ò°ª¶¥°V½m½Òµ{¡AÅý·s¤H¦¨¬°©Ð¦a²£³»¦y±M·~¤H¤~¡C 
+ 
+1. °ê¤º¤£°Ê²£¶R½æ±M·~ªA°È  
+2. ¥þÄÖ¤Æ¤£°Ê²£§ë¸êºÞ²zªA°È 
+3. «O»Ù«È¤á¬ÛÃö°â«áªA°È(¿ç®g¡B®ü¬â¹w¨¾ÀË´ú)¥Ñ¤½¥q±M®×´£¨Ñ  
+4. ¥xÆW©Ð«Îª½Àçªù¥«¿ý¨ú¡A¥H¤Î¦U¶¥¬q¤É¾E¡A§¡¦³¦Ò¸Õ¨î«×´£¤É±M·~«~½è¡¯¡¯¡¯2020¦~6¤ë ¥þ·s±Ò¥Î¥xÆW©Ð¥ò·~°ß¤@¡A±¡¹Ò¦¡°ª¶¥±M·~°V½m¤¤¤ß¡¯¡¯¡¯
+¡°¥xÆW©Ð¥ò·~°ß¤@¡A³z¹L±¡¹Ò¦¡¼ÒÀÀµ²¦XAI´¼¼z¡B¹ê¹ÒÂX¥R¤¬°Ê°V½m¡A¨ó§U·s¤H§Ö³t±M·~¤É¯Å¡AÀu½èªA°È«È¤á¡A»â¥ý¦P·~¶Ç²Î°V½m¡C
+¡°·~¬É°ß¤@¡A¥¸¸ê¤W»õ´£¨Ñ´¼¼z«¬°V½m¤¤¤ß¡Ï±¡¹Ò°ª¶¥°V½m½Òµ{¡AÅý·s¤H¦¨¬°©Ð¦a²£³»¦y±M·~¤H¤~¡C
+
+1. °ê¤º¤£°Ê²£¶R½æ±M·~ªA°È
+2. ¥þÄÖ¤Æ¤£°Ê²£§ë¸êºÞ²zªA°È
+3. «O»Ù«È¤á¬ÛÃö°â«áªA°È(¿ç®g¡B®ü¬â¹w¨¾ÀË´ú)¥Ñ¤½¥q±M®×´£¨Ñ
+4. ¥xÆW©Ð«Îª½Àçªù¥«¿ý¨ú¡A¥H¤Î¦U¶¥¬q¤É¾E¡A§¡¦³¦Ò¸Õ¨î«×´£¤É±M·~«~½è1. §Q¥Î¸ê®Æ¤ÀªR¤Î¾÷¾¹¾Ç²ß¶i¦æ¥É¤sª÷±±¤º³¡ / ¥~³¡±¡¶Õµû¦ô¤Î°ÝÃDµo²{
+2. ¨ó§U·~°È³æ¦ì§Q¥Î¸ê®Æ¤ÀªR©Î¾÷¾¹¾Ç²ß¸Ñ¨MÃöÁä¬ì§ÞÄ³ÃD¡A¨Ã´£¨Ñ¨Mµ¦«ØÄ³
+
+­Y±z¹ï¦¹Â¾¯Ê¦³¿³½ì¡A½Ð¦Ü¡u¥É¤sµ×­^ºÂ¿ïºô¯¸¡v¶ñ¼g¼i¾ú
+¡iºô§}¡Ghttps://hr.esunfhc.com/Recruitment/Home/Account?hrcontact&oneofour ¡j¡A¦p¸g¥DºÞ¼f®Ö³q¹L¡A±NÁÜ½Ð±z°Ñ¥[­±½Í¡AÁÂÁÂ¡I1. °òÂ¦¸ê®Æ¤ÀªR(»â°ì¸ê®Æ¬}±x¡B¯S¼x¿ï¾Ü¡B¸ê®Æ«e³B²zµ¥)
+2. ¾÷¾¹¾Ç²ßÀ³¥Î³nÅé²£«~»P±M®×¶}µo
+¨­³B¼Æ¦ìª÷¿ÄÂà«¬¦~¥Nªº§A¡A·Q­n¦b³o­ÓÂ½Âàªº®É¥Nªî¤W¤@¨¤¡H ¹ï¥¨¶qµ²ºc¤Æ¸ê®Æ¡B¥bµ²ºc¤Æ¸ê®Æ¬Æ¦Ü«Dµ²ºc¤Æ¸ê®Æªº¤ÀªR¡B³B²z»PÀx¦s¬O§_¨ã¦³°ª«×¿³½ì¡H ¹ï¥´³y¾÷¾¹¾Ç²ß¥­¥x¤Î¨t²Î³nÅé®Ø¬[¬O§_¨ã¦³¤@ªÑ¼ö¦å¡H ¬O§_¦³ºØ½Ä°Ê·Q¬D¾Ô§â¾÷¾¹¾Ç²ß«Øºc¦b¤À´²¦¡¨t²Î¤Î·LªA°È¨t²Î (docker)¤§¤W ¡H ·Q­n¬D¾Ô¬Û¦P¸ê®Æ®w¸ê·½¤Uºë¬ü¤S°ª®Ä²vªº SQL »yªk¡H ¹ï open source ¦³ªÑ²ö¦Wªº¨g¼ö¡A·Q­n§Q¥Î open source  °µ¤@µf¨Æ·~¡H ¦Û°Ê¤Æ´ú¸Õ¤Î¦Û°Ê¤Æ§G¸p¤Wª©¾÷¨î¡A¥¿¬O§A®³¤âªº¶µ¥Ø¡H§A¬Oµ½©ó¤ÀªR°ÝÃD»P¸Ñ¨M¡A©Î¦³§Ó·Q­n¬D¾Ô¥¨¶q¸ê®Æªº³B²z¡H §A¬O Python ¤¤ªºÂ¼·¡¡H 
+¨S¿ù¡A³o¨Ç³£¬O§Ú­Ì·Q­n§äªº¤H¤~¡A´N¬O§A¡AÅwªï§A¨Ó¥[¤J¥É¤s´¼¯àª÷¿Ä³B¡I 
+°£¤F¥H¤W¡A§AÁÙ¦³¾÷·|¡A°Ñ»P¾÷¾¹¾Ç²ß (Machine Learning) ±M®×¶}µo¡B¸ê®Æ¯S¼x¤uµ{¡B³W¹º³]­p¦¸¥@¥N¾÷¾¹¾Ç²ß¥­¥xµo®i»PÂÅ¹Ïµ¥¥ô°È¡C 
+
+
+Â¾¯Ê±ø¥ó:
+1. ºÓ¤h¸ê°TºÞ²z¬ÛÃö¡B¼Æ¾Ç¤Î¹qºâ¾÷¬ì¾Ç¾Ç¬ìÃþ¡B¸ê°T¤uµ{¬ÛÃö¡A¤u§@¸g¾ú¤£©ë
+2. ¼ô±x Linux ¤Î Python µ{¦¡¶}µo»P²Ä¤T¤è®M¥ó®w¤Þ¥Î¸gÅç
+3. ¼ô±x SQL ¸ê®Æ®w»yªk¡A¹ï¸ê®Æ®w®Õ¯à½Õ®Õ¦³¿³½ì
+4. ¼ô±x Git ª©¥»±±¨î¡A¹ïCI/CD ¬yµ{ºÞ²z¦³¿³½ì
+5. ²¤À´¸ê°T¦w¥þ¤Îºô¸ô¶Ç¿é¬ÛÃö°òÂ¦ª¾ÃÑ 1.°òÂ¦¸ê®Æ¤ÀªR(»â°ì¸ê®Æ¬}±x¡B¯S¼x¿ï¾Ü¡B¸ê®Æ«e³B²zµ¥)
+2.¾÷¾¹¾Ç²ßÀ³¥Î³nÅé²£«~»P±M®×¶}µo
+3.¶}µo¤Î§ï¨}¾÷¾¹¾Ç²ß©Îºtºâªk
+4.ºtºâªk¹êÅç³]­p¨­³B¼Æ¦ìª÷¿ÄÂà«¬¦~¥Nªº§A¡A·Q­n¦b³o­ÓÂ½Âàªº®É¥Nªî¤W¤@¨¤¡H ¹ï¥¨¶qµ²ºc¤Æ¸ê®Æ¡B¥bµ²ºc¤Æ¸ê®Æ¬Æ¦Ü«Dµ²ºc¤Æ¸ê®Æªº¤ÀªR¡B³B²z»PÀx¦s¬O§_¨ã¦³°ª«×¿³½ì¡H ¹ï¥´³y¾÷¾¹¾Ç²ß¥­¥x¤Î¨t²Î³nÅé®Ø¬[¬O§_¨ã¦³¤@ªÑ¼ö¦å¡H ¬O§_¦³ºØ½Ä°Ê·Q¬D¾Ô§â¾÷¾¹¾Ç²ß«Øºc¦b¤À´²¦¡¨t²Î¤Î·LªA°È¨t²Î (docker)¤§¤W ¡H ·Q­n¬D¾Ô¬Û¦P¸ê®Æ®w¸ê·½¤Uºë¬ü¤S°ª®Ä²vªº SQL »yªk¡H ¹ï open source ¦³ªÑ²ö¦Wªº¨g¼ö¡A·Q­n§Q¥Î open source  °µ¤@µf¨Æ·~¡H ¦Û°Ê¤Æ´ú¸Õ¤Î¦Û°Ê¤Æ§G¸p¤Wª©¾÷¨î¡A¥¿¬O§A®³¤âªº¶µ¥Ø¡H§A¬Oµ½©ó¤ÀªR°ÝÃD»P¸Ñ¨M¡A©Î¦³§Ó·Q­n¬D¾Ô¥¨¶q¸ê®Æªº³B²z¡H §A¬O Python ¤¤ªºÂ¼·¡¡H 
+
+¨S¿ù¡A³o¨Ç³£¬O§Ú­Ì·Q­n§äªº¤H¤~¡A´N¬O§A¡AÅwªï§A¨Ó¥[¤J¥É¤s´¼¯àª÷¿Ä³B¡I 
+
+°£¤F¥H¤W¡A§AÁÙ¦³¾÷·|¡A°Ñ»P¾÷¾¹¾Ç²ß (Machine Learning) ±M®×¶}µo¡B¸ê®Æ¯S¼x¤uµ{¡B³W¹º³]­p¦¸¥@¥N¾÷¾¹¾Ç²ß¥­¥xµo®i»PÂÅ¹Ïµ¥¥ô°È¡C 
+
+Â¾¯Ê±ø¥ó:
+1. ¤T¦~¥H¤W¨t²ÎºÞ²z¤ÎºûÅ@¸gÅç
+2. ¨ã³Æ§Þ³N¬[ºc³W¹º¯à¤O»P¨î©w§Þ³N³W½d¡A¥]¬A¤j¼Æ¾Ú¶Ç¿é¤Î­ÜÀxµ¥
+3. ¼ô±x Linux ¤Î Python µ{¦¡¶}µo»P²Ä¤T¤è®M¥ó®w¤Þ¥Î¸gÅç
+4. ¼ô±x SQL ¸ê®Æ®w»yªk¤Î®Õ¯à½Õ®Õ
+5. ¼ô±x Git ª©¥»±±¨î¤Î CI/CD ¬yµ{ºÞ²z
+6. ²¤À´¸ê°T¦w¥þ¤Îºô¸ô¶Ç¿é¬ÛÃö°òÂ¦ª¾ÃÑ 1. Linux / Bash ½sµ{¡C
+2. °w¹ï²{¦³¼Ò«¬©Î¨t²Î´£¥X¬Û¹ïÀu¤Æªº¤èªk¡C
+3. À³¥Î¾÷¾¹¾Ç²ßºtºâªk©ó»y­µ°T¸¹/¦ÛµM»y¨¥ªº¤ÀªR¡C
+4. ¶}µo¯«¸gºô¸ôªº¹w´ú¼Ò«¬¡C
+5. ¾÷¾¹¾Ç²ßºtºâªkªºIC Porting¡C¦Û°Ê¤Æ¤H¤~(CIM/¾÷¾¹¾Ç²ß/²`«×¾Ç²ß/¼v¹³¿ëÃÑ/¨t²Î¾ã¦X)-ÁÜ½Ð±zªº¥[¤J-
+
+
+¡iÂ¾¯Ê¤@¡j-CIM±M·~¤H¤~(¾÷¥x¦Û°Ê¤Æ)
+¡· EAP SECS/GEM ¾÷¥x¦Û°Ê¤Æµ{¦¡¶}µo
+¡· CIM¨t²ÎªººûÅ@¡B¤ä´©¡B§ïµ½ 
+¡· ¥ý¶i»sµ{»Ý¨D¸Ñ¨M¤è®×µû¦ô¤Î´£¨Ñ 
+
+
+¡iÂ¾¯Ê¤G¡j-³nÅé¶}µo¤uµ{®v(¾÷¾¹¾Ç²ß/¼v¹³³B²z)
+¡· ¾÷¾¹¾Ç²ß¡B²`«×¾Ç²ß¡B¼v¹³¿ëÃÑ³nÅé¶}µo
+¡· ªí­±DefectÀË´ú®Ä²v´£¤É±M®×
+
+
+¡iÂ¾¯Ê¤T¡j-Webµ{¦¡³]­p¤uµ{®v
+¡· ¥Í²£ºÞ²z¨t²Î(§t³øªí)¶}µo»PºûÅ@
+¡· CIM Report«Ø¸m³W¹º»P°õ¦æ(Web«e«áºÝ³W¹º«Ø¸m)
+¡· ¥Í²£¦Û°Ê¤Æ¨t²Î³W¹º»P°õ¦æ
+
+¡·¨Ì¾Ç¸g¾ú¡B¬ì¨t¡B¸gÅç¬ÛÃö©Ê¡B¯S®í»Ý¨DÃÒ·Ó¤Î±Mªøµ¥±ø¥ó®Ö±Ô­Ó¤HÁ~¸ê¡C
+¡·¸Ô²Ó»¡©ú½Ð°Ñ¦UÂ¾¯Ê¥Zµn¤º®e
+¡i§A·|¦b Positive Grid °µ¨Ç¤°»ò¡j
+
+- ±N marketing, product ºÝ¤£¦P domain ªº»Ý¨D¸Ñºc¦¨§Þ³N¥Ø¼Ð
+- »â¾É machine learning RD, DSP ¤uµ{®v, ¥H¤Î PM specialist ¹ê²{ one-man-band ¥H¤Î¨ä¥L­µ¼Ö¶µ¥Øªº¨Ï¥Î±¡¹Ò
+- »P IT ¥H¤Î App ¤uµ{®v¦X§@ UX »P data pipeline
+
+¡i§Ú­Ì»Ý­n³o¼Ëªº§A¡j
+
+- ¼ô±x Tensorflow/keras ©Î pytorch
+- 3 ¦~¥H¤W Deep learning ¾Ç²ß»P¹ê§@¸gÅç
+- 2 ¦~¥H¤W¾÷¾¹¾Ç²ß¬ÛÃö²£·~·¾³q¸gÅç 
+- 2 ¦~¥H¤W³nÅé¶}µo¥DºÞ¸gÅç
+- ¼ô±x ML model ³]­p¡B°V½m
+- ¸ê°T¡B¹q¾÷¡B¼Æ¾Ç©Î¬ÛÃö¬ì¨tºÓ¤h¾Ç¾ú
+- ¼ô±x colab ¨Ï¥Î
+- ¹ï­µ¼Ö§@¦±¡B¥Í¦¨¡B»y­µ³B²z¡B¼Ö­µ¦X¦¨¦³¸gÅçªÌ ¨Î
+- ¼ô±x GAN¡BTransformer¡BVAE¡BBERT®a±Ú¡BGPT¨t¦C µ¥ ¨Î
+- ¼ô±x¼Æ¦ì°T¸¹³B²z ¨ÎJob Description
+1.  ³]­p©M«Øºc°ò©ó Artificial Intelligence (AI, ¤H¤u´¼¼z) / Machine Learning (ML, ¾÷¾¹¾Ç²ß) / Deep Learning (DL, ²`«×¾Ç²ß) ºtºâªkªº¨t²Î¥­¥x¡C
+2.  ¹B¥Î±ÀÂË¨t²Î/ Text Mining / Geomatics Analysis / ¼v¹³¿ëÃÑºtºâªk¡A¨ó§U¤½¥q¶}µo¬ÛÃöÀ³¥Î»P¾ã¦X¡C
+3. ­t³d¼Ò«¬°V½m¡B®Ø¬[»P°Ñ¼Æ½Õ¾ã¡C
+4. »P IT ·¾³q»P¨ó§@¸ê®Æ¤ÀªR¨t²Î«Ø¥ß¡C
+
+
+Qualifications & Education Requirements
+1. ¸ê°T¤uµ{ / ¹q¾÷¤uµ{µ¥¸ê°T¬ì¾Ç¬ÛÃö»â°ìºÓ¤h¥H¤W¾Ç¦ì¡C
+2. ºÓ¤h½×¤å»Ý»P¸ê®Æ¬ì¾Ç»â°ì¬ÛÃö©Î´¿µoªí¹L¬ÛÃö´Á¥Z¤å³¹¡C
+3. ¨ã³Æ¨}¦nªº¾\Åª°ê»Ú´Á¥Z¤§¯à¤O¡C
+
+
+Preferred Skills
+1. ¨ã³Æ°ª®Ä²vªº Python / C / C++ µ¥½s¼gµ{¦¡¹ê²{ºtºâªk¡C
+2. ¾Õªø±ÀÂË¨t²Î / Geomatics Analysis / ¼v¹³¿ëÃÑ / NLP / Text Mining ¦Ü¤Ö¤@ºØ¥H¤Wªººtºâªk¶}µo¡C
+3. ¦Ü¤Ö¼ô±x¤@ºØ¥D¬y DL ®Ø¬[ / ML ºtºâªk¡A¥]§t¦ý¤£­­©ó TensorFlow, PyTorch, YOLOv3, Caffe, MXNet, CNTK, Keras, MLlib¡C
+4. ¨ã¥ô¤@¶³ºÝ¥­¥x ( AWS / GCP / Azure) »P Spark / Hadoop / PySpark ±M®×¹Bºâ¸gÅç¡C
+5. ¯à¼ô½m¾Þ§@ RDBMS, NoSQL¡C
+6. ¾Õªø¹Î¶¤¦X§@¥B¨ã¿W¥ß¸Ñ¨M°ÝÃDªº¯à¤O¡C1. ¯à¹ê§@¼Æ¾Ú¤ÀªR¡A±N·P´ú¾¹¦¬¶°¼Æ¾Ú¶i¦æ¹w´ú¡B¤À¸s¤Î¤ÀÃþµ¥¤ÀªR¡C
+2. ¯à°÷¿W¥ß¶i¦æETLµ¥¬ÛÃö§@·~§t¡G¸ê®Æ²M¬~¡B«ØÀÉ
+3. ¯à°÷¹ê§@¦U¦^Âk¤Î¤ÀÃþ¾÷¾¹¾Ç²ß¼Ò«¬¡Gex¡GSVM¡BLightGBM¡BXGBoost
+4. ¯à°÷¹ê§@²Î­p¤èªk¡Gex¡GFactor Analysis¡AANOVA
+
+
+
+­Y±zªºÅÞ¿è²M´·¡B¨ã³Æ¹Bºâ«äºû¯à¤O¡A¥B¹ïAI/¾÷¾¹¾Ç²ß«Ü¦³¿³½ì¡BÂQ©¹¥HAI/¾÷¾¹¾Ç²ß¬ÛÃö¶}µo¤u§@¬°²×¨­§Ó·~¡A¦ý¬OÁÙ¨S¦³¬ÛÃö¤u§@¸gÅç¡B¬Æ¦Ü¤£¬O¬ÛÃö¬ì¨t²¦·~¦ý¦Û¾Ç¦³¦¨¡A³£Åwªï±z¨ÓÀ³¼x³o­ÓÂ¾°È¡C¥u­n±z¦³¨M¤ß¡A§Ú­Ì·|¦³Mentor¤Þ¾É±z¡BÅý±z¦b¹ê°È¤u§@¤¤¾Ç²ß¡A¦¨¬°¥ÎÂù¤â³Ð³y§ïÅÜªºÀu¨q¬ãµo¤uµ{®v¡C
+
+­n¨D:
+1. ¨ã³Æ¾÷¾¹¾Ç²ß»P²`«×¾Ç²ß²z½×°òÂ¦
+2. ¨ã³Æ¼Æ­È¤ÀªR¡B²Î­p¾Ç¡B½u©Ê¥N¼Æ¬ÛÃö·§©À
+3. ¹ï©ó¥­¦æ¹Bºâ¡B¤À´²¦¡¹Bºâ¡BÂO¶°¹Bºâ¦³°òÂ¦·§©À
+4. ¤ÀªRµ²ªG¥iµø¤Æ»P¸ÑÄÀ¯à¤Oªº¬ÛÃö¸gÅç
+5. Python¶}µo¯à¤O
+6. ¨}¦nªº¹Î¶¤¦X§@»P·¾³q¯à¤O¼ô±x¤H¤u´¼¼z©Î¬O¾÷¾¹¾Ç²ßºtºâªk¶}µo¡C
+¨ó§U¶}µo¾÷¾¹¾Ç²ßºtºâªkÀ³¥Î¡C
+
+
+
+ 
+¥»¤½¥q¬O¥Ñ¤@¸s´¿¥ôÂ¾°ê»Ú³nÅé¤j¼t»P°ª¬ì§Þ»s³y·~¤Q¦h¦~ªº±M®a©Ò³Ð¥ß¡C§Ú­Ì«D±`¼ô±x¥ø·~Àç¹B¨t²Î¡Bª«ÁpºôÀ³¥Î¡B¥H¤Î³]³Æ/«H®§/¦Û°Ê¤Æ/¤u¼tºÞ²zµ¥¬ÛÃö§Þ³N¡A§Æ±æ¹B¥Î¹L¥h²Ö¿nªº¥ø·~»P¤u¼tºÞ²z¤Îª«ÁpºôÀ³¥Î¸gÅç¡A·f°t¦Û¥D¬ãµoªºAI¾÷¾¹¾Ç²ß§Þ³N¥­¥x¡A¨ó§U¥ø·~¥H¦X²zªº¦¨¥»¡B§Ö³t¦a¾É¤J°ª»ù­È¸ê°T¨t²Î¡A¸Ñ¨M¤u¼tºÞ²z°ÝÃD¡A´£¤É¤u¼t®Ä¯à¡A¹F¨ì´¼¯à¤Æ¤u¼tªº¥Ø¼Ð¡C
+
+§Ú­Ì§Æ±æ©Û¶Ò¼Æ¦W¦~»´·s¦å¡A¨Ã¤£ÄY®æ­n¨D±zªº¤u§@¸gÅç¡A¥u­n±z§Þ³N©³¤l¦n¡BÀY¸£ÆF¬¡¡B¥Rº¡¾Ç²ß·s¨Æª«ªº·F«l¡AÄ@·N±µ¨ü¬D¾Ô¥B§ÜÀ£©Ê°ª¡A¹ï©ó¤u·~ª«Ápºô¡BAI¾÷¾¹¾Ç²ß¡B³nÅé¥Í©R¶g´Á¥­¥xµ¥³Ì·s§Þ³Nªº¤u·~À³¥Î«D±`¦³¿³½ì¡A³£Åwªï¥[¤J§Ú­Ì! ¥»¤½¥qÁö¬O·s³Ð¥ø·~¡A¦ý§Ú­Ìªº«È¤á³£¬O¨â©¤ªº¤j«¬»s³y·~¡A°£¤FÅý±z¯à¬ã¨s·s§Þ³NÀ³¥Î¤§¥~¡AÁÙ¯à²ß±o¤@¯ë¤H«ÜÃø¦³¾÷·|²`¤J¸IÄ²ªº»s³y·~»â°ìª¾ÃÑ¡A§Ú­Ì´£¨ÑÀu´ìªº°_Á~¡B¥ú©úªº¥¼¨Ó¡A¸Û¼°ÁÜ½Ð±z¦¨¬°§Ú­Ìªº¤@¥÷¤l¡C
+
+¥»Â¾°È¥D­n¤u§@·|°Ñ»PAI¾÷¾¹¾Ç²ßWeb-based¥­¥x¶}µo¤u§@¡A°ò¥»±ø¥ó­n¨D:
+1. ¼ô±xHTML5/CSS3/ES6+(Javascript)
+
+¨ã³Æ¥H¤U¯à¤O¤×¨Î:
+1. ¨Ï¥Î¹L¤U¦C¥ô¤@®Ø¬[ Vue/React/Angular (Vue¤×¨Î)
+2. ¨ã³ÆHTTP¨óÄ³ªº°òÂ¦ª¾ÃÑ1.	²`«×¾Ç²ß¼Ò«¬¸ê®Æ·j¶°, ²M²z, ¼Ð°O, °V½m, µû¦ô»PÀu¤Æ
+2.	¹q¸£µøÄ±¬ÛÃö¤§²`«×¾Ç²ßºtºâªk¶}µo»P¾ã¦X
+
+
+¥»¤½¥q¬O°ê¤º±Mª`¦b«Dµ²ºc¸ê®Æ³B²zªº»â¾É¼t°Ó¡A¦bªÀ¸sºÊ´ú¡B»y·N¤ÀªR¡B¤Î¥ø·~·j´MÀ³¥Î¤W§¡¦³³Ì°ªªº¥«¥e²v¡C¦]¦¹¡A±NÁÜ½Ð¼ô±x¤H¤u´¼¼z/¾÷¾¹¾Ç²ß/»y·N¤ÀªRªº¤H¤~¥[¤J¡C¤u§@¤º®e¦p¤U¡G
+
+1 ¦bRD³¡ªù­t³d®Ö¤ßµ{¦¡¶}µo¡A¥]¬A¬[ºc¤Î³]­p
+2 ¶}µo»â°ì¬°¾÷¾¹¾Ç²ß¤Î»y·N¤ÀªR (machine learning, language processing, semantic analysis)
+3 ¹ï¤H¤u´¼¼z, ­pºâ»y¨¥¾Ç, »{ª¾¬ì¾Ç¦³¿³½ìªÌ¤×¨Î
+4 »Ý¹ê»Ú¶}µoµ{¦¡¤Î¶i¦æ¦UºØ¹êÅç¡u¥x¹F¬ã¨s°|¡v¦¨¥ß©ó2013¦~¡A°£­P¤O©ó¤j¼Æ¾Ú¤ÀªR¤Îª«ÁpºôÀ³¥Î»P¸Ñ¨M¤è®×ªº¶}µo»P¾ã¦X¡A¥[³t¥ø·~Âà«¬¦¨¥\¡A¤]¿n·¥»P²£©x¾Ç¬ã¥ÍºAÅé¨t¨ó§@¡A¥H¶}©ñ³Ð·s¼Ò¦¡¡A³Ð³y¦hÄ¹¥ÍºA°é¡C
+
+ ¥»Â¾¯Ê¥D­n¤u§@¤º®e¥]§t¦ý¤£­­©ó:
+1. ­t³d³]­p»P¶}µo¼v¹³¬ÛÃö¤§¹q¸£µøÄ±»P¾÷¾¹¾Ç²ß§Þ³N
+2. ¨ó¦P¶}µo¡B§G«Ø©M´ú¸Õ¸Ñ¨M¤è®×©óÀ³¥Î³õ°ì
+3. ¨Ì±M®×»Ý¨D¬ãÅª¾÷¾¹¾Ç²ß§Þ³N©óÂåÀø¬ÛÃöÀ³¥ÎÄ³ÃD
+1.¾÷¾¹¾Ç²ß¡B²`«×¾Ç²ß¡B¼v¹³¿ëÃÑ³nÅé¶}µo
+2.ªí­±DefectÀË´ú¶}µo/®Ä²v´£¤É±M®×
+3.CIM/MES¨t²Î¤ÎAI¨t²Î¾ã¦X
+
+¡·¨Ì¾Ç¸g¾ú¡B¬ì¨t¡B¸gÅç¬ÛÃö©Ê¡B¯S®í»Ý¨DÃÒ·Ó¤Î±Mªøµ¥±ø¥ó®Ö±Ô­Ó¤HÁ~¸ê¡C
+§Ú­Ì¬O CLICKFORCE Åwªï±z¥[¤J§Ú­Ì
+§Ú­Ì¥¿¦b©Û¶Ò¹ï¶}µo¥Rº¡¼ö±¡ªº¤uµ{®v¹Î¶¤!!
+
+¥D­n¤u§@¤º®e»P±ø¥ó¡G 
+1.	¼¶¼g¤ÎºûÅ@ºô¸ôª¦ÂÎµ{¦¡¡A¥HÂ^¨úºô¸ô¤å³¹¤å¦r¸ê®Æ
+2.	¸ê®Æ²M¬~¡A¾ã²z
+3.	¨Ï¥Îºô¸ôª¦ÂÎÂ^¨úªº¸ê®Æ«Øºc¾÷¾¹¾Ç²ß¼Ò«¬¡A¥H¤ÀªR¨Ï¥ÎªÌ¸ê®Æ
+4.	¨Ï¥Îºô¸ô¨Ï¥ÎªÌÂsÄý¸ê®Æ«Ø¸m¹w´ú¼Ò«¬¡A¹w´úºô¸ô¨Ï¥ÎªÌÂIÀ»¼s§i·N¹Ï
+5.	¨ó§U½s¼g¨Ï¥ÎªÌ¤À¸sµ{¦¡
+6.     ³z¹LºÊ·þ¦¡¾Ç²ß©Î²`«×¾Ç²ß¶i¦æ¹Ï¹³¿ëÃÑ¸ê®Æ
+
+©Ò»Ý±Mªø
+1.	¼ô±xPythonµ{¦¡»y¨¥¡A¥]§tpandas, BeautifulSoup, numpy, sklearn, Gensimµ¥¼Ò²Õ
+2.	¼ô±xLinux, SQL
+
+¥[¤À±Mªø
+1.     ¦³¨Ï¥ÎGCP (BigQuery, Cloud Storage, Compute Engine), AWS (Athena, S3)µ¥ªA°È
+2.      ²Î­p¾Ç±Mªø
+3.       ¹Ï¹³¿ëÃÑ±M®×¸gÅç¨ÎÀô²yºÍµø(UbeStream Inc.)¬°¥xÆW­º®a¥B°ß¤@¨ú±oªÑ²¼¥N¸¹¤§AI¬ì§Þ·s³Ð¤½¥q(³ÐÂd7587)¡A¬°¸ê®Æ¬ì¾Ç³Õ¤h©Ò³Ð¿ì¡A¤½¥q»EµJAI¤H¤u´¼¼z/ICT¸ê³q°T/IoT¦b¶³ºÝSaaS»PEdge Device¤§§Þ³N¬ãµo¡A´£¨Ñ¦U»â°ìAIaaS¤§±µ¦aÀ³¥Î¡A§U¤O«ÈªA¿Ô¸ß/À\¶¼¹s°â/®È¹CÆ[¥ú/¹B°Ê¥ð¶¢/ÂåÀø°·±dµ¥»â°ì¥H´¼¼z»PµL±µÄ²¬ì§Þ¶i¦æ¼Æ¦ìÂà«¬¡CÀô²yºÍµø¬°¬F©²´¼¼z³Ð·s(´¼¼z«ÈªA)´£¨Ñ°Ó¡A¤½¥q¦ì¦b¥x¥_¥«¤º´ò¬ì§Þ¶é°Ï¬w¤lµó¡A¥æ³q°±¨®«K§Q¡A±¶¹Bªñ¤å´ò½u´äáY¯¸¡F¥»AIºtºâªkEdge DevÂ¾¯Ê¡A¾A¦X¨ã¬ÛÃö¶}µo¸gÅç©Î¬ì¨t­I´ºªÌÀ³¼x¡A¨ã³Æ¤U¦C¥ô¤@¬ÛÃö¶}µo¸gÅçªÌ(¬ÛÃö¨t©Ò³ÕºÓ¤h¥Í¥ç¥i)¡AÅwªïÀËªþ¬ÛÃö¾Ç¾ú(¦³½×¤åªÌ¥[¤À)»P¬ÛÃö¶µ¥Ø¶}µo¸gÅçÃÒ©úÀ³¼x¡A¥[¤JÀô²yºÍµøAIÃä½t¹Bºâ(Edge Algorithm & Computing)¶}µo¹Î¶¤¡G
+
+¥D­n¥ô°È¡Gµo®iAI¶³´¼¼z®Ö¤ß»y·N¤Î»y­µ¤ÞÀººtºâªk¡A¨ÃÂà¤Æ¨ìEdgeÀu¤Æ°õ¦æ®Ä¯à¤Î®Ä²v
+1.»y·N¤Î¤å¥»¤ÀªRºtºâªk¡G¨ã»y·N¤å¥»¤ÀªRºtºâªk³]­p»P¶}µo¯à¤O¡A»Ý¾Ç²ß¹LText Mining/Information Retrievalµ¥¬ÛÃö½Òµ{¡A¨ü¹L¬ÛÃö»y¸q¤ÀªR²z½×°V½m¡A¨ã¦³Data Science/Data Mining/Information Retrieval/Big Dta¬ÛÃö¬ì¨t¬ã¨s©Ò©ÎLab­I´º¡A¼¶¼gµoªí¹L¬ÛÃöºtºâªk´Á¥Z½×¤åªÌ¤×¨Î¡C
+2.Deep Learning/Machine Learning¡G¼ô±xANNÃþ¯«¸g¬ÛÃö»y·N(»y¸q)©Î¤å¥»¤ÀªRºtºâªk¡A¼ô±É¼ô±ÉCNN/RNN/RCNN/LSTMµ¥²z½×»P¹B¥Î¡A¨ã³Æµo®iNLP/NLU¤§¯à¤O¡Aµoªí¹L¬ÛÃö¦ÛµM»y·Nºtºâªk´Á¥Z½×¤å¡C
+3.»y­µ¿ëÃÑ¡GSTT/TTS¡A¼ô±xµØ»y/­^»y¤Î¨ä¥L¥~»y»y­µ¿ëÃÑ§Þ³N¡A»Ý¥i³B²z¿ëÃÑ¦h»yºØ§¨Âø©Î¦h¤Hµo¨¥»y¥y¡C
+4.»y·N¤Î»y­µEdge¶´Åé¤ÎIC³]­p¡G¨ã¦³Edge©ÎDevice¶´Åéµ{¦¡¤ÎIC³]­p¾ã¦X¸gÅç­I´º¡A¨ã³Æ¬ãµoEdge»y·N¤Î»y­µºtºâªk¶´Åéµ{¦¡IC¯à¤O¡C
+5.¦³Arduino/Raspberry Pi¶}µo¸gÅç¡A¼ô±xDSP/MCU¡C
+6.¼ô±xC»y¨¥¶´Åé¶}µo¡C
+7.AI¾÷¾¹¾Ç²ß/²`«×¾Ç²ß¤§IC´¹¤ù³]­p¸gÅç¡C
+8.Alexa/¤p¦Ì/iÄ_¨©´¼¼z­µ½c¬ÛÃö¶}µo©ÎÀ³¥Î¸gÅç¡C
+9.IoTª«Ápºô»PAIoT´¼¼zª«Ápºô¶}µo«Ø¸m¸gÅç¡C
+
+¬ÛÃö¡G
+*»y·N/»y¸q»Ý³B²z¸ÑªR­^¤å¡BÂ²¤¤¡BÁc¤¤¤Î¨ä¥L¥D­n»y¤å¡C
+*»y­µ¿ëÃÑ»Ý¿ëÃÑ­^»y¡BµØ»y¤Î¨ä¥L¥D­n»y¨¥(STT)¤Î¤å¦rÂà»y­µ(TSS)¡C
+*»Ý¼ôTensorflow/Keras/PyTorchµ¥¬[ºc¡C
+*¦³AI Chatbot©ÎAI Agent¶}µo¸gÅç¡A¨ã³Æ»P±`¥ÎIM©ÎApp¾ã¦X¯à¤O©Î¸gÅç¡C
+*¦³Device¦p¤â¾÷/¥­ªO/´¼¼z¬ÝªO/Kiosk©ÎEdge¤§AIoT¶}µo¾ã¦X¯à¤O©Î¸gÅç¡C
+*¼ôLinux/Android/Mac/iOSµ¥Device/Edge§@·~¨t²ÎÀ³¥Îµ{¦¡¶}µo¤Î¶´Åé¶}µo
+
+¨ã¦³¥H¤W¬ÛÃö¶}µo¸gÅç©Î±Mªø¡A¹ïAI»y·N¹ï¸Ü¾÷¾¹¤H/»y·N¤å¥»¤ÀªR/»y·N¿ëÃÑºtºâªk¦bCloud/Edge/Deviceµ¥AICT©ÎAIoT§Þ³N¤§Âà¤Æ½Õ¾A¤Î®Ä¯àÀu¤Æ¦³¿³½ì¡AÅwªï§ë»¼¼i¾ú­±½Í¡A»PÀô²yºÍµø¦@³Ð¼Æ¾Ú´¼¼z±qºtºâªk¬ãµo¡B¨t²Î²£«~µo®i¡B²£·~ªA°ÈÀ³¥Î¡A«P¶i¥xÆW»P¥þ²y²£·~¼Æ¦ìÂà«¬¡F¥»¤½¥q¬°¥xÆW²Ä¤@®aAI·s³ÐµnªO³ÐÂd¤½¥q¡A¹Î¶¤¹Ù¦ñ±N¨É¦³ªÑ²¼»{ªÑ°tªÑ©ÎªÑ²¼¿ï¾ÜÅv¾÷·|¡CÅwªï³ß·RÁú°ê¬y¦æ¨Æ°È©Î¹ï±m§©/Áô§Î²´Ãè/¦³¿³½ìªº¤H¡A¤@¦P¥[¤J§Ú­Ìªº¹Î¶¤¡I
+
+¡°¦¹Â¾¯Ê¬°µu´ÁÁ{®ÉÂd¤H­û¡A¤u§@´Á¶¡¬°§Y¤é°_~110¦~5¤ë¤¤
+
+1.ÅU«È±µ«ÝªA°È¤Î°â«áªA°È¡C
+2.Áô§Î²´Ãè°Ó«~¤¶²Ð¡B¾P°â»P¥]¸ËªA°È¡C
+3.ªù¥«°Ó«~³¯¦C¡B®w¦sºÞ²z¡C
+4.ªù¥«©±°È¸gÀç¡B±À°Ê©±·~ÁZ¤§¥Ø¼Ð¹F¦¨¡C
+5.·|­ûºÞ²z¡A¬ÛÃö¦æ¬F§@·~ ¡C
+6.°¸¶·°t¦Xªù¥«½ü½Õ»P¤ä´©¡C¡¯¡¯¡¯2020¦~6¤ë ¥þ·s±Ò¥Î¥xÆW©Ð¥ò·~°ß¤@¡A±¡¹Ò¦¡°ª¶¥±M·~°V½m¤¤¤ß¡¯¡¯¡¯ 
+¡°¥xÆW©Ð¥ò·~°ß¤@¡A³z¹L±¡¹Ò¦¡¼ÒÀÀµ²¦XAI´¼¼z¡B¹ê¹ÒÂX¥R¤¬°Ê°V½m¡A¨ó§U·s¤H§Ö³t±M·~¤É¯Å¡AÀu½èªA°È«È¤á¡A»â¥ý¦P·~¶Ç²Î°V½m¡C  
+¡°·~¬É°ß¤@¡A¥¸¸ê¤W»õ´£¨Ñ´¼¼z«¬°V½m¤¤¤ß¡Ï±¡¹Ò°ª¶¥°V½m½Òµ{¡AÅý·s¤H¦¨¬°©Ð¦a²£³»¦y±M·~¤H¤~¡C 
+ 
+1. °ê¤º¤£°Ê²£¶R½æ±M·~ªA°È  
+2. ¥þÄÖ¤Æ¤£°Ê²£§ë¸êºÞ²zªA°È 
+3. «O»Ù«È¤á¬ÛÃö°â«áªA°È(¿ç®g¡B®ü¬â¹w¨¾ÀË´ú)¥Ñ¤½¥q±M®×´£¨Ñ  
+4. ¥xÆW©Ð«Îª½Àçªù¥«¿ý¨ú¡A¥H¤Î¦U¶¥¬q¤É¾E¡A§¡¦³¦Ò¸Õ¨î«×´£¤É±M·~«~½èªx¬ìª¾ÃÑ¥Hª¾ÃÑ±À¼s¤Î±Ð¨|³Ð·s¬°²z©À¡A­P¤O©óÅý¤Ñ¤U¨S¦³Ãø¾Çªºª¾ÃÑ¡CºX¤UPansciªx¬ì¾Ç¬O¥xÆW³Ì¤j¥B³Ì³Q«H¿àªº¬ì¾ÇªÀ¸s¡A³z¹LªÀ¸sÀW¹D¤Î¦Û«Ø¥­¥x¶i¦æ¤º®e¦æ¾P¡A±À°Ê¬ì´¶¤å¤Æ¡C¡u¬ì¾Ç¥Í¡v¬O±M¬°°ê¤¤¥Í¥´³yªº¬ì´¶¾\Åª¥­¥x¡A»P«n¤@®Ñ§½¡B¬ì¾Ç¤ë¥Z±j±jÁp¤â¡A°ö¾i«Ä¤lªº¬ì¾Ç¯À¾i¡CÅwªï»{¦Pªx¬ì²z©À¡A¼_¼ô¥­¥x¶}µo§Þ³Nªº¦n¤â¥[¤J¡A»P§Ú­Ì¤@°_³z¹L¨t²Î¤Æ¤Î´¼¯à¼Æ¾Ú¡A¦V¥¼¨Óª¾ÃÑÂà°Ê¡C
+
+1. °Ñ»P¼Æ¦ì¾Ç²ß¥­¥x¨t²Î³]­p¡B¶}µo»PºûÅ@
+2. ¨ãPHP¶}µo¸gÅç (¼ô±x WordPress «È»s¶}µo¤×¨Î¡^
+3. ¼ô±xRDBMS©Î¨ã³ÆNoSQL¶}µo¸gÅç
+4. ¨ã³ÆRESTful API ¶}µo¸gÅçªÌ¤×¨Î
+5. ¦³¥ø·~¶³ºÝ¥­¥x(¦pAWS, GCPµ¥)¨Ï¥Î¸gÅçªÌ¤×¨Î
+
+1. ¶i®Æ¹s¥óÀËÅç¡B»s³y¹Lµ{¤¤»sµ{¨µÀË¡B¥X³fÀËÅç¡B¹ê¬I«~ºÞ­pµe¡C
+2. ­ìª«®Æ¦¨«~Åç¦¬¡B«~«O³ø§i»s§@¡B«~«Oªí³æºÞ²zµ¥¡C
+3. ºûÅ@¡B§ó·s¡B³B²z¦UÃþ¤å¥óÀÉ®×©M¸ê®Æ®w¨t²Î¤Î¤½¥q¥æ¿ì¨Æ¶µ¡C 
+4. ¨ãµø¹Ï¯à¤O¡]¤uµ{¹Ï¡^¡C 
+5. ¼ô±x¥Í²£ª«®ÆºÞ²z¬yµ{ªÌ¨Î ¡C
+6. »Ý­n¨ã¦³¶}¨®¯à¤O,°t¦X°ê¤º¥X®t¡C¡¯¡¯¡¯2020¦~6¤ë ¥þ·s±Ò¥Î¥xÆW©Ð¥ò·~°ß¤@¡A±¡¹Ò¦¡°ª¶¥±M·~°V½m¤¤¤ß¡¯¡¯¡¯
+¡°¥xÆW©Ð¥ò·~°ß¤@¡A³z¹L±¡¹Ò¦¡¼ÒÀÀµ²¦XAI´¼¼z¡B¹ê¹ÒÂX¥R¤¬°Ê°V½m¡A¨ó§U·s¤H§Ö³t±M·~¤É¯Å¡AÀu½èªA°È«È¤á¡A»â¥ý¦P·~¶Ç²Î°V½m¡C
+¡°·~¬É°ß¤@¡A¥¸¸ê¤W»õ´£¨Ñ´¼¼z«¬°V½m¤¤¤ß¡Ï±¡¹Ò°ª¶¥°V½m½Òµ{¡AÅý·s¤H¦¨¬°©Ð¦a²£³»¦y±M·~¤H¤~¡C
+
+1. °ê¤º¤£°Ê²£¶R½æ±M·~ªA°È
+2. ¥þÄÖ¤Æ¤£°Ê²£§ë¸êºÞ²zªA°È
+3. «O»Ù«È¤á¬ÛÃö°â«áªA°È(¿ç®g¡B®ü¬â¹w¨¾ÀË´ú)¥Ñ¤½¥q±M®×´£¨Ñ
+4. ¥xÆW©Ð«Îª½Àçªù¥«¿ý¨ú¡A¥H¤Î¦U¶¥¬q¤É¾E¡A§¡¦³¦Ò¸Õ¨î«×´£¤É±M·~«~½è1. §Q¥Î¸ê®Æ¤ÀªR¤Î¾÷¾¹¾Ç²ß¶i¦æ¥É¤sª÷±±¤º³¡ / ¥~³¡±¡¶Õµû¦ô¤Î°ÝÃDµo²{
+2. ¨ó§U·~°È³æ¦ì§Q¥Î¸ê®Æ¤ÀªR©Î¾÷¾¹¾Ç²ß¸Ñ¨MÃöÁä¬ì§ÞÄ³ÃD¡A¨Ã´£¨Ñ¨Mµ¦«ØÄ³
+
+­Y±z¹ï¦¹Â¾¯Ê¦³¿³½ì¡A½Ð¦Ü¡u¥É¤sµ×­^ºÂ¿ïºô¯¸¡v¶ñ¼g¼i¾ú
+¡iºô§}¡Ghttps://hr.esunfhc.com/Recruitment/Home/Account?hrcontact&oneofour ¡j¡A¦p¸g¥DºÞ¼f®Ö³q¹L¡A±NÁÜ½Ð±z°Ñ¥[­±½Í¡AÁÂÁÂ¡I1. °òÂ¦¸ê®Æ¤ÀªR(»â°ì¸ê®Æ¬}±x¡B¯S¼x¿ï¾Ü¡B¸ê®Æ«e³B²zµ¥)
+2. ¾÷¾¹¾Ç²ßÀ³¥Î³nÅé²£«~»P±M®×¶}µo
+¨­³B¼Æ¦ìª÷¿ÄÂà«¬¦~¥Nªº§A¡A·Q­n¦b³o­ÓÂ½Âàªº®É¥Nªî¤W¤@¨¤¡H ¹ï¥¨¶qµ²ºc¤Æ¸ê®Æ¡B¥bµ²ºc¤Æ¸ê®Æ¬Æ¦Ü«Dµ²ºc¤Æ¸ê®Æªº¤ÀªR¡B³B²z»PÀx¦s¬O§_¨ã¦³°ª«×¿³½ì¡H ¹ï¥´³y¾÷¾¹¾Ç²ß¥­¥x¤Î¨t²Î³nÅé®Ø¬[¬O§_¨ã¦³¤@ªÑ¼ö¦å¡H ¬O§_¦³ºØ½Ä°Ê·Q¬D¾Ô§â¾÷¾¹¾Ç²ß«Øºc¦b¤À´²¦¡¨t²Î¤Î·LªA°È¨t²Î (docker)¤§¤W ¡H ·Q­n¬D¾Ô¬Û¦P¸ê®Æ®w¸ê·½¤Uºë¬ü¤S°ª®Ä²vªº SQL »yªk¡H ¹ï open source ¦³ªÑ²ö¦Wªº¨g¼ö¡A·Q­n§Q¥Î open source  °µ¤@µf¨Æ·~¡H ¦Û°Ê¤Æ´ú¸Õ¤Î¦Û°Ê¤Æ§G¸p¤Wª©¾÷¨î¡A¥¿¬O§A®³¤âªº¶µ¥Ø¡H§A¬Oµ½©ó¤ÀªR°ÝÃD»P¸Ñ¨M¡A©Î¦³§Ó·Q­n¬D¾Ô¥¨¶q¸ê®Æªº³B²z¡H §A¬O Python ¤¤ªºÂ¼·¡¡H 
+¨S¿ù¡A³o¨Ç³£¬O§Ú­Ì·Q­n§äªº¤H¤~¡A´N¬O§A¡AÅwªï§A¨Ó¥[¤J¥É¤s´¼¯àª÷¿Ä³B¡I 
+°£¤F¥H¤W¡A§AÁÙ¦³¾÷·|¡A°Ñ»P¾÷¾¹¾Ç²ß (Machine Learning) ±M®×¶}µo¡B¸ê®Æ¯S¼x¤uµ{¡B³W¹º³]­p¦¸¥@¥N¾÷¾¹¾Ç²ß¥­¥xµo®i»PÂÅ¹Ïµ¥¥ô°È¡C 
+
+
+Â¾¯Ê±ø¥ó:
+1. ºÓ¤h¸ê°TºÞ²z¬ÛÃö¡B¼Æ¾Ç¤Î¹qºâ¾÷¬ì¾Ç¾Ç¬ìÃþ¡B¸ê°T¤uµ{¬ÛÃö¡A¤u§@¸g¾ú¤£©ë
+2. ¼ô±x Linux ¤Î Python µ{¦¡¶}µo»P²Ä¤T¤è®M¥ó®w¤Þ¥Î¸gÅç
+3. ¼ô±x SQL ¸ê®Æ®w»yªk¡A¹ï¸ê®Æ®w®Õ¯à½Õ®Õ¦³¿³½ì
+4. ¼ô±x Git ª©¥»±±¨î¡A¹ïCI/CD ¬yµ{ºÞ²z¦³¿³½ì
+5. ²¤À´¸ê°T¦w¥þ¤Îºô¸ô¶Ç¿é¬ÛÃö°òÂ¦ª¾ÃÑ 1.°òÂ¦¸ê®Æ¤ÀªR(»â°ì¸ê®Æ¬}±x¡B¯S¼x¿ï¾Ü¡B¸ê®Æ«e³B²zµ¥)
+2.¾÷¾¹¾Ç²ßÀ³¥Î³nÅé²£«~»P±M®×¶}µo
+3.¶}µo¤Î§ï¨}¾÷¾¹¾Ç²ß©Îºtºâªk
+4.ºtºâªk¹êÅç³]­p¨­³B¼Æ¦ìª÷¿ÄÂà«¬¦~¥Nªº§A¡A·Q­n¦b³o­ÓÂ½Âàªº®É¥Nªî¤W¤@¨¤¡H ¹ï¥¨¶qµ²ºc¤Æ¸ê®Æ¡B¥bµ²ºc¤Æ¸ê®Æ¬Æ¦Ü«Dµ²ºc¤Æ¸ê®Æªº¤ÀªR¡B³B²z»PÀx¦s¬O§_¨ã¦³°ª«×¿³½ì¡H ¹ï¥´³y¾÷¾¹¾Ç²ß¥­¥x¤Î¨t²Î³nÅé®Ø¬[¬O§_¨ã¦³¤@ªÑ¼ö¦å¡H ¬O§_¦³ºØ½Ä°Ê·Q¬D¾Ô§â¾÷¾¹¾Ç²ß«Øºc¦b¤À´²¦¡¨t²Î¤Î·LªA°È¨t²Î (docker)¤§¤W ¡H ·Q­n¬D¾Ô¬Û¦P¸ê®Æ®w¸ê·½¤Uºë¬ü¤S°ª®Ä²vªº SQL »yªk¡H ¹ï open source ¦³ªÑ²ö¦Wªº¨g¼ö¡A·Q­n§Q¥Î open source  °µ¤@µf¨Æ·~¡H ¦Û°Ê¤Æ´ú¸Õ¤Î¦Û°Ê¤Æ§G¸p¤Wª©¾÷¨î¡A¥¿¬O§A®³¤âªº¶µ¥Ø¡H§A¬Oµ½©ó¤ÀªR°ÝÃD»P¸Ñ¨M¡A©Î¦³§Ó·Q­n¬D¾Ô¥¨¶q¸ê®Æªº³B²z¡H §A¬O Python ¤¤ªºÂ¼·¡¡H 
+
+¨S¿ù¡A³o¨Ç³£¬O§Ú­Ì·Q­n§äªº¤H¤~¡A´N¬O§A¡AÅwªï§A¨Ó¥[¤J¥É¤s´¼¯àª÷¿Ä³B¡I 
+
+°£¤F¥H¤W¡A§AÁÙ¦³¾÷·|¡A°Ñ»P¾÷¾¹¾Ç²ß (Machine Learning) ±M®×¶}µo¡B¸ê®Æ¯S¼x¤uµ{¡B³W¹º³]­p¦¸¥@¥N¾÷¾¹¾Ç²ß¥­¥xµo®i»PÂÅ¹Ïµ¥¥ô°È¡C 
+
+Â¾¯Ê±ø¥ó:
+1. ¤T¦~¥H¤W¨t²ÎºÞ²z¤ÎºûÅ@¸gÅç
+2. ¨ã³Æ§Þ³N¬[ºc³W¹º¯à¤O»P¨î©w§Þ³N³W½d¡A¥]¬A¤j¼Æ¾Ú¶Ç¿é¤Î­ÜÀxµ¥
+3. ¼ô±x Linux ¤Î Python µ{¦¡¶}µo»P²Ä¤T¤è®M¥ó®w¤Þ¥Î¸gÅç
+4. ¼ô±x SQL ¸ê®Æ®w»yªk¤Î®Õ¯à½Õ®Õ
+5. ¼ô±x Git ª©¥»±±¨î¤Î CI/CD ¬yµ{ºÞ²z
+6. ²¤À´¸ê°T¦w¥þ¤Îºô¸ô¶Ç¿é¬ÛÃö°òÂ¦ª¾ÃÑ 1. Linux / Bash ½sµ{¡C
+2. °w¹ï²{¦³¼Ò«¬©Î¨t²Î´£¥X¬Û¹ïÀu¤Æªº¤èªk¡C
+3. À³¥Î¾÷¾¹¾Ç²ßºtºâªk©ó»y­µ°T¸¹/¦ÛµM»y¨¥ªº¤ÀªR¡C
+4. ¶}µo¯«¸gºô¸ôªº¹w´ú¼Ò«¬¡C
+5. ¾÷¾¹¾Ç²ßºtºâªkªºIC Porting¡C¦Û°Ê¤Æ¤H¤~(CIM/¾÷¾¹¾Ç²ß/²`«×¾Ç²ß/¼v¹³¿ëÃÑ/¨t²Î¾ã¦X)-ÁÜ½Ð±zªº¥[¤J-
+
+
+¡iÂ¾¯Ê¤@¡j-CIM±M·~¤H¤~(¾÷¥x¦Û°Ê¤Æ)
+¡· EAP SECS/GEM ¾÷¥x¦Û°Ê¤Æµ{¦¡¶}µo
+¡· CIM¨t²ÎªººûÅ@¡B¤ä´©¡B§ïµ½ 
+¡· ¥ý¶i»sµ{»Ý¨D¸Ñ¨M¤è®×µû¦ô¤Î´£¨Ñ 
+
+
+¡iÂ¾¯Ê¤G¡j-³nÅé¶}µo¤uµ{®v(¾÷¾¹¾Ç²ß/¼v¹³³B²z)
+¡· ¾÷¾¹¾Ç²ß¡B²`«×¾Ç²ß¡B¼v¹³¿ëÃÑ³nÅé¶}µo
+¡· ªí­±DefectÀË´ú®Ä²v´£¤É±M®×
+
+
+¡iÂ¾¯Ê¤T¡j-Webµ{¦¡³]­p¤uµ{®v
+¡· ¥Í²£ºÞ²z¨t²Î(§t³øªí)¶}µo»PºûÅ@
+¡· CIM Report«Ø¸m³W¹º»P°õ¦æ(Web«e«áºÝ³W¹º«Ø¸m)
+¡· ¥Í²£¦Û°Ê¤Æ¨t²Î³W¹º»P°õ¦æ
+
+¡·¨Ì¾Ç¸g¾ú¡B¬ì¨t¡B¸gÅç¬ÛÃö©Ê¡B¯S®í»Ý¨DÃÒ·Ó¤Î±Mªøµ¥±ø¥ó®Ö±Ô­Ó¤HÁ~¸ê¡C
+¡·¸Ô²Ó»¡©ú½Ð°Ñ¦UÂ¾¯Ê¥Zµn¤º®e
+¡i§A·|¦b Positive Grid °µ¨Ç¤°»ò¡j
+
+- ±N marketing, product ºÝ¤£¦P domain ªº»Ý¨D¸Ñºc¦¨§Þ³N¥Ø¼Ð
+- »â¾É machine learning RD, DSP ¤uµ{®v, ¥H¤Î PM specialist ¹ê²{ one-man-band ¥H¤Î¨ä¥L­µ¼Ö¶µ¥Øªº¨Ï¥Î±¡¹Ò
+- »P IT ¥H¤Î App ¤uµ{®v¦X§@ UX »P data pipeline
+
+¡i§Ú­Ì»Ý­n³o¼Ëªº§A¡j
+
+- ¼ô±x Tensorflow/keras ©Î pytorch
+- 3 ¦~¥H¤W Deep learning ¾Ç²ß»P¹ê§@¸gÅç
+- 2 ¦~¥H¤W¾÷¾¹¾Ç²ß¬ÛÃö²£·~·¾³q¸gÅç 
+- 2 ¦~¥H¤W³nÅé¶}µo¥DºÞ¸gÅç
+- ¼ô±x ML model ³]­p¡B°V½m
+- ¸ê°T¡B¹q¾÷¡B¼Æ¾Ç©Î¬ÛÃö¬ì¨tºÓ¤h¾Ç¾ú
+- ¼ô±x colab ¨Ï¥Î
+- ¹ï­µ¼Ö§@¦±¡B¥Í¦¨¡B»y­µ³B²z¡B¼Ö­µ¦X¦¨¦³¸gÅçªÌ ¨Î
+- ¼ô±x GAN¡BTransformer¡BVAE¡BBERT®a±Ú¡BGPT¨t¦C µ¥ ¨Î
+- ¼ô±x¼Æ¦ì°T¸¹³B²z ¨ÎJob Description
+1.  ³]­p©M«Øºc°ò©ó Artificial Intelligence (AI, ¤H¤u´¼¼z) / Machine Learning (ML, ¾÷¾¹¾Ç²ß) / Deep Learning (DL, ²`«×¾Ç²ß) ºtºâªkªº¨t²Î¥­¥x¡C
+2.  ¹B¥Î±ÀÂË¨t²Î/ Text Mining / Geomatics Analysis / ¼v¹³¿ëÃÑºtºâªk¡A¨ó§U¤½¥q¶}µo¬ÛÃöÀ³¥Î»P¾ã¦X¡C
+3. ­t³d¼Ò«¬°V½m¡B®Ø¬[»P°Ñ¼Æ½Õ¾ã¡C
+4. »P IT ·¾³q»P¨ó§@¸ê®Æ¤ÀªR¨t²Î«Ø¥ß¡C
+
+
+Qualifications & Education Requirements
+1. ¸ê°T¤uµ{ / ¹q¾÷¤uµ{µ¥¸ê°T¬ì¾Ç¬ÛÃö»â°ìºÓ¤h¥H¤W¾Ç¦ì¡C
+2. ºÓ¤h½×¤å»Ý»P¸ê®Æ¬ì¾Ç»â°ì¬ÛÃö©Î´¿µoªí¹L¬ÛÃö´Á¥Z¤å³¹¡C
+3. ¨ã³Æ¨}¦nªº¾\Åª°ê»Ú´Á¥Z¤§¯à¤O¡C
+
+
+Preferred Skills
+1. ¨ã³Æ°ª®Ä²vªº Python / C / C++ µ¥½s¼gµ{¦¡¹ê²{ºtºâªk¡C
+2. ¾Õªø±ÀÂË¨t²Î / Geomatics Analysis / ¼v¹³¿ëÃÑ / NLP / Text Mining ¦Ü¤Ö¤@ºØ¥H¤Wªººtºâªk¶}µo¡C
+3. ¦Ü¤Ö¼ô±x¤@ºØ¥D¬y DL ®Ø¬[ / ML ºtºâªk¡A¥]§t¦ý¤£­­©ó TensorFlow, PyTorch, YOLOv3, Caffe, MXNet, CNTK, Keras, MLlib¡C
+4. ¨ã¥ô¤@¶³ºÝ¥­¥x ( AWS / GCP / Azure) »P Spark / Hadoop / PySpark ±M®×¹Bºâ¸gÅç¡C
+5. ¯à¼ô½m¾Þ§@ RDBMS, NoSQL¡C
+6. ¾Õªø¹Î¶¤¦X§@¥B¨ã¿W¥ß¸Ñ¨M°ÝÃDªº¯à¤O¡C1. ¯à¹ê§@¼Æ¾Ú¤ÀªR¡A±N·P´ú¾¹¦¬¶°¼Æ¾Ú¶i¦æ¹w´ú¡B¤À¸s¤Î¤ÀÃþµ¥¤ÀªR¡C
+2. ¯à°÷¿W¥ß¶i¦æETLµ¥¬ÛÃö§@·~§t¡G¸ê®Æ²M¬~¡B«ØÀÉ
+3. ¯à°÷¹ê§@¦U¦^Âk¤Î¤ÀÃþ¾÷¾¹¾Ç²ß¼Ò«¬¡Gex¡GSVM¡BLightGBM¡BXGBoost
+4. ¯à°÷¹ê§@²Î­p¤èªk¡Gex¡GFactor Analysis¡AANOVA
+
+
+
+­Y±zªºÅÞ¿è²M´·¡B¨ã³Æ¹Bºâ«äºû¯à¤O¡A¥B¹ïAI/¾÷¾¹¾Ç²ß«Ü¦³¿³½ì¡BÂQ©¹¥HAI/¾÷¾¹¾Ç²ß¬ÛÃö¶}µo¤u§@¬°²×¨­§Ó·~¡A¦ý¬OÁÙ¨S¦³¬ÛÃö¤u§@¸gÅç¡B¬Æ¦Ü¤£¬O¬ÛÃö¬ì¨t²¦·~¦ý¦Û¾Ç¦³¦¨¡A³£Åwªï±z¨ÓÀ³¼x³o­ÓÂ¾°È¡C¥u­n±z¦³¨M¤ß¡A§Ú­Ì·|¦³Mentor¤Þ¾É±z¡BÅý±z¦b¹ê°È¤u§@¤¤¾Ç²ß¡A¦¨¬°¥ÎÂù¤â³Ð³y§ïÅÜªºÀu¨q¬ãµo¤uµ{®v¡C
+
+­n¨D:
+1. ¨ã³Æ¾÷¾¹¾Ç²ß»P²`«×¾Ç²ß²z½×°òÂ¦
+2. ¨ã³Æ¼Æ­È¤ÀªR¡B²Î­p¾Ç¡B½u©Ê¥N¼Æ¬ÛÃö·§©À
+3. ¹ï©ó¥­¦æ¹Bºâ¡B¤À´²¦¡¹Bºâ¡BÂO¶°¹Bºâ¦³°òÂ¦·§©À
+4. ¤ÀªRµ²ªG¥iµø¤Æ»P¸ÑÄÀ¯à¤Oªº¬ÛÃö¸gÅç
+5. Python¶}µo¯à¤O
+6. ¨}¦nªº¹Î¶¤¦X§@»P·¾³q¯à¤O¼ô±x¤H¤u´¼¼z©Î¬O¾÷¾¹¾Ç²ßºtºâªk¶}µo¡C
+¨ó§U¶}µo¾÷¾¹¾Ç²ßºtºâªkÀ³¥Î¡C
+
+
+
+ 
+¥»¤½¥q¬O¥Ñ¤@¸s´¿¥ôÂ¾°ê»Ú³nÅé¤j¼t»P°ª¬ì§Þ»s³y·~¤Q¦h¦~ªº±M®a©Ò³Ð¥ß¡C§Ú­Ì«D±`¼ô±x¥ø·~Àç¹B¨t²Î¡Bª«ÁpºôÀ³¥Î¡B¥H¤Î³]³Æ/«H®§/¦Û°Ê¤Æ/¤u¼tºÞ²zµ¥¬ÛÃö§Þ³N¡A§Æ±æ¹B¥Î¹L¥h²Ö¿nªº¥ø·~»P¤u¼tºÞ²z¤Îª«ÁpºôÀ³¥Î¸gÅç¡A·f°t¦Û¥D¬ãµoªºAI¾÷¾¹¾Ç²ß§Þ³N¥­¥x¡A¨ó§U¥ø·~¥H¦X²zªº¦¨¥»¡B§Ö³t¦a¾É¤J°ª»ù­È¸ê°T¨t²Î¡A¸Ñ¨M¤u¼tºÞ²z°ÝÃD¡A´£¤É¤u¼t®Ä¯à¡A¹F¨ì´¼¯à¤Æ¤u¼tªº¥Ø¼Ð¡C
+
+§Ú­Ì§Æ±æ©Û¶Ò¼Æ¦W¦~»´·s¦å¡A¨Ã¤£ÄY®æ­n¨D±zªº¤u§@¸gÅç¡A¥u­n±z§Þ³N©³¤l¦n¡BÀY¸£ÆF¬¡¡B¥Rº¡¾Ç²ß·s¨Æª«ªº·F«l¡AÄ@·N±µ¨ü¬D¾Ô¥B§ÜÀ£©Ê°ª¡A¹ï©ó¤u·~ª«Ápºô¡BAI¾÷¾¹¾Ç²ß¡B³nÅé¥Í©R¶g´Á¥­¥xµ¥³Ì·s§Þ³Nªº¤u·~À³¥Î«D±`¦³¿³½ì¡A³£Åwªï¥[¤J§Ú­Ì! ¥»¤½¥qÁö¬O·s³Ð¥ø·~¡A¦ý§Ú­Ìªº«È¤á³£¬O¨â©¤ªº¤j«¬»s³y·~¡A°£¤FÅý±z¯à¬ã¨s·s§Þ³NÀ³¥Î¤§¥~¡AÁÙ¯à²ß±o¤@¯ë¤H«ÜÃø¦³¾÷·|²`¤J¸IÄ²ªº»s³y·~»â°ìª¾ÃÑ¡A§Ú­Ì´£¨ÑÀu´ìªº°_Á~¡B¥ú©úªº¥¼¨Ó¡A¸Û¼°ÁÜ½Ð±z¦¨¬°§Ú­Ìªº¤@¥÷¤l¡C
+
+¥»Â¾°È¥D­n¤u§@·|°Ñ»PAI¾÷¾¹¾Ç²ßWeb-based¥­¥x¶}µo¤u§@¡A°ò¥»±ø¥ó­n¨D:
+1. ¼ô±xHTML5/CSS3/ES6+(Javascript)
+
+¨ã³Æ¥H¤U¯à¤O¤×¨Î:
+1. ¨Ï¥Î¹L¤U¦C¥ô¤@®Ø¬[ Vue/React/Angular (Vue¤×¨Î)
+2. ¨ã³ÆHTTP¨óÄ³ªº°òÂ¦ª¾ÃÑ1.	²`«×¾Ç²ß¼Ò«¬¸ê®Æ·j¶°, ²M²z, ¼Ð°O, °V½m, µû¦ô»PÀu¤Æ
+2.	¹q¸£µøÄ±¬ÛÃö¤§²`«×¾Ç²ßºtºâªk¶}µo»P¾ã¦X
+
+
+¥»¤½¥q¬O°ê¤º±Mª`¦b«Dµ²ºc¸ê®Æ³B²zªº»â¾É¼t°Ó¡A¦bªÀ¸sºÊ´ú¡B»y·N¤ÀªR¡B¤Î¥ø·~·j´MÀ³¥Î¤W§¡¦³³Ì°ªªº¥«¥e²v¡C¦]¦¹¡A±NÁÜ½Ð¼ô±x¤H¤u´¼¼z/¾÷¾¹¾Ç²ß/»y·N¤ÀªRªº¤H¤~¥[¤J¡C¤u§@¤º®e¦p¤U¡G
+
+1 ¦bRD³¡ªù­t³d®Ö¤ßµ{¦¡¶}µo¡A¥]¬A¬[ºc¤Î³]­p
+2 ¶}µo»â°ì¬°¾÷¾¹¾Ç²ß¤Î»y·N¤ÀªR (machine learning, language processing, semantic analysis)
+3 ¹ï¤H¤u´¼¼z, ­pºâ»y¨¥¾Ç, »{ª¾¬ì¾Ç¦³¿³½ìªÌ¤×¨Î
+4 »Ý¹ê»Ú¶}µoµ{¦¡¤Î¶i¦æ¦UºØ¹êÅç¡u¥x¹F¬ã¨s°|¡v¦¨¥ß©ó2013¦~¡A°£­P¤O©ó¤j¼Æ¾Ú¤ÀªR¤Îª«ÁpºôÀ³¥Î»P¸Ñ¨M¤è®×ªº¶}µo»P¾ã¦X¡A¥[³t¥ø·~Âà«¬¦¨¥\¡A¤]¿n·¥»P²£©x¾Ç¬ã¥ÍºAÅé¨t¨ó§@¡A¥H¶}©ñ³Ð·s¼Ò¦¡¡A³Ð³y¦hÄ¹¥ÍºA°é¡C
+
+ ¥»Â¾¯Ê¥D­n¤u§@¤º®e¥]§t¦ý¤£­­©ó:
+1. ­t³d³]­p»P¶}µo¼v¹³¬ÛÃö¤§¹q¸£µøÄ±»P¾÷¾¹¾Ç²ß§Þ³N
+2. ¨ó¦P¶}µo¡B§G«Ø©M´ú¸Õ¸Ñ¨M¤è®×©óÀ³¥Î³õ°ì
+3. ¨Ì±M®×»Ý¨D¬ãÅª¾÷¾¹¾Ç²ß§Þ³N©óÂåÀø¬ÛÃöÀ³¥ÎÄ³ÃD
+1.¾÷¾¹¾Ç²ß¡B²`«×¾Ç²ß¡B¼v¹³¿ëÃÑ³nÅé¶}µo
+2.ªí­±DefectÀË´ú¶}µo/®Ä²v´£¤É±M®×
+3.CIM/MES¨t²Î¤ÎAI¨t²Î¾ã¦X
+
+¡·¨Ì¾Ç¸g¾ú¡B¬ì¨t¡B¸gÅç¬ÛÃö©Ê¡B¯S®í»Ý¨DÃÒ·Ó¤Î±Mªøµ¥±ø¥ó®Ö±Ô­Ó¤HÁ~¸ê¡C
+1. Behavior analysis
+2. Object detection¡Btracking
+3. Object attribute
+4. Pose estimation & action recognition
+5. Segmentation
+
+¾Õªø¤u¨ã:C¡BC++¡BPython
+¨ä¥L±ø¥ó:
+¨ã³Æ¶}µo¹q¸£µøÄ±»P¾÷¾¹¾Ç²ß¬ÛÃöºtºâªk¸gÅç¡A±N¼v¹³¸g¥Ñ¦³®Ä²v¤ÀªR«á±o¨ì¦³¥Îªº¸ê°T¤º®e§Ú­Ì¬O CLICKFORCE Åwªï±z¥[¤J§Ú­Ì
+§Ú­Ì¥¿¦b©Û¶Ò¹ï¶}µo¥Rº¡¼ö±¡ªº¤uµ{®v¹Î¶¤!!
+
+¥D­n¤u§@¤º®e»P±ø¥ó¡G 
+1.	¼¶¼g¤ÎºûÅ@ºô¸ôª¦ÂÎµ{¦¡¡A¥HÂ^¨úºô¸ô¤å³¹¤å¦r¸ê®Æ
+2.	¸ê®Æ²M¬~¡A¾ã²z
+3.	¨Ï¥Îºô¸ôª¦ÂÎÂ^¨úªº¸ê®Æ«Øºc¾÷¾¹¾Ç²ß¼Ò«¬¡A¥H¤ÀªR¨Ï¥ÎªÌ¸ê®Æ
+4.	¨Ï¥Îºô¸ô¨Ï¥ÎªÌÂsÄý¸ê®Æ«Ø¸m¹w´ú¼Ò«¬¡A¹w´úºô¸ô¨Ï¥ÎªÌÂIÀ»¼s§i·N¹Ï
+5.	¨ó§U½s¼g¨Ï¥ÎªÌ¤À¸sµ{¦¡
+6.     ³z¹LºÊ·þ¦¡¾Ç²ß©Î²`«×¾Ç²ß¶i¦æ¹Ï¹³¿ëÃÑ¸ê®Æ
+
+©Ò»Ý±Mªø
+1.	¼ô±xPythonµ{¦¡»y¨¥¡A¥]§tpandas, BeautifulSoup, numpy, sklearn, Gensimµ¥¼Ò²Õ
+2.	¼ô±xLinux, SQL
+
+¥[¤À±Mªø
+1.     ¦³¨Ï¥ÎGCP (BigQuery, Cloud Storage, Compute Engine), AWS (Athena, S3)µ¥ªA°È
+2.      ²Î­p¾Ç±Mªø
+3.       ¹Ï¹³¿ëÃÑ±M®×¸gÅç¨Îªx¬ìª¾ÃÑ¥Hª¾ÃÑ±À¼s¤Î±Ð¨|³Ð·s¬°²z©À¡A­P¤O©óÅý¤Ñ¤U¨S¦³Ãø¾Çªºª¾ÃÑ¡CºX¤UPansciªx¬ì¾Ç¬O¥xÆW³Ì¤j¥B³Ì³Q«H¿àªº¬ì¾ÇªÀ¸s¡A³z¹LªÀ¸sÀW¹D¤Î¦Û«Ø¥­¥x¶i¦æ¤º®e¦æ¾P¡A±À°Ê¬ì´¶¤å¤Æ¡C¡u¬ì¾Ç¥Í¡v¬O±M¬°°ê¤¤¥Í¥´³yªº¬ì´¶¾\Åª¥­¥x¡A»P«n¤@®Ñ§½¡B¬ì¾Ç¤ë¥Z±j±jÁp¤â¡A°ö¾i«Ä¤lªº¬ì¾Ç¯À¾i¡CÅwªï»{¦Pªx¬ì²z©À¡A¼_¼ô¥­¥x¶}µo§Þ³Nªº¦n¤â¥[¤J¡A»P§Ú­Ì¤@°_³z¹L¨t²Î¤Æ¤Î´¼¯à¼Æ¾Ú¡A¦V¥¼¨Óª¾ÃÑÂà°Ê¡C
+
+1. °Ñ»P¼Æ¦ì¾Ç²ß¥­¥x¨t²Î³]­p¡B¶}µo»PºûÅ@
+2. ¨ãPHP¶}µo¸gÅç (¼ô±x WordPress «È»s¶}µo¤×¨Î¡^
+3. ¼ô±xRDBMS©Î¨ã³ÆNoSQL¶}µo¸gÅç
+4. ¨ã³ÆRESTful API ¶}µo¸gÅçªÌ¤×¨Î
+5. ¦³¥ø·~¶³ºÝ¥­¥x(¦pAWS, GCPµ¥)¨Ï¥Î¸gÅçªÌ¤×¨Î
+
+Åwªï³ß·RÁú°ê¬y¦æ¨Æ°È©Î¹ï±m§©/Áô§Î²´Ãè/¦³¿³½ìªº¤H¡A¤@¦P¥[¤J§Ú­Ìªº¹Î¶¤¡I
+
+¡°¦¹Â¾¯Ê¬°µu´ÁÁ{®ÉÂd¤H­û¡A¤u§@´Á¶¡¬°§Y¤é°_~110¦~5¤ë¤¤
+
+1.ÅU«È±µ«ÝªA°È¤Î°â«áªA°È¡C
+2.Áô§Î²´Ãè°Ó«~¤¶²Ð¡B¾P°â»P¥]¸ËªA°È¡C
+3.ªù¥«°Ó«~³¯¦C¡B®w¦sºÞ²z¡C
+4.ªù¥«©±°È¸gÀç¡B±À°Ê©±·~ÁZ¤§¥Ø¼Ð¹F¦¨¡C
+5.·|­ûºÞ²z¡A¬ÛÃö¦æ¬F§@·~ ¡C
+6.°¸¶·°t¦Xªù¥«½ü½Õ»P¤ä´©¡C¡¯¡¯¡¯2020¦~6¤ë ¥þ·s±Ò¥Î¥xÆW©Ð¥ò·~°ß¤@¡A±¡¹Ò¦¡°ª¶¥±M·~°V½m¤¤¤ß¡¯¡¯¡¯ 
+¡°¥xÆW©Ð¥ò·~°ß¤@¡A³z¹L±¡¹Ò¦¡¼ÒÀÀµ²¦XAI´¼¼z¡B¹ê¹ÒÂX¥R¤¬°Ê°V½m¡A¨ó§U·s¤H§Ö³t±M·~¤É¯Å¡AÀu½èªA°È«È¤á¡A»â¥ý¦P·~¶Ç²Î°V½m¡C  
+¡°·~¬É°ß¤@¡A¥¸¸ê¤W»õ´£¨Ñ´¼¼z«¬°V½m¤¤¤ß¡Ï±¡¹Ò°ª¶¥°V½m½Òµ{¡AÅý·s¤H¦¨¬°©Ð¦a²£³»¦y±M·~¤H¤~¡C 
+ 
+1. °ê¤º¤£°Ê²£¶R½æ±M·~ªA°È  
+2. ¥þÄÖ¤Æ¤£°Ê²£§ë¸êºÞ²zªA°È 
+3. «O»Ù«È¤á¬ÛÃö°â«áªA°È(¿ç®g¡B®ü¬â¹w¨¾ÀË´ú)¥Ñ¤½¥q±M®×´£¨Ñ  
+4. ¥xÆW©Ð«Îª½Àçªù¥«¿ý¨ú¡A¥H¤Î¦U¶¥¬q¤É¾E¡A§¡¦³¦Ò¸Õ¨î«×´£¤É±M·~«~½è1. ¶i®Æ¹s¥óÀËÅç¡B»s³y¹Lµ{¤¤»sµ{¨µÀË¡B¥X³fÀËÅç¡B¹ê¬I«~ºÞ­pµe¡C
+2. ­ìª«®Æ¦¨«~Åç¦¬¡B«~«O³ø§i»s§@¡B«~«Oªí³æºÞ²zµ¥¡C
+3. ºûÅ@¡B§ó·s¡B³B²z¦UÃþ¤å¥óÀÉ®×©M¸ê®Æ®w¨t²Î¤Î¤½¥q¥æ¿ì¨Æ¶µ¡C 
+4. ¨ãµø¹Ï¯à¤O¡]¤uµ{¹Ï¡^¡C 
+5. ¼ô±x¥Í²£ª«®ÆºÞ²z¬yµ{ªÌ¨Î ¡C
+6. »Ý­n¨ã¦³¶}¨®¯à¤O,°t¦X°ê¤º¥X®t¡C¡¯¡¯¡¯2020¦~6¤ë ¥þ·s±Ò¥Î¥xÆW©Ð¥ò·~°ß¤@¡A±¡¹Ò¦¡°ª¶¥±M·~°V½m¤¤¤ß¡¯¡¯¡¯
+¡°¥xÆW©Ð¥ò·~°ß¤@¡A³z¹L±¡¹Ò¦¡¼ÒÀÀµ²¦XAI´¼¼z¡B¹ê¹ÒÂX¥R¤¬°Ê°V½m¡A¨ó§U·s¤H§Ö³t±M·~¤É¯Å¡AÀu½èªA°È«È¤á¡A»â¥ý¦P·~¶Ç²Î°V½m¡C
+¡°·~¬É°ß¤@¡A¥¸¸ê¤W»õ´£¨Ñ´¼¼z«¬°V½m¤¤¤ß¡Ï±¡¹Ò°ª¶¥°V½m½Òµ{¡AÅý·s¤H¦¨¬°©Ð¦a²£³»¦y±M·~¤H¤~¡C
+
+1. °ê¤º¤£°Ê²£¶R½æ±M·~ªA°È
+2. ¥þÄÖ¤Æ¤£°Ê²£§ë¸êºÞ²zªA°È
+3. «O»Ù«È¤á¬ÛÃö°â«áªA°È(¿ç®g¡B®ü¬â¹w¨¾ÀË´ú)¥Ñ¤½¥q±M®×´£¨Ñ
+4. ¥xÆW©Ð«Îª½Àçªù¥«¿ý¨ú¡A¥H¤Î¦U¶¥¬q¤É¾E¡A§¡¦³¦Ò¸Õ¨î«×´£¤É±M·~«~½è1. §Q¥Î¸ê®Æ¤ÀªR¤Î¾÷¾¹¾Ç²ß¶i¦æ¥É¤sª÷±±¤º³¡ / ¥~³¡±¡¶Õµû¦ô¤Î°ÝÃDµo²{
+2. ¨ó§U·~°È³æ¦ì§Q¥Î¸ê®Æ¤ÀªR©Î¾÷¾¹¾Ç²ß¸Ñ¨MÃöÁä¬ì§ÞÄ³ÃD¡A¨Ã´£¨Ñ¨Mµ¦«ØÄ³
+
+­Y±z¹ï¦¹Â¾¯Ê¦³¿³½ì¡A½Ð¦Ü¡u¥É¤sµ×­^ºÂ¿ïºô¯¸¡v¶ñ¼g¼i¾ú
+¡iºô§}¡Ghttps://hr.esunfhc.com/Recruitment/Home/Account?hrcontact&oneofour ¡j¡A¦p¸g¥DºÞ¼f®Ö³q¹L¡A±NÁÜ½Ð±z°Ñ¥[­±½Í¡AÁÂÁÂ¡I1. °òÂ¦¸ê®Æ¤ÀªR(»â°ì¸ê®Æ¬}±x¡B¯S¼x¿ï¾Ü¡B¸ê®Æ«e³B²zµ¥)
+2. ¾÷¾¹¾Ç²ßÀ³¥Î³nÅé²£«~»P±M®×¶}µo
+¨­³B¼Æ¦ìª÷¿ÄÂà«¬¦~¥Nªº§A¡A·Q­n¦b³o­ÓÂ½Âàªº®É¥Nªî¤W¤@¨¤¡H ¹ï¥¨¶qµ²ºc¤Æ¸ê®Æ¡B¥bµ²ºc¤Æ¸ê®Æ¬Æ¦Ü«Dµ²ºc¤Æ¸ê®Æªº¤ÀªR¡B³B²z»PÀx¦s¬O§_¨ã¦³°ª«×¿³½ì¡H ¹ï¥´³y¾÷¾¹¾Ç²ß¥­¥x¤Î¨t²Î³nÅé®Ø¬[¬O§_¨ã¦³¤@ªÑ¼ö¦å¡H ¬O§_¦³ºØ½Ä°Ê·Q¬D¾Ô§â¾÷¾¹¾Ç²ß«Øºc¦b¤À´²¦¡¨t²Î¤Î·LªA°È¨t²Î (docker)¤§¤W ¡H ·Q­n¬D¾Ô¬Û¦P¸ê®Æ®w¸ê·½¤Uºë¬ü¤S°ª®Ä²vªº SQL »yªk¡H ¹ï open source ¦³ªÑ²ö¦Wªº¨g¼ö¡A·Q­n§Q¥Î open source  °µ¤@µf¨Æ·~¡H ¦Û°Ê¤Æ´ú¸Õ¤Î¦Û°Ê¤Æ§G¸p¤Wª©¾÷¨î¡A¥¿¬O§A®³¤âªº¶µ¥Ø¡H§A¬Oµ½©ó¤ÀªR°ÝÃD»P¸Ñ¨M¡A©Î¦³§Ó·Q­n¬D¾Ô¥¨¶q¸ê®Æªº³B²z¡H §A¬O Python ¤¤ªºÂ¼·¡¡H 
+¨S¿ù¡A³o¨Ç³£¬O§Ú­Ì·Q­n§äªº¤H¤~¡A´N¬O§A¡AÅwªï§A¨Ó¥[¤J¥É¤s´¼¯àª÷¿Ä³B¡I 
+°£¤F¥H¤W¡A§AÁÙ¦³¾÷·|¡A°Ñ»P¾÷¾¹¾Ç²ß (Machine Learning) ±M®×¶}µo¡B¸ê®Æ¯S¼x¤uµ{¡B³W¹º³]­p¦¸¥@¥N¾÷¾¹¾Ç²ß¥­¥xµo®i»PÂÅ¹Ïµ¥¥ô°È¡C 
+
+
+Â¾¯Ê±ø¥ó:
+1. ºÓ¤h¸ê°TºÞ²z¬ÛÃö¡B¼Æ¾Ç¤Î¹qºâ¾÷¬ì¾Ç¾Ç¬ìÃþ¡B¸ê°T¤uµ{¬ÛÃö¡A¤u§@¸g¾ú¤£©ë
+2. ¼ô±x Linux ¤Î Python µ{¦¡¶}µo»P²Ä¤T¤è®M¥ó®w¤Þ¥Î¸gÅç
+3. ¼ô±x SQL ¸ê®Æ®w»yªk¡A¹ï¸ê®Æ®w®Õ¯à½Õ®Õ¦³¿³½ì
+4. ¼ô±x Git ª©¥»±±¨î¡A¹ïCI/CD ¬yµ{ºÞ²z¦³¿³½ì
+5. ²¤À´¸ê°T¦w¥þ¤Îºô¸ô¶Ç¿é¬ÛÃö°òÂ¦ª¾ÃÑ 1.°òÂ¦¸ê®Æ¤ÀªR(»â°ì¸ê®Æ¬}±x¡B¯S¼x¿ï¾Ü¡B¸ê®Æ«e³B²zµ¥)
+2.¾÷¾¹¾Ç²ßÀ³¥Î³nÅé²£«~»P±M®×¶}µo
+3.¶}µo¤Î§ï¨}¾÷¾¹¾Ç²ß©Îºtºâªk
+4.ºtºâªk¹êÅç³]­p¨­³B¼Æ¦ìª÷¿ÄÂà«¬¦~¥Nªº§A¡A·Q­n¦b³o­ÓÂ½Âàªº®É¥Nªî¤W¤@¨¤¡H ¹ï¥¨¶qµ²ºc¤Æ¸ê®Æ¡B¥bµ²ºc¤Æ¸ê®Æ¬Æ¦Ü«Dµ²ºc¤Æ¸ê®Æªº¤ÀªR¡B³B²z»PÀx¦s¬O§_¨ã¦³°ª«×¿³½ì¡H ¹ï¥´³y¾÷¾¹¾Ç²ß¥­¥x¤Î¨t²Î³nÅé®Ø¬[¬O§_¨ã¦³¤@ªÑ¼ö¦å¡H ¬O§_¦³ºØ½Ä°Ê·Q¬D¾Ô§â¾÷¾¹¾Ç²ß«Øºc¦b¤À´²¦¡¨t²Î¤Î·LªA°È¨t²Î (docker)¤§¤W ¡H ·Q­n¬D¾Ô¬Û¦P¸ê®Æ®w¸ê·½¤Uºë¬ü¤S°ª®Ä²vªº SQL »yªk¡H ¹ï open source ¦³ªÑ²ö¦Wªº¨g¼ö¡A·Q­n§Q¥Î open source  °µ¤@µf¨Æ·~¡H ¦Û°Ê¤Æ´ú¸Õ¤Î¦Û°Ê¤Æ§G¸p¤Wª©¾÷¨î¡A¥¿¬O§A®³¤âªº¶µ¥Ø¡H§A¬Oµ½©ó¤ÀªR°ÝÃD»P¸Ñ¨M¡A©Î¦³§Ó·Q­n¬D¾Ô¥¨¶q¸ê®Æªº³B²z¡H §A¬O Python ¤¤ªºÂ¼·¡¡H 
+
+¨S¿ù¡A³o¨Ç³£¬O§Ú­Ì·Q­n§äªº¤H¤~¡A´N¬O§A¡AÅwªï§A¨Ó¥[¤J¥É¤s´¼¯àª÷¿Ä³B¡I 
+
+°£¤F¥H¤W¡A§AÁÙ¦³¾÷·|¡A°Ñ»P¾÷¾¹¾Ç²ß (Machine Learning) ±M®×¶}µo¡B¸ê®Æ¯S¼x¤uµ{¡B³W¹º³]­p¦¸¥@¥N¾÷¾¹¾Ç²ß¥­¥xµo®i»PÂÅ¹Ïµ¥¥ô°È¡C 
+
+Â¾¯Ê±ø¥ó:
+1. ¤T¦~¥H¤W¨t²ÎºÞ²z¤ÎºûÅ@¸gÅç
+2. ¨ã³Æ§Þ³N¬[ºc³W¹º¯à¤O»P¨î©w§Þ³N³W½d¡A¥]¬A¤j¼Æ¾Ú¶Ç¿é¤Î­ÜÀxµ¥
+3. ¼ô±x Linux ¤Î Python µ{¦¡¶}µo»P²Ä¤T¤è®M¥ó®w¤Þ¥Î¸gÅç
+4. ¼ô±x SQL ¸ê®Æ®w»yªk¤Î®Õ¯à½Õ®Õ
+5. ¼ô±x Git ª©¥»±±¨î¤Î CI/CD ¬yµ{ºÞ²z
+6. ²¤À´¸ê°T¦w¥þ¤Îºô¸ô¶Ç¿é¬ÛÃö°òÂ¦ª¾ÃÑ 1. Linux / Bash ½sµ{¡C
+2. °w¹ï²{¦³¼Ò«¬©Î¨t²Î´£¥X¬Û¹ïÀu¤Æªº¤èªk¡C
+3. À³¥Î¾÷¾¹¾Ç²ßºtºâªk©ó»y­µ°T¸¹/¦ÛµM»y¨¥ªº¤ÀªR¡C
+4. ¶}µo¯«¸gºô¸ôªº¹w´ú¼Ò«¬¡C
+5. ¾÷¾¹¾Ç²ßºtºâªkªºIC Porting¡C¦Û°Ê¤Æ¤H¤~(CIM/¾÷¾¹¾Ç²ß/²`«×¾Ç²ß/¼v¹³¿ëÃÑ/¨t²Î¾ã¦X)-ÁÜ½Ð±zªº¥[¤J-
+
+
+¡iÂ¾¯Ê¤@¡j-CIM±M·~¤H¤~(¾÷¥x¦Û°Ê¤Æ)
+¡· EAP SECS/GEM ¾÷¥x¦Û°Ê¤Æµ{¦¡¶}µo
+¡· CIM¨t²ÎªººûÅ@¡B¤ä´©¡B§ïµ½ 
+¡· ¥ý¶i»sµ{»Ý¨D¸Ñ¨M¤è®×µû¦ô¤Î´£¨Ñ 
+
+
+¡iÂ¾¯Ê¤G¡j-³nÅé¶}µo¤uµ{®v(¾÷¾¹¾Ç²ß/¼v¹³³B²z)
+¡· ¾÷¾¹¾Ç²ß¡B²`«×¾Ç²ß¡B¼v¹³¿ëÃÑ³nÅé¶}µo
+¡· ªí­±DefectÀË´ú®Ä²v´£¤É±M®×
+
+
+¡iÂ¾¯Ê¤T¡j-Webµ{¦¡³]­p¤uµ{®v
+¡· ¥Í²£ºÞ²z¨t²Î(§t³øªí)¶}µo»PºûÅ@
+¡· CIM Report«Ø¸m³W¹º»P°õ¦æ(Web«e«áºÝ³W¹º«Ø¸m)
+¡· ¥Í²£¦Û°Ê¤Æ¨t²Î³W¹º»P°õ¦æ
+
+¡·¨Ì¾Ç¸g¾ú¡B¬ì¨t¡B¸gÅç¬ÛÃö©Ê¡B¯S®í»Ý¨DÃÒ·Ó¤Î±Mªøµ¥±ø¥ó®Ö±Ô­Ó¤HÁ~¸ê¡C
+¡·¸Ô²Ó»¡©ú½Ð°Ñ¦UÂ¾¯Ê¥Zµn¤º®e
+¡i§A·|¦b Positive Grid °µ¨Ç¤°»ò¡j
+
+- ±N marketing, product ºÝ¤£¦P domain ªº»Ý¨D¸Ñºc¦¨§Þ³N¥Ø¼Ð
+- »â¾É machine learning RD, DSP ¤uµ{®v, ¥H¤Î PM specialist ¹ê²{ one-man-band ¥H¤Î¨ä¥L­µ¼Ö¶µ¥Øªº¨Ï¥Î±¡¹Ò
+- »P IT ¥H¤Î App ¤uµ{®v¦X§@ UX »P data pipeline
+
+¡i§Ú­Ì»Ý­n³o¼Ëªº§A¡j
+
+- ¼ô±x Tensorflow/keras ©Î pytorch
+- 3 ¦~¥H¤W Deep learning ¾Ç²ß»P¹ê§@¸gÅç
+- 2 ¦~¥H¤W¾÷¾¹¾Ç²ß¬ÛÃö²£·~·¾³q¸gÅç 
+- 2 ¦~¥H¤W³nÅé¶}µo¥DºÞ¸gÅç
+- ¼ô±x ML model ³]­p¡B°V½m
+- ¸ê°T¡B¹q¾÷¡B¼Æ¾Ç©Î¬ÛÃö¬ì¨tºÓ¤h¾Ç¾ú
+- ¼ô±x colab ¨Ï¥Î
+- ¹ï­µ¼Ö§@¦±¡B¥Í¦¨¡B»y­µ³B²z¡B¼Ö­µ¦X¦¨¦³¸gÅçªÌ ¨Î
+- ¼ô±x GAN¡BTransformer¡BVAE¡BBERT®a±Ú¡BGPT¨t¦C µ¥ ¨Î
+- ¼ô±x¼Æ¦ì°T¸¹³B²z ¨ÎJob Description
+1.  ³]­p©M«Øºc°ò©ó Artificial Intelligence (AI, ¤H¤u´¼¼z) / Machine Learning (ML, ¾÷¾¹¾Ç²ß) / Deep Learning (DL, ²`«×¾Ç²ß) ºtºâªkªº¨t²Î¥­¥x¡C
+2.  ¹B¥Î±ÀÂË¨t²Î/ Text Mining / Geomatics Analysis / ¼v¹³¿ëÃÑºtºâªk¡A¨ó§U¤½¥q¶}µo¬ÛÃöÀ³¥Î»P¾ã¦X¡C
+3. ­t³d¼Ò«¬°V½m¡B®Ø¬[»P°Ñ¼Æ½Õ¾ã¡C
+4. »P IT ·¾³q»P¨ó§@¸ê®Æ¤ÀªR¨t²Î«Ø¥ß¡C
+
+
+Qualifications & Education Requirements
+1. ¸ê°T¤uµ{ / ¹q¾÷¤uµ{µ¥¸ê°T¬ì¾Ç¬ÛÃö»â°ìºÓ¤h¥H¤W¾Ç¦ì¡C
+2. ºÓ¤h½×¤å»Ý»P¸ê®Æ¬ì¾Ç»â°ì¬ÛÃö©Î´¿µoªí¹L¬ÛÃö´Á¥Z¤å³¹¡C
+3. ¨ã³Æ¨}¦nªº¾\Åª°ê»Ú´Á¥Z¤§¯à¤O¡C
+
+
+Preferred Skills
+1. ¨ã³Æ°ª®Ä²vªº Python / C / C++ µ¥½s¼gµ{¦¡¹ê²{ºtºâªk¡C
+2. ¾Õªø±ÀÂË¨t²Î / Geomatics Analysis / ¼v¹³¿ëÃÑ / NLP / Text Mining ¦Ü¤Ö¤@ºØ¥H¤Wªººtºâªk¶}µo¡C
+3. ¦Ü¤Ö¼ô±x¤@ºØ¥D¬y DL ®Ø¬[ / ML ºtºâªk¡A¥]§t¦ý¤£­­©ó TensorFlow, PyTorch, YOLOv3, Caffe, MXNet, CNTK, Keras, MLlib¡C
+4. ¨ã¥ô¤@¶³ºÝ¥­¥x ( AWS / GCP / Azure) »P Spark / Hadoop / PySpark ±M®×¹Bºâ¸gÅç¡C
+5. ¯à¼ô½m¾Þ§@ RDBMS, NoSQL¡C
+6. ¾Õªø¹Î¶¤¦X§@¥B¨ã¿W¥ß¸Ñ¨M°ÝÃDªº¯à¤O¡C­Y±zªºÅÞ¿è²M´·¡B¨ã³Æ¹Bºâ«äºû¯à¤O¡A¥B¹ïAI/¾÷¾¹¾Ç²ß«Ü¦³¿³½ì¡BÂQ©¹¥HAI/¾÷¾¹¾Ç²ß¬ÛÃö¶}µo¤u§@¬°²×¨­§Ó·~¡A¦ý¬OÁÙ¨S¦³¬ÛÃö¤u§@¸gÅç¡B¬Æ¦Ü¤£¬O¬ÛÃö¬ì¨t²¦·~¦ý¦Û¾Ç¦³¦¨¡A³£Åwªï±z¨ÓÀ³¼x³o­ÓÂ¾°È¡C¥u­n±z¦³¨M¤ß¡A§Ú­Ì·|¦³Mentor¤Þ¾É±z¡BÅý±z¦b¹ê°È¤u§@¤¤¾Ç²ß¡A¦¨¬°¥ÎÂù¤â³Ð³y§ïÅÜªºÀu¨q¬ãµo¤uµ{®v¡C
+
+­n¨D:
+1. ¨ã³Æ¾÷¾¹¾Ç²ß»P²`«×¾Ç²ß²z½×°òÂ¦
+2. ¨ã³Æ¼Æ­È¤ÀªR¡B²Î­p¾Ç¡B½u©Ê¥N¼Æ¬ÛÃö·§©À
+3. ¹ï©ó¥­¦æ¹Bºâ¡B¤À´²¦¡¹Bºâ¡BÂO¶°¹Bºâ¦³°òÂ¦·§©À
+4. ¤ÀªRµ²ªG¥iµø¤Æ»P¸ÑÄÀ¯à¤Oªº¬ÛÃö¸gÅç
+5. Python¶}µo¯à¤O
+6. ¨}¦nªº¹Î¶¤¦X§@»P·¾³q¯à¤O¥»¤½¥q¬O¥Ñ¤@¸s´¿¥ôÂ¾°ê»Ú³nÅé¤j¼t»P°ª¬ì§Þ»s³y·~¤Q¦h¦~ªº±M®a©Ò³Ð¥ß¡C§Ú­Ì«D±`¼ô±x¥ø·~Àç¹B¨t²Î¡Bª«ÁpºôÀ³¥Î¡B¥H¤Î³]³Æ/«H®§/¦Û°Ê¤Æ/¤u¼tºÞ²zµ¥¬ÛÃö§Þ³N¡A§Æ±æ¹B¥Î¹L¥h²Ö¿nªº¥ø·~»P¤u¼tºÞ²z¤Îª«ÁpºôÀ³¥Î¸gÅç¡A·f°t¦Û¥D¬ãµoªºAI¾÷¾¹¾Ç²ß§Þ³N¥­¥x¡A¨ó§U¥ø·~¥H¦X²zªº¦¨¥»¡B§Ö³t¦a¾É¤J°ª»ù­È¸ê°T¨t²Î¡A¸Ñ¨M¤u¼tºÞ²z°ÝÃD¡A´£¤É¤u¼t®Ä¯à¡A¹F¨ì´¼¯à¤Æ¤u¼tªº¥Ø¼Ð¡C
+
+§Ú­Ì§Æ±æ©Û¶Ò¼Æ¦W¦~»´·s¦å¡A¨Ã¤£ÄY®æ­n¨D±zªº¤u§@¸gÅç¡A¥u­n±z§Þ³N©³¤l¦n¡BÀY¸£ÆF¬¡¡B¥Rº¡¾Ç²ß·s¨Æª«ªº·F«l¡AÄ@·N±µ¨ü¬D¾Ô¥B§ÜÀ£©Ê°ª¡A¹ï©ó¤u·~ª«Ápºô¡BAI¾÷¾¹¾Ç²ß¡B³nÅé¥Í©R¶g´Á¥­¥xµ¥³Ì·s§Þ³Nªº¤u·~À³¥Î«D±`¦³¿³½ì¡A³£Åwªï¥[¤J§Ú­Ì! ¥»¤½¥qÁö¬O·s³Ð¥ø·~¡A¦ý§Ú­Ìªº«È¤á³£¬O¨â©¤ªº¤j«¬»s³y·~¡A°£¤FÅý±z¯à¬ã¨s·s§Þ³NÀ³¥Î¤§¥~¡AÁÙ¯à²ß±o¤@¯ë¤H«ÜÃø¦³¾÷·|²`¤J¸IÄ²ªº»s³y·~»â°ìª¾ÃÑ¡A§Ú­Ì´£¨ÑÀu´ìªº°_Á~¡B¥ú©úªº¥¼¨Ó¡A¸Û¼°ÁÜ½Ð±z¦¨¬°§Ú­Ìªº¤@¥÷¤l¡C
+
+¥»Â¾°È¥D­n¤u§@·|°Ñ»PAI¾÷¾¹¾Ç²ßWeb-based¥­¥x¶}µo¤u§@¡A°ò¥»±ø¥ó­n¨D:
+1. ¼ô±xHTML5/CSS3/ES6+(Javascript)
+
+¨ã³Æ¥H¤U¯à¤O¤×¨Î:
+1. ¨Ï¥Î¹L¤U¦C¥ô¤@®Ø¬[ Vue/React/Angular (Vue¤×¨Î)
+2. ¨ã³ÆHTTP¨óÄ³ªº°òÂ¦ª¾ÃÑ1.	²`«×¾Ç²ß¼Ò«¬¸ê®Æ·j¶°, ²M²z, ¼Ð°O, °V½m, µû¦ô»PÀu¤Æ
+2.	¹q¸£µøÄ±¬ÛÃö¤§²`«×¾Ç²ßºtºâªk¶}µo»P¾ã¦X
+
+
+¥»¤½¥q¬O°ê¤º±Mª`¦b«Dµ²ºc¸ê®Æ³B²zªº»â¾É¼t°Ó¡A¦bªÀ¸sºÊ´ú¡B»y·N¤ÀªR¡B¤Î¥ø·~·j´MÀ³¥Î¤W§¡¦³³Ì°ªªº¥«¥e²v¡C¦]¦¹¡A±NÁÜ½Ð¼ô±x¤H¤u´¼¼z/¾÷¾¹¾Ç²ß/»y·N¤ÀªRªº¤H¤~¥[¤J¡C¤u§@¤º®e¦p¤U¡G
+
+1 ¦bRD³¡ªù­t³d®Ö¤ßµ{¦¡¶}µo¡A¥]¬A¬[ºc¤Î³]­p
+2 ¶}µo»â°ì¬°¾÷¾¹¾Ç²ß¤Î»y·N¤ÀªR (machine learning, language processing, semantic analysis)
+3 ¹ï¤H¤u´¼¼z, ­pºâ»y¨¥¾Ç, »{ª¾¬ì¾Ç¦³¿³½ìªÌ¤×¨Î
+4 »Ý¹ê»Ú¶}µoµ{¦¡¤Î¶i¦æ¦UºØ¹êÅç¡u¥x¹F¬ã¨s°|¡v¦¨¥ß©ó2013¦~¡A°£­P¤O©ó¤j¼Æ¾Ú¤ÀªR¤Îª«ÁpºôÀ³¥Î»P¸Ñ¨M¤è®×ªº¶}µo»P¾ã¦X¡A¥[³t¥ø·~Âà«¬¦¨¥\¡A¤]¿n·¥»P²£©x¾Ç¬ã¥ÍºAÅé¨t¨ó§@¡A¥H¶}©ñ³Ð·s¼Ò¦¡¡A³Ð³y¦hÄ¹¥ÍºA°é¡C
+
+ ¥»Â¾¯Ê¥D­n¤u§@¤º®e¥]§t¦ý¤£­­©ó:
+1. ­t³d³]­p»P¶}µo¼v¹³¬ÛÃö¤§¹q¸£µøÄ±»P¾÷¾¹¾Ç²ß§Þ³N
+2. ¨ó¦P¶}µo¡B§G«Ø©M´ú¸Õ¸Ñ¨M¤è®×©óÀ³¥Î³õ°ì
+3. ¨Ì±M®×»Ý¨D¬ãÅª¾÷¾¹¾Ç²ß§Þ³N©óÂåÀø¬ÛÃöÀ³¥ÎÄ³ÃD
+1.¾÷¾¹¾Ç²ß¡B²`«×¾Ç²ß¡B¼v¹³¿ëÃÑ³nÅé¶}µo
+2.ªí­±DefectÀË´ú¶}µo/®Ä²v´£¤É±M®×
+3.CIM/MES¨t²Î¤ÎAI¨t²Î¾ã¦X
+
+¡·¨Ì¾Ç¸g¾ú¡B¬ì¨t¡B¸gÅç¬ÛÃö©Ê¡B¯S®í»Ý¨DÃÒ·Ó¤Î±Mªøµ¥±ø¥ó®Ö±Ô­Ó¤HÁ~¸ê¡C
+§Ú­Ì¬O CLICKFORCE Åwªï±z¥[¤J§Ú­Ì
+§Ú­Ì¥¿¦b©Û¶Ò¹ï¶}µo¥Rº¡¼ö±¡ªº¤uµ{®v¹Î¶¤!!
+
+¥D­n¤u§@¤º®e»P±ø¥ó¡G 
+1.	¼¶¼g¤ÎºûÅ@ºô¸ôª¦ÂÎµ{¦¡¡A¥HÂ^¨úºô¸ô¤å³¹¤å¦r¸ê®Æ
+2.	¸ê®Æ²M¬~¡A¾ã²z
+3.	¨Ï¥Îºô¸ôª¦ÂÎÂ^¨úªº¸ê®Æ«Øºc¾÷¾¹¾Ç²ß¼Ò«¬¡A¥H¤ÀªR¨Ï¥ÎªÌ¸ê®Æ
+4.	¨Ï¥Îºô¸ô¨Ï¥ÎªÌÂsÄý¸ê®Æ«Ø¸m¹w´ú¼Ò«¬¡A¹w´úºô¸ô¨Ï¥ÎªÌÂIÀ»¼s§i·N¹Ï
+5.	¨ó§U½s¼g¨Ï¥ÎªÌ¤À¸sµ{¦¡
+6.     ³z¹LºÊ·þ¦¡¾Ç²ß©Î²`«×¾Ç²ß¶i¦æ¹Ï¹³¿ëÃÑ¸ê®Æ
+
+©Ò»Ý±Mªø
+1.	¼ô±xPythonµ{¦¡»y¨¥¡A¥]§tpandas, BeautifulSoup, numpy, sklearn, Gensimµ¥¼Ò²Õ
+2.	¼ô±xLinux, SQL
+
+¥[¤À±Mªø
+1.     ¦³¨Ï¥ÎGCP (BigQuery, Cloud Storage, Compute Engine), AWS (Athena, S3)µ¥ªA°È
+2.      ²Î­p¾Ç±Mªø
+3.       ¹Ï¹³¿ëÃÑ±M®×¸gÅç¨ÎÀô²yºÍµø(UbeStream Inc.)¬°¥xÆW­º®a¥B°ß¤@¨ú±oªÑ²¼¥N¸¹¤§AI¬ì§Þ·s³Ð¤½¥q(³ÐÂd7587)¡A¬°¸ê®Æ¬ì¾Ç³Õ¤h©Ò³Ð¿ì¡A¤½¥q»EµJAI¤H¤u´¼¼z/ICT¸ê³q°T/IoT¦b¶³ºÝSaaS»PEdge Device¤§§Þ³N¬ãµo¡A´£¨Ñ¦U»â°ìAIaaS¤§±µ¦aÀ³¥Î¡A§U¤O«ÈªA¿Ô¸ß/À\¶¼¹s°â/®È¹CÆ[¥ú/¹B°Ê¥ð¶¢/ÂåÀø°·±dµ¥»â°ì¥H´¼¼z»PµL±µÄ²¬ì§Þ¶i¦æ¼Æ¦ìÂà«¬¡CÀô²yºÍµø¬°¬F©²´¼¼z³Ð·s(´¼¼z«ÈªA)´£¨Ñ°Ó¡A¤½¥q¦ì¦b¥x¥_¥«¤º´ò¬ì§Þ¶é°Ï¬w¤lµó¡A¥æ³q°±¨®«K§Q¡A±¶¹Bªñ¤å´ò½u´äáY¯¸¡F¥»AIºtºâªkEdge DevÂ¾¯Ê¡A¾A¦X¨ã¬ÛÃö¶}µo¸gÅç©Î¬ì¨t­I´ºªÌÀ³¼x¡A¨ã³Æ¤U¦C¥ô¤@¬ÛÃö¶}µo¸gÅçªÌ(¬ÛÃö¨t©Ò³ÕºÓ¤h¥Í¥ç¥i)¡AÅwªïÀËªþ¬ÛÃö¾Ç¾ú(¦³½×¤åªÌ¥[¤À)»P¬ÛÃö¶µ¥Ø¶}µo¸gÅçÃÒ©úÀ³¼x¡A¥[¤JÀô²yºÍµøAIÃä½t¹Bºâ(Edge Algorithm & Computing)¶}µo¹Î¶¤¡G
+
+¥D­n¥ô°È¡Gµo®iAI¶³´¼¼z®Ö¤ß»y·N¤Î»y­µ¤ÞÀººtºâªk¡A¨ÃÂà¤Æ¨ìEdgeÀu¤Æ°õ¦æ®Ä¯à¤Î®Ä²v
+1.»y·N¤Î¤å¥»¤ÀªRºtºâªk¡G¨ã»y·N¤å¥»¤ÀªRºtºâªk³]­p»P¶}µo¯à¤O¡A»Ý¾Ç²ß¹LText Mining/Information Retrievalµ¥¬ÛÃö½Òµ{¡A¨ü¹L¬ÛÃö»y¸q¤ÀªR²z½×°V½m¡A¨ã¦³Data Science/Data Mining/Information Retrieval/Big Dta¬ÛÃö¬ì¨t¬ã¨s©Ò©ÎLab­I´º¡A¼¶¼gµoªí¹L¬ÛÃöºtºâªk´Á¥Z½×¤åªÌ¤×¨Î¡C
+2.Deep Learning/Machine Learning¡G¼ô±xANNÃþ¯«¸g¬ÛÃö»y·N(»y¸q)©Î¤å¥»¤ÀªRºtºâªk¡A¼ô±É¼ô±ÉCNN/RNN/RCNN/LSTMµ¥²z½×»P¹B¥Î¡A¨ã³Æµo®iNLP/NLU¤§¯à¤O¡Aµoªí¹L¬ÛÃö¦ÛµM»y·Nºtºâªk´Á¥Z½×¤å¡C
+3.»y­µ¿ëÃÑ¡GSTT/TTS¡A¼ô±xµØ»y/­^»y¤Î¨ä¥L¥~»y»y­µ¿ëÃÑ§Þ³N¡A»Ý¥i³B²z¿ëÃÑ¦h»yºØ§¨Âø©Î¦h¤Hµo¨¥»y¥y¡C
+4.»y·N¤Î»y­µEdge¶´Åé¤ÎIC³]­p¡G¨ã¦³Edge©ÎDevice¶´Åéµ{¦¡¤ÎIC³]­p¾ã¦X¸gÅç­I´º¡A¨ã³Æ¬ãµoEdge»y·N¤Î»y­µºtºâªk¶´Åéµ{¦¡IC¯à¤O¡C
+5.¦³Arduino/Raspberry Pi¶}µo¸gÅç¡A¼ô±xDSP/MCU¡C
+6.¼ô±xC»y¨¥¶´Åé¶}µo¡C
+7.AI¾÷¾¹¾Ç²ß/²`«×¾Ç²ß¤§IC´¹¤ù³]­p¸gÅç¡C
+8.Alexa/¤p¦Ì/iÄ_¨©´¼¼z­µ½c¬ÛÃö¶}µo©ÎÀ³¥Î¸gÅç¡C
+9.IoTª«Ápºô»PAIoT´¼¼zª«Ápºô¶}µo«Ø¸m¸gÅç¡C
+
+¬ÛÃö¡G
+*»y·N/»y¸q»Ý³B²z¸ÑªR­^¤å¡BÂ²¤¤¡BÁc¤¤¤Î¨ä¥L¥D­n»y¤å¡C
+*»y­µ¿ëÃÑ»Ý¿ëÃÑ­^»y¡BµØ»y¤Î¨ä¥L¥D­n»y¨¥(STT)¤Î¤å¦rÂà»y­µ(TSS)¡C
+*»Ý¼ôTensorflow/Keras/PyTorchµ¥¬[ºc¡C
+*¦³AI Chatbot©ÎAI Agent¶}µo¸gÅç¡A¨ã³Æ»P±`¥ÎIM©ÎApp¾ã¦X¯à¤O©Î¸gÅç¡C
+*¦³Device¦p¤â¾÷/¥­ªO/´¼¼z¬ÝªO/Kiosk©ÎEdge¤§AIoT¶}µo¾ã¦X¯à¤O©Î¸gÅç¡C
+*¼ôLinux/Android/Mac/iOSµ¥Device/Edge§@·~¨t²ÎÀ³¥Îµ{¦¡¶}µo¤Î¶´Åé¶}µo
+
+¨ã¦³¥H¤W¬ÛÃö¶}µo¸gÅç©Î±Mªø¡A¹ïAI»y·N¹ï¸Ü¾÷¾¹¤H/»y·N¤å¥»¤ÀªR/»y·N¿ëÃÑºtºâªk¦bCloud/Edge/Deviceµ¥AICT©ÎAIoT§Þ³N¤§Âà¤Æ½Õ¾A¤Î®Ä¯àÀu¤Æ¦³¿³½ì¡AÅwªï§ë»¼¼i¾ú­±½Í¡A»PÀô²yºÍµø¦@³Ð¼Æ¾Ú´¼¼z±qºtºâªk¬ãµo¡B¨t²Î²£«~µo®i¡B²£·~ªA°ÈÀ³¥Î¡A«P¶i¥xÆW»P¥þ²y²£·~¼Æ¦ìÂà«¬¡F¥»¤½¥q¬°¥xÆW²Ä¤@®aAI·s³ÐµnªO³ÐÂd¤½¥q¡A¹Î¶¤¹Ù¦ñ±N¨É¦³ªÑ²¼»{ªÑ°tªÑ©ÎªÑ²¼¿ï¾ÜÅv¾÷·|¡Cæ­¡è¿Žå–œæ„›éŸ“åœ‹æµè¡Œäº‹å‹™æˆ–å°å½©å¦/éš±å½¢çœ¼é¡/æœ‰èˆˆè¶£çš„äººï¼Œä¸€åŒåŠ å…¥æˆ‘å€‘çš„åœ˜éšŠï¼
+
+â€»æ­¤è·ç¼ºç‚ºçŸ­æœŸè‡¨æ™‚æ«ƒäººå“¡ï¼Œå·¥ä½œæœŸé–“ç‚ºå³æ—¥èµ·~110å¹´5æœˆä¸­
+
+1.é¡§å®¢æŽ¥å¾…æœå‹™åŠå”®å¾Œæœå‹™ã€‚
+2.éš±å½¢çœ¼é¡å•†å“ä»‹ç´¹ã€éŠ·å”®èˆ‡åŒ…è£æœå‹™ã€‚
+3.é–€å¸‚å•†å“é™³åˆ—ã€åº«å­˜ç®¡ç†ã€‚
+4.é–€å¸‚åº—å‹™ç¶“ç‡Ÿã€æŽ¨å‹•åº—æ¥­ç¸¾ä¹‹ç›®æ¨™é”æˆã€‚
+5.æœƒå“¡ç®¡ç†ï¼Œç›¸é—œè¡Œæ”¿ä½œæ¥­ ã€‚
+6.å¶é ˆé…åˆé–€å¸‚è¼ªèª¿èˆ‡æ”¯æ´ã€‚æ³›ç§‘çŸ¥è­˜ä»¥çŸ¥è­˜æŽ¨å»£åŠæ•™è‚²å‰µæ–°ç‚ºç†å¿µï¼Œè‡´åŠ›æ–¼è®“å¤©ä¸‹æ²’æœ‰é›£å­¸çš„çŸ¥è­˜ã€‚æ——ä¸‹Pansciæ³›ç§‘å­¸æ˜¯å°ç£æœ€å¤§ä¸”æœ€è¢«ä¿¡è³´çš„ç§‘å­¸ç¤¾ç¾¤ï¼Œé€éŽç¤¾ç¾¤é »é“åŠè‡ªå»ºå¹³å°é€²è¡Œå…§å®¹è¡ŒéŠ·ï¼ŒæŽ¨å‹•ç§‘æ™®æ–‡åŒ–ã€‚ã€Œç§‘å­¸ç”Ÿã€æ˜¯å°ˆç‚ºåœ‹ä¸­ç”Ÿæ‰“é€ çš„ç§‘æ™®é–±è®€å¹³å°ï¼Œèˆ‡å—ä¸€æ›¸å±€ã€ç§‘å­¸æœˆåˆŠå¼·å¼·è¯æ‰‹ï¼ŒåŸ¹é¤Šå­©å­çš„ç§‘å­¸ç´ é¤Šã€‚æ­¡è¿ŽèªåŒæ³›ç§‘ç†å¿µï¼Œå«»ç†Ÿå¹³å°é–‹ç™¼æŠ€è¡“çš„å¥½æ‰‹åŠ å…¥ï¼Œèˆ‡æˆ‘å€‘ä¸€èµ·é€éŽç³»çµ±åŒ–åŠæ™ºèƒ½æ•¸æ“šï¼Œå‘æœªä¾†çŸ¥è­˜è½‰å‹•ã€‚
+
+1. åƒèˆ‡æ•¸ä½å­¸ç¿’å¹³å°ç³»çµ±è¨­è¨ˆã€é–‹ç™¼èˆ‡ç¶­è­·
+2. å…·PHPé–‹ç™¼ç¶“é©— (ç†Ÿæ‚‰ WordPress å®¢è£½é–‹ç™¼å°¤ä½³ï¼‰
+3. ç†Ÿæ‚‰RDBMSæˆ–å…·å‚™NoSQLé–‹ç™¼ç¶“é©—
+4. å…·å‚™RESTful API é–‹ç™¼ç¶“é©—è€…å°¤ä½³
+5. æœ‰ä¼æ¥­é›²ç«¯å¹³å°(å¦‚AWS, GCPç­‰)ä½¿ç”¨ç¶“é©—è€…å°¤ä½³
+
+1. é€²æ–™é›¶ä»¶æª¢é©—ã€è£½é€ éŽç¨‹ä¸­è£½ç¨‹å·¡æª¢ã€å‡ºè²¨æª¢é©—ã€å¯¦æ–½å“ç®¡è¨ˆç•«ã€‚
+2. åŽŸç‰©æ–™æˆå“é©—æ”¶ã€å“ä¿å ±å‘Šè£½ä½œã€å“ä¿è¡¨å–®ç®¡ç†ç­‰ã€‚
+3. ç¶­è­·ã€æ›´æ–°ã€è™•ç†å„é¡žæ–‡ä»¶æª”æ¡ˆå’Œè³‡æ–™åº«ç³»çµ±åŠå…¬å¸äº¤è¾¦äº‹é …ã€‚ 
+4. å…·è¦–åœ–èƒ½åŠ›ï¼ˆå·¥ç¨‹åœ–ï¼‰ã€‚ 
+5. ç†Ÿæ‚‰ç”Ÿç”¢ç‰©æ–™ç®¡ç†æµç¨‹è€…ä½³ ã€‚
+6. éœ€è¦å…·æœ‰é–‹è»Šèƒ½åŠ›,é…åˆåœ‹å…§å‡ºå·®ã€‚ï¼Šï¼Šï¼Š2020å¹´6æœˆ å…¨æ–°å•Ÿç”¨å°ç£æˆ¿ä»²æ¥­å”¯ä¸€ï¼Œæƒ…å¢ƒå¼é«˜éšŽå°ˆæ¥­è¨“ç·´ä¸­å¿ƒï¼Šï¼Šï¼Š
+â€»å°ç£æˆ¿ä»²æ¥­å”¯ä¸€ï¼Œé€éŽæƒ…å¢ƒå¼æ¨¡æ“¬çµåˆAIæ™ºæ…§ã€å¯¦å¢ƒæ“´å……äº’å‹•è¨“ç·´ï¼Œå”åŠ©æ–°äººå¿«é€Ÿå°ˆæ¥­å‡ç´šï¼Œå„ªè³ªæœå‹™å®¢æˆ¶ï¼Œé ˜å…ˆåŒæ¥­å‚³çµ±è¨“ç·´ã€‚
+â€»æ¥­ç•Œå”¯ä¸€ï¼Œæ–¥è³‡ä¸Šå„„æä¾›æ™ºæ…§åž‹è¨“ç·´ä¸­å¿ƒï¼‹æƒ…å¢ƒé«˜éšŽè¨“ç·´èª²ç¨‹ï¼Œè®“æ–°äººæˆç‚ºæˆ¿åœ°ç”¢é ‚å°–å°ˆæ¥­äººæ‰ã€‚
+
+1. åœ‹å…§ä¸å‹•ç”¢è²·è³£å°ˆæ¥­æœå‹™
+2. å…¨é½¡åŒ–ä¸å‹•ç”¢æŠ•è³‡ç®¡ç†æœå‹™
+3. ä¿éšœå®¢æˆ¶ç›¸é—œå”®å¾Œæœå‹™(è¼»å°„ã€æµ·ç ‚é é˜²æª¢æ¸¬)ç”±å…¬å¸å°ˆæ¡ˆæä¾›
+4. å°ç£æˆ¿å±‹ç›´ç‡Ÿé–€å¸‚éŒ„å–ï¼Œä»¥åŠå„éšŽæ®µå‡é·ï¼Œå‡æœ‰è€ƒè©¦åˆ¶åº¦æå‡å°ˆæ¥­å“è³ªï¼Šï¼Šï¼Š2020å¹´6æœˆ å…¨æ–°å•Ÿç”¨å°ç£æˆ¿ä»²æ¥­å”¯ä¸€ï¼Œæƒ…å¢ƒå¼é«˜éšŽå°ˆæ¥­è¨“ç·´ä¸­å¿ƒï¼Šï¼Šï¼Š 
+â€»å°ç£æˆ¿ä»²æ¥­å”¯ä¸€ï¼Œé€éŽæƒ…å¢ƒå¼æ¨¡æ“¬çµåˆAIæ™ºæ…§ã€å¯¦å¢ƒæ“´å……äº’å‹•è¨“ç·´ï¼Œå”åŠ©æ–°äººå¿«é€Ÿå°ˆæ¥­å‡ç´šï¼Œå„ªè³ªæœå‹™å®¢æˆ¶ï¼Œé ˜å…ˆåŒæ¥­å‚³çµ±è¨“ç·´ã€‚  
+â€»æ¥­ç•Œå”¯ä¸€ï¼Œæ–¥è³‡ä¸Šå„„æä¾›æ™ºæ…§åž‹è¨“ç·´ä¸­å¿ƒï¼‹æƒ…å¢ƒé«˜éšŽè¨“ç·´èª²ç¨‹ï¼Œè®“æ–°äººæˆç‚ºæˆ¿åœ°ç”¢é ‚å°–å°ˆæ¥­äººæ‰ã€‚ 
+ 
+1. åœ‹å…§ä¸å‹•ç”¢è²·è³£å°ˆæ¥­æœå‹™  
+2. å…¨é½¡åŒ–ä¸å‹•ç”¢æŠ•è³‡ç®¡ç†æœå‹™ 
+3. ä¿éšœå®¢æˆ¶ç›¸é—œå”®å¾Œæœå‹™(è¼»å°„ã€æµ·ç ‚é é˜²æª¢æ¸¬)ç”±å…¬å¸å°ˆæ¡ˆæä¾›  
+4. å°ç£æˆ¿å±‹ç›´ç‡Ÿé–€å¸‚éŒ„å–ï¼Œä»¥åŠå„éšŽæ®µå‡é·ï¼Œå‡æœ‰è€ƒè©¦åˆ¶åº¦æå‡å°ˆæ¥­å“è³ª1. åˆ©ç”¨è³‡æ–™åˆ†æžåŠæ©Ÿå™¨å­¸ç¿’é€²è¡ŒçŽ‰å±±é‡‘æŽ§å…§éƒ¨ / å¤–éƒ¨æƒ…å‹¢è©•ä¼°åŠå•é¡Œç™¼ç¾
+2. å”åŠ©æ¥­å‹™å–®ä½åˆ©ç”¨è³‡æ–™åˆ†æžæˆ–æ©Ÿå™¨å­¸ç¿’è§£æ±ºé—œéµç§‘æŠ€è­°é¡Œï¼Œä¸¦æä¾›æ±ºç­–å»ºè­°
+
+è‹¥æ‚¨å°æ­¤è·ç¼ºæœ‰èˆˆè¶£ï¼Œè«‹è‡³ã€ŒçŽ‰å±±èè‹±ç”„é¸ç¶²ç«™ã€å¡«å¯«å±¥æ­·
+ã€ç¶²å€ï¼šhttps://hr.esunfhc.com/Recruitment/Home/Account?hrcontact&oneofour ã€‘ï¼Œå¦‚ç¶“ä¸»ç®¡å¯©æ ¸é€šéŽï¼Œå°‡é‚€è«‹æ‚¨åƒåŠ é¢è«‡ï¼Œè¬è¬ï¼1. åŸºç¤Žè³‡æ–™åˆ†æž(é ˜åŸŸè³‡æ–™æ´žæ‚‰ã€ç‰¹å¾µé¸æ“‡ã€è³‡æ–™å‰è™•ç†ç­‰)
+2. æ©Ÿå™¨å­¸ç¿’æ‡‰ç”¨è»Ÿé«”ç”¢å“èˆ‡å°ˆæ¡ˆé–‹ç™¼
+èº«è™•æ•¸ä½é‡‘èžè½‰åž‹å¹´ä»£çš„ä½ ï¼Œæƒ³è¦åœ¨é€™å€‹ç¿»è½‰çš„æ™‚ä»£è»‹ä¸Šä¸€è§’ï¼Ÿ å°å·¨é‡çµæ§‹åŒ–è³‡æ–™ã€åŠçµæ§‹åŒ–è³‡æ–™ç”šè‡³éžçµæ§‹åŒ–è³‡æ–™çš„åˆ†æžã€è™•ç†èˆ‡å„²å­˜æ˜¯å¦å…·æœ‰é«˜åº¦èˆˆè¶£ï¼Ÿ å°æ‰“é€ æ©Ÿå™¨å­¸ç¿’å¹³å°åŠç³»çµ±è»Ÿé«”æ¡†æž¶æ˜¯å¦å…·æœ‰ä¸€è‚¡ç†±è¡€ï¼Ÿ æ˜¯å¦æœ‰ç¨®è¡å‹•æƒ³æŒ‘æˆ°æŠŠæ©Ÿå™¨å­¸ç¿’å»ºæ§‹åœ¨åˆ†æ•£å¼ç³»çµ±åŠå¾®æœå‹™ç³»çµ± (docker)ä¹‹ä¸Š ï¼Ÿ æƒ³è¦æŒ‘æˆ°ç›¸åŒè³‡æ–™åº«è³‡æºä¸‹ç²¾ç¾Žåˆé«˜æ•ˆçŽ‡çš„ SQL èªžæ³•ï¼Ÿ å° open source æœ‰è‚¡èŽ«åçš„ç‹‚ç†±ï¼Œæƒ³è¦åˆ©ç”¨ open source  åšä¸€ç•ªäº‹æ¥­ï¼Ÿ è‡ªå‹•åŒ–æ¸¬è©¦åŠè‡ªå‹•åŒ–ä½ˆç½²ä¸Šç‰ˆæ©Ÿåˆ¶ï¼Œæ­£æ˜¯ä½ æ‹¿æ‰‹çš„é …ç›®ï¼Ÿä½ æ˜¯å–„æ–¼åˆ†æžå•é¡Œèˆ‡è§£æ±ºï¼Œæˆ–æœ‰å¿—æƒ³è¦æŒ‘æˆ°å·¨é‡è³‡æ–™çš„è™•ç†ï¼Ÿ ä½ æ˜¯ Python ä¸­çš„ç¿¹æ¥šï¼Ÿ 
+æ²’éŒ¯ï¼Œé€™äº›éƒ½æ˜¯æˆ‘å€‘æƒ³è¦æ‰¾çš„äººæ‰ï¼Œå°±æ˜¯ä½ ï¼Œæ­¡è¿Žä½ ä¾†åŠ å…¥çŽ‰å±±æ™ºèƒ½é‡‘èžè™•ï¼ 
+é™¤äº†ä»¥ä¸Šï¼Œä½ é‚„æœ‰æ©Ÿæœƒï¼Œåƒèˆ‡æ©Ÿå™¨å­¸ç¿’ (Machine Learning) å°ˆæ¡ˆé–‹ç™¼ã€è³‡æ–™ç‰¹å¾µå·¥ç¨‹ã€è¦åŠƒè¨­è¨ˆæ¬¡ä¸–ä»£æ©Ÿå™¨å­¸ç¿’å¹³å°ç™¼å±•èˆ‡è—åœ–ç­‰ä»»å‹™ã€‚ 
+
+
+è·ç¼ºæ¢ä»¶:
+1. ç¢©å£«è³‡è¨Šç®¡ç†ç›¸é—œã€æ•¸å­¸åŠé›»ç®—æ©Ÿç§‘å­¸å­¸ç§‘é¡žã€è³‡è¨Šå·¥ç¨‹ç›¸é—œï¼Œå·¥ä½œç¶“æ­·ä¸æ‹˜
+2. ç†Ÿæ‚‰ Linux åŠ Python ç¨‹å¼é–‹ç™¼èˆ‡ç¬¬ä¸‰æ–¹å¥—ä»¶åº«å¼•ç”¨ç¶“é©—
+3. ç†Ÿæ‚‰ SQL è³‡æ–™åº«èªžæ³•ï¼Œå°è³‡æ–™åº«æ ¡èƒ½èª¿æ ¡æœ‰èˆˆè¶£
+4. ç†Ÿæ‚‰ Git ç‰ˆæœ¬æŽ§åˆ¶ï¼Œå°CI/CD æµç¨‹ç®¡ç†æœ‰èˆˆè¶£
+5. ç•¥æ‡‚è³‡è¨Šå®‰å…¨åŠç¶²è·¯å‚³è¼¸ç›¸é—œåŸºç¤ŽçŸ¥è­˜ 1.åŸºç¤Žè³‡æ–™åˆ†æž(é ˜åŸŸè³‡æ–™æ´žæ‚‰ã€ç‰¹å¾µé¸æ“‡ã€è³‡æ–™å‰è™•ç†ç­‰)
+2.æ©Ÿå™¨å­¸ç¿’æ‡‰ç”¨è»Ÿé«”ç”¢å“èˆ‡å°ˆæ¡ˆé–‹ç™¼
+3.é–‹ç™¼åŠæ”¹è‰¯æ©Ÿå™¨å­¸ç¿’æˆ–æ¼”ç®—æ³•
+4.æ¼”ç®—æ³•å¯¦é©—è¨­è¨ˆèº«è™•æ•¸ä½é‡‘èžè½‰åž‹å¹´ä»£çš„ä½ ï¼Œæƒ³è¦åœ¨é€™å€‹ç¿»è½‰çš„æ™‚ä»£è»‹ä¸Šä¸€è§’ï¼Ÿ å°å·¨é‡çµæ§‹åŒ–è³‡æ–™ã€åŠçµæ§‹åŒ–è³‡æ–™ç”šè‡³éžçµæ§‹åŒ–è³‡æ–™çš„åˆ†æžã€è™•ç†èˆ‡å„²å­˜æ˜¯å¦å…·æœ‰é«˜åº¦èˆˆè¶£ï¼Ÿ å°æ‰“é€ æ©Ÿå™¨å­¸ç¿’å¹³å°åŠç³»çµ±è»Ÿé«”æ¡†æž¶æ˜¯å¦å…·æœ‰ä¸€è‚¡ç†±è¡€ï¼Ÿ æ˜¯å¦æœ‰ç¨®è¡å‹•æƒ³æŒ‘æˆ°æŠŠæ©Ÿå™¨å­¸ç¿’å»ºæ§‹åœ¨åˆ†æ•£å¼ç³»çµ±åŠå¾®æœå‹™ç³»çµ± (docker)ä¹‹ä¸Š ï¼Ÿ æƒ³è¦æŒ‘æˆ°ç›¸åŒè³‡æ–™åº«è³‡æºä¸‹ç²¾ç¾Žåˆé«˜æ•ˆçŽ‡çš„ SQL èªžæ³•ï¼Ÿ å° open source æœ‰è‚¡èŽ«åçš„ç‹‚ç†±ï¼Œæƒ³è¦åˆ©ç”¨ open source  åšä¸€ç•ªäº‹æ¥­ï¼Ÿ è‡ªå‹•åŒ–æ¸¬è©¦åŠè‡ªå‹•åŒ–ä½ˆç½²ä¸Šç‰ˆæ©Ÿåˆ¶ï¼Œæ­£æ˜¯ä½ æ‹¿æ‰‹çš„é …ç›®ï¼Ÿä½ æ˜¯å–„æ–¼åˆ†æžå•é¡Œèˆ‡è§£æ±ºï¼Œæˆ–æœ‰å¿—æƒ³è¦æŒ‘æˆ°å·¨é‡è³‡æ–™çš„è™•ç†ï¼Ÿ ä½ æ˜¯ Python ä¸­çš„ç¿¹æ¥šï¼Ÿ 
+
+æ²’éŒ¯ï¼Œé€™äº›éƒ½æ˜¯æˆ‘å€‘æƒ³è¦æ‰¾çš„äººæ‰ï¼Œå°±æ˜¯ä½ ï¼Œæ­¡è¿Žä½ ä¾†åŠ å…¥çŽ‰å±±æ™ºèƒ½é‡‘èžè™•ï¼ 
+
+é™¤äº†ä»¥ä¸Šï¼Œä½ é‚„æœ‰æ©Ÿæœƒï¼Œåƒèˆ‡æ©Ÿå™¨å­¸ç¿’ (Machine Learning) å°ˆæ¡ˆé–‹ç™¼ã€è³‡æ–™ç‰¹å¾µå·¥ç¨‹ã€è¦åŠƒè¨­è¨ˆæ¬¡ä¸–ä»£æ©Ÿå™¨å­¸ç¿’å¹³å°ç™¼å±•èˆ‡è—åœ–ç­‰ä»»å‹™ã€‚ 
+
+è·ç¼ºæ¢ä»¶:
+1. ä¸‰å¹´ä»¥ä¸Šç³»çµ±ç®¡ç†åŠç¶­è­·ç¶“é©—
+2. å…·å‚™æŠ€è¡“æž¶æ§‹è¦åŠƒèƒ½åŠ›èˆ‡åˆ¶å®šæŠ€è¡“è¦ç¯„ï¼ŒåŒ…æ‹¬å¤§æ•¸æ“šå‚³è¼¸åŠå€‰å„²ç­‰
+3. ç†Ÿæ‚‰ Linux åŠ Python ç¨‹å¼é–‹ç™¼èˆ‡ç¬¬ä¸‰æ–¹å¥—ä»¶åº«å¼•ç”¨ç¶“é©—
+4. ç†Ÿæ‚‰ SQL è³‡æ–™åº«èªžæ³•åŠæ ¡èƒ½èª¿æ ¡
+5. ç†Ÿæ‚‰ Git ç‰ˆæœ¬æŽ§åˆ¶åŠ CI/CD æµç¨‹ç®¡ç†
+6. ç•¥æ‡‚è³‡è¨Šå®‰å…¨åŠç¶²è·¯å‚³è¼¸ç›¸é—œåŸºç¤ŽçŸ¥è­˜ 1. Linux / Bash ç·¨ç¨‹ã€‚
+2. é‡å°ç¾æœ‰æ¨¡åž‹æˆ–ç³»çµ±æå‡ºç›¸å°å„ªåŒ–çš„æ–¹æ³•ã€‚
+3. æ‡‰ç”¨æ©Ÿå™¨å­¸ç¿’æ¼”ç®—æ³•æ–¼èªžéŸ³è¨Šè™Ÿ/è‡ªç„¶èªžè¨€çš„åˆ†æžã€‚
+4. é–‹ç™¼ç¥žç¶“ç¶²è·¯çš„é æ¸¬æ¨¡åž‹ã€‚
+5. æ©Ÿå™¨å­¸ç¿’æ¼”ç®—æ³•çš„IC Portingã€‚â€¢Â åƒèˆ‡é‡‘èž/äº’è¯ç¶²/é›¶å”®/å¥åº·é†«ç™‚ç­‰è¡Œæ¥­çš„æ‡‰ç”¨å ´æ™¯å’Œè§£æ±ºæ–¹æ¡ˆçš„é–‹ç™¼èˆ‡å‰µæ–°ã€‚
+â€¢Â çµåˆè¡Œæ¥­åŠå®¢æˆ¶å¯¦éš›é¢è‡¨çš„æ¥­å‹™å•é¡Œï¼Œæ¢³ç†æœ‰åƒ¹å€¼çš„å¯è½åœ°çš„å ´æ™¯å’Œå¯è¡Œæ€§æŠ€è¡“ï¼ŒæŒ‡å°Žåˆä½œå¤¥ä¼´é€²è¡Œåˆ†æžå•é¡Œï¼Œæ¢³ç†æ•¸æ“šã€å»ºæ¨¡ã€è¨­è¨ˆç‰¹å¾µæ–¹æ¡ˆå’Œå»ºæ¨¡å¯¦æ–½æµç¨‹ï¼Œè¼”åŠ©åŸ·è¡Œæ¨¡åž‹å’Œè§£æ±ºæ–¹æ¡ˆçš„äº¤ä»˜å’Œä¸Šç·šã€‚
+â€¢Â çµåˆè¡Œæ¥­ç¶“é©—åŠç«¹é–“æŠ€è¡“å„ªå‹¢ï¼Œé–‹ç™¼å…·æœ‰é€šç”¨å¯¦è¸åƒ¹å€¼çš„é«˜ç´šAIåŸ¹è¨“å’Œæž¶æ§‹è¨­è¨ˆã€‚è‡ªå‹•åŒ–äººæ‰(CIM/æ©Ÿå™¨å­¸ç¿’/æ·±åº¦å­¸ç¿’/å½±åƒè¾¨è­˜/ç³»çµ±æ•´åˆ)-é‚€è«‹æ‚¨çš„åŠ å…¥-
+
+
+ã€è·ç¼ºä¸€ã€‘-CIMå°ˆæ¥­äººæ‰(æ©Ÿå°è‡ªå‹•åŒ–)
+â—Ž EAP SECS/GEM æ©Ÿå°è‡ªå‹•åŒ–ç¨‹å¼é–‹ç™¼
+â—Ž CIMç³»çµ±çš„ç¶­è­·ã€æ”¯æ´ã€æ”¹å–„ 
+â—Ž å…ˆé€²è£½ç¨‹éœ€æ±‚è§£æ±ºæ–¹æ¡ˆè©•ä¼°åŠæä¾› 
+
+
+ã€è·ç¼ºäºŒã€‘-è»Ÿé«”é–‹ç™¼å·¥ç¨‹å¸«(æ©Ÿå™¨å­¸ç¿’/å½±åƒè™•ç†)
+â—Ž æ©Ÿå™¨å­¸ç¿’ã€æ·±åº¦å­¸ç¿’ã€å½±åƒè¾¨è­˜è»Ÿé«”é–‹ç™¼
+â—Ž è¡¨é¢Defectæª¢æ¸¬æ•ˆçŽ‡æå‡å°ˆæ¡ˆ
+
+
+ã€è·ç¼ºä¸‰ã€‘-Webç¨‹å¼è¨­è¨ˆå·¥ç¨‹å¸«
+â—Ž ç”Ÿç”¢ç®¡ç†ç³»çµ±(å«å ±è¡¨)é–‹ç™¼èˆ‡ç¶­è­·
+â—Ž CIM Reportå»ºç½®è¦åŠƒèˆ‡åŸ·è¡Œ(Webå‰å¾Œç«¯è¦åŠƒå»ºç½®)
+â—Ž ç”Ÿç”¢è‡ªå‹•åŒ–ç³»çµ±è¦åŠƒèˆ‡åŸ·è¡Œ
+
+â—Žä¾å­¸ç¶“æ­·ã€ç§‘ç³»ã€ç¶“é©—ç›¸é—œæ€§ã€ç‰¹æ®Šéœ€æ±‚è­‰ç…§åŠå°ˆé•·ç­‰æ¢ä»¶æ ¸æ•˜å€‹äººè–ªè³‡ã€‚
+â—Žè©³ç´°èªªæ˜Žè«‹åƒå„è·ç¼ºåˆŠç™»å…§å®¹
+ã€ä½ æœƒåœ¨ Positive Grid åšäº›ä»€éº¼ã€‘
+
+- å°‡ marketing, product ç«¯ä¸åŒ domain çš„éœ€æ±‚è§£æ§‹æˆæŠ€è¡“ç›®æ¨™
+- é ˜å°Ž machine learning RD, DSP å·¥ç¨‹å¸«, ä»¥åŠ PM specialist å¯¦ç¾ one-man-band ä»¥åŠå…¶ä»–éŸ³æ¨‚é …ç›®çš„ä½¿ç”¨æƒ…å¢ƒ
+- èˆ‡ IT ä»¥åŠ App å·¥ç¨‹å¸«åˆä½œ UX èˆ‡ data pipeline
+
+ã€æˆ‘å€‘éœ€è¦é€™æ¨£çš„ä½ ã€‘
+
+- ç†Ÿæ‚‰ Tensorflow/keras æˆ– pytorch
+- 3 å¹´ä»¥ä¸Š Deep learning å­¸ç¿’èˆ‡å¯¦ä½œç¶“é©—
+- 2 å¹´ä»¥ä¸Šæ©Ÿå™¨å­¸ç¿’ç›¸é—œç”¢æ¥­æºé€šç¶“é©— 
+- 2 å¹´ä»¥ä¸Šè»Ÿé«”é–‹ç™¼ä¸»ç®¡ç¶“é©—
+- ç†Ÿæ‚‰ ML model è¨­è¨ˆã€è¨“ç·´
+- è³‡è¨Šã€é›»æ©Ÿã€æ•¸å­¸æˆ–ç›¸é—œç§‘ç³»ç¢©å£«å­¸æ­·
+- ç†Ÿæ‚‰ colab ä½¿ç”¨
+- å°éŸ³æ¨‚ä½œæ›²ã€ç”Ÿæˆã€èªžéŸ³è™•ç†ã€æ¨‚éŸ³åˆæˆæœ‰ç¶“é©—è€… ä½³
+- ç†Ÿæ‚‰ GANã€Transformerã€VAEã€BERTå®¶æ—ã€GPTç³»åˆ— ç­‰ ä½³
+- ç†Ÿæ‚‰æ•¸ä½è¨Šè™Ÿè™•ç† ä½³Job Description
+1.  è¨­è¨ˆå’Œå»ºæ§‹åŸºæ–¼ Artificial Intelligence (AI, äººå·¥æ™ºæ…§) / Machine Learning (ML, æ©Ÿå™¨å­¸ç¿’) / Deep Learning (DL, æ·±åº¦å­¸ç¿’) æ¼”ç®—æ³•çš„ç³»çµ±å¹³å°ã€‚
+2.  é‹ç”¨æŽ¨è–¦ç³»çµ±/ Text Mining / Geomatics Analysis / å½±åƒè¾¨è­˜æ¼”ç®—æ³•ï¼Œå”åŠ©å…¬å¸é–‹ç™¼ç›¸é—œæ‡‰ç”¨èˆ‡æ•´åˆã€‚
+3. è² è²¬æ¨¡åž‹è¨“ç·´ã€æ¡†æž¶èˆ‡åƒæ•¸èª¿æ•´ã€‚
+4. èˆ‡ IT æºé€šèˆ‡å”ä½œè³‡æ–™åˆ†æžç³»çµ±å»ºç«‹ã€‚
+
+
+Qualifications & Education Requirements
+1. è³‡è¨Šå·¥ç¨‹ / é›»æ©Ÿå·¥ç¨‹ç­‰è³‡è¨Šç§‘å­¸ç›¸é—œé ˜åŸŸç¢©å£«ä»¥ä¸Šå­¸ä½ã€‚
+2. ç¢©å£«è«–æ–‡éœ€èˆ‡è³‡æ–™ç§‘å­¸é ˜åŸŸç›¸é—œæˆ–æ›¾ç™¼è¡¨éŽç›¸é—œæœŸåˆŠæ–‡ç« ã€‚
+3. å…·å‚™è‰¯å¥½çš„é–±è®€åœ‹éš›æœŸåˆŠä¹‹èƒ½åŠ›ã€‚
+
+
+Preferred Skills
+1. å…·å‚™é«˜æ•ˆçŽ‡çš„ Python / C / C++ ç­‰ç·¨å¯«ç¨‹å¼å¯¦ç¾æ¼”ç®—æ³•ã€‚
+2. æ“…é•·æŽ¨è–¦ç³»çµ± / Geomatics Analysis / å½±åƒè¾¨è­˜ / NLP / Text Mining è‡³å°‘ä¸€ç¨®ä»¥ä¸Šçš„æ¼”ç®—æ³•é–‹ç™¼ã€‚
+3. è‡³å°‘ç†Ÿæ‚‰ä¸€ç¨®ä¸»æµ DL æ¡†æž¶ / ML æ¼”ç®—æ³•ï¼ŒåŒ…å«ä½†ä¸é™æ–¼ TensorFlow, PyTorch, YOLOv3, Caffe, MXNet, CNTK, Keras, MLlibã€‚
+4. å…·ä»»ä¸€é›²ç«¯å¹³å° ( AWS / GCP / Azure) èˆ‡ Spark / Hadoop / PySpark å°ˆæ¡ˆé‹ç®—ç¶“é©—ã€‚
+5. èƒ½ç†Ÿç·´æ“ä½œ RDBMS, NoSQLã€‚
+6. æ“…é•·åœ˜éšŠåˆä½œä¸”å…·ç¨ç«‹è§£æ±ºå•é¡Œçš„èƒ½åŠ›ã€‚1. èƒ½å¯¦ä½œæ•¸æ“šåˆ†æžï¼Œå°‡æ„Ÿæ¸¬å™¨æ”¶é›†æ•¸æ“šé€²è¡Œé æ¸¬ã€åˆ†ç¾¤åŠåˆ†é¡žç­‰åˆ†æžã€‚
+2. èƒ½å¤ ç¨ç«‹é€²è¡ŒETLç­‰ç›¸é—œä½œæ¥­å«ï¼šè³‡æ–™æ¸…æ´—ã€å»ºæª”
+3. èƒ½å¤ å¯¦ä½œå„å›žæ­¸åŠåˆ†é¡žæ©Ÿå™¨å­¸ç¿’æ¨¡åž‹ï¼šexï¼šSVMã€LightGBMã€XGBoost
+4. èƒ½å¤ å¯¦ä½œçµ±è¨ˆæ–¹æ³•ï¼šexï¼šFactor Analysisï¼ŒANOVA
+
+
+
+è‹¥æ‚¨çš„é‚è¼¯æ¸…æ™°ã€å…·å‚™é‹ç®—æ€ç¶­èƒ½åŠ›ï¼Œä¸”å°AI/æ©Ÿå™¨å­¸ç¿’å¾ˆæœ‰èˆˆè¶£ã€åš®å¾€ä»¥AI/æ©Ÿå™¨å­¸ç¿’ç›¸é—œé–‹ç™¼å·¥ä½œç‚ºçµ‚èº«å¿—æ¥­ï¼Œä½†æ˜¯é‚„æ²’æœ‰ç›¸é—œå·¥ä½œç¶“é©—ã€ç”šè‡³ä¸æ˜¯ç›¸é—œç§‘ç³»ç•¢æ¥­ä½†è‡ªå­¸æœ‰æˆï¼Œéƒ½æ­¡è¿Žæ‚¨ä¾†æ‡‰å¾µé€™å€‹è·å‹™ã€‚åªè¦æ‚¨æœ‰æ±ºå¿ƒï¼Œæˆ‘å€‘æœƒæœ‰Mentorå¼•å°Žæ‚¨ã€è®“æ‚¨åœ¨å¯¦å‹™å·¥ä½œä¸­å­¸ç¿’ï¼Œæˆç‚ºç”¨é›™æ‰‹å‰µé€ æ”¹è®Šçš„å„ªç§€ç ”ç™¼å·¥ç¨‹å¸«ã€‚
+
+è¦æ±‚:
+1. å…·å‚™æ©Ÿå™¨å­¸ç¿’èˆ‡æ·±åº¦å­¸ç¿’ç†è«–åŸºç¤Ž
+2. å…·å‚™æ•¸å€¼åˆ†æžã€çµ±è¨ˆå­¸ã€ç·šæ€§ä»£æ•¸ç›¸é—œæ¦‚å¿µ
+3. å°æ–¼å¹³è¡Œé‹ç®—ã€åˆ†æ•£å¼é‹ç®—ã€å¢é›†é‹ç®—æœ‰åŸºç¤Žæ¦‚å¿µ
+4. åˆ†æžçµæžœå¯è¦–åŒ–èˆ‡è§£é‡‹èƒ½åŠ›çš„ç›¸é—œç¶“é©—
+5. Pythoné–‹ç™¼èƒ½åŠ›
+6. è‰¯å¥½çš„åœ˜éšŠåˆä½œèˆ‡æºé€šèƒ½åŠ›ç†Ÿæ‚‰äººå·¥æ™ºæ…§æˆ–æ˜¯æ©Ÿå™¨å­¸ç¿’æ¼”ç®—æ³•é–‹ç™¼ã€‚
+å”åŠ©é–‹ç™¼æ©Ÿå™¨å­¸ç¿’æ¼”ç®—æ³•æ‡‰ç”¨ã€‚
+
+
+
+ 
+æœ¬å…¬å¸æ˜¯ç”±ä¸€ç¾¤æ›¾ä»»è·åœ‹éš›è»Ÿé«”å¤§å» èˆ‡é«˜ç§‘æŠ€è£½é€ æ¥­åå¤šå¹´çš„å°ˆå®¶æ‰€å‰µç«‹ã€‚æˆ‘å€‘éžå¸¸ç†Ÿæ‚‰ä¼æ¥­ç‡Ÿé‹ç³»çµ±ã€ç‰©è¯ç¶²æ‡‰ç”¨ã€ä»¥åŠè¨­å‚™/ä¿¡æ¯/è‡ªå‹•åŒ–/å·¥å» ç®¡ç†ç­‰ç›¸é—œæŠ€è¡“ï¼Œå¸Œæœ›é‹ç”¨éŽåŽ»ç´¯ç©çš„ä¼æ¥­èˆ‡å·¥å» ç®¡ç†åŠç‰©è¯ç¶²æ‡‰ç”¨ç¶“é©—ï¼Œæ­é…è‡ªä¸»ç ”ç™¼çš„AIæ©Ÿå™¨å­¸ç¿’æŠ€è¡“å¹³å°ï¼Œå”åŠ©ä¼æ¥­ä»¥åˆç†çš„æˆæœ¬ã€å¿«é€Ÿåœ°å°Žå…¥é«˜åƒ¹å€¼è³‡è¨Šç³»çµ±ï¼Œè§£æ±ºå·¥å» ç®¡ç†å•é¡Œï¼Œæå‡å·¥å» æ•ˆèƒ½ï¼Œé”åˆ°æ™ºèƒ½åŒ–å·¥å» çš„ç›®æ¨™ã€‚
+
+æˆ‘å€‘å¸Œæœ›æ‹›å‹Ÿæ•¸åå¹´è¼•æ–°è¡€ï¼Œä¸¦ä¸åš´æ ¼è¦æ±‚æ‚¨çš„å·¥ä½œç¶“é©—ï¼Œåªè¦æ‚¨æŠ€è¡“åº•å­å¥½ã€é ­è…¦éˆæ´»ã€å……æ»¿å­¸ç¿’æ–°äº‹ç‰©çš„å¹¹å‹ï¼Œé¡˜æ„æŽ¥å—æŒ‘æˆ°ä¸”æŠ—å£“æ€§é«˜ï¼Œå°æ–¼å·¥æ¥­ç‰©è¯ç¶²ã€AIæ©Ÿå™¨å­¸ç¿’ã€è»Ÿé«”ç”Ÿå‘½é€±æœŸå¹³å°ç­‰æœ€æ–°æŠ€è¡“çš„å·¥æ¥­æ‡‰ç”¨éžå¸¸æœ‰èˆˆè¶£ï¼Œéƒ½æ­¡è¿ŽåŠ å…¥æˆ‘å€‘! æœ¬å…¬å¸é›–æ˜¯æ–°å‰µä¼æ¥­ï¼Œä½†æˆ‘å€‘çš„å®¢æˆ¶éƒ½æ˜¯å…©å²¸çš„å¤§åž‹è£½é€ æ¥­ï¼Œé™¤äº†è®“æ‚¨èƒ½ç ”ç©¶æ–°æŠ€è¡“æ‡‰ç”¨ä¹‹å¤–ï¼Œé‚„èƒ½ç¿’å¾—ä¸€èˆ¬äººå¾ˆé›£æœ‰æ©Ÿæœƒæ·±å…¥ç¢°è§¸çš„è£½é€ æ¥­é ˜åŸŸçŸ¥è­˜ï¼Œæˆ‘å€‘æä¾›å„ªæ¸¥çš„èµ·è–ªã€å…‰æ˜Žçš„æœªä¾†ï¼Œèª æ‘¯é‚€è«‹æ‚¨æˆç‚ºæˆ‘å€‘çš„ä¸€ä»½å­ã€‚
+
+æœ¬è·å‹™ä¸»è¦å·¥ä½œæœƒåƒèˆ‡AIæ©Ÿå™¨å­¸ç¿’Web-basedå¹³å°é–‹ç™¼å·¥ä½œï¼ŒåŸºæœ¬æ¢ä»¶è¦æ±‚:
+1. ç†Ÿæ‚‰HTML5/CSS3/ES6+(Javascript)
+
+å…·å‚™ä»¥ä¸‹èƒ½åŠ›å°¤ä½³:
+1. ä½¿ç”¨éŽä¸‹åˆ—ä»»ä¸€æ¡†æž¶ Vue/React/Angular (Vueå°¤ä½³)
+2. å…·å‚™HTTPå”è­°çš„åŸºç¤ŽçŸ¥è­˜1.	æ·±åº¦å­¸ç¿’æ¨¡åž‹è³‡æ–™æœé›†, æ¸…ç†, æ¨™è¨˜, è¨“ç·´, è©•ä¼°èˆ‡å„ªåŒ–
+2.	é›»è…¦è¦–è¦ºç›¸é—œä¹‹æ·±åº¦å­¸ç¿’æ¼”ç®—æ³•é–‹ç™¼èˆ‡æ•´åˆ
+
+
+æœ¬å…¬å¸æ˜¯åœ‹å…§å°ˆæ³¨åœ¨éžçµæ§‹è³‡æ–™è™•ç†çš„é ˜å°Žå» å•†ï¼Œåœ¨ç¤¾ç¾¤ç›£æ¸¬ã€èªžæ„åˆ†æžã€åŠä¼æ¥­æœå°‹æ‡‰ç”¨ä¸Šå‡æœ‰æœ€é«˜çš„å¸‚å çŽ‡ã€‚å› æ­¤ï¼Œå°‡é‚€è«‹ç†Ÿæ‚‰äººå·¥æ™ºæ…§/æ©Ÿå™¨å­¸ç¿’/èªžæ„åˆ†æžçš„äººæ‰åŠ å…¥ã€‚å·¥ä½œå…§å®¹å¦‚ä¸‹ï¼š
+
+1 åœ¨RDéƒ¨é–€è² è²¬æ ¸å¿ƒç¨‹å¼é–‹ç™¼ï¼ŒåŒ…æ‹¬æž¶æ§‹åŠè¨­è¨ˆ
+2 é–‹ç™¼é ˜åŸŸç‚ºæ©Ÿå™¨å­¸ç¿’åŠèªžæ„åˆ†æž (machine learning, language processing, semantic analysis)
+3 å°äººå·¥æ™ºæ…§, è¨ˆç®—èªžè¨€å­¸, èªçŸ¥ç§‘å­¸æœ‰èˆˆè¶£è€…å°¤ä½³
+4 éœ€å¯¦éš›é–‹ç™¼ç¨‹å¼åŠé€²è¡Œå„ç¨®å¯¦é©—ã€Œå°é”ç ”ç©¶é™¢ã€æˆç«‹æ–¼2013å¹´ï¼Œé™¤è‡´åŠ›æ–¼å¤§æ•¸æ“šåˆ†æžåŠç‰©è¯ç¶²æ‡‰ç”¨èˆ‡è§£æ±ºæ–¹æ¡ˆçš„é–‹ç™¼èˆ‡æ•´åˆï¼ŒåŠ é€Ÿä¼æ¥­è½‰åž‹æˆåŠŸï¼Œä¹Ÿç©æ¥µèˆ‡ç”¢å®˜å­¸ç ”ç”Ÿæ…‹é«”ç³»å”ä½œï¼Œä»¥é–‹æ”¾å‰µæ–°æ¨¡å¼ï¼Œå‰µé€ å¤šè´ç”Ÿæ…‹åœˆã€‚
+
+ æœ¬è·ç¼ºä¸»è¦å·¥ä½œå…§å®¹åŒ…å«ä½†ä¸é™æ–¼:
+1. è² è²¬è¨­è¨ˆèˆ‡é–‹ç™¼å½±åƒç›¸é—œä¹‹é›»è…¦è¦–è¦ºèˆ‡æ©Ÿå™¨å­¸ç¿’æŠ€è¡“
+2. å”åŒé–‹ç™¼ã€ä½ˆå»ºå’Œæ¸¬è©¦è§£æ±ºæ–¹æ¡ˆæ–¼æ‡‰ç”¨å ´åŸŸ
+3. ä¾å°ˆæ¡ˆéœ€æ±‚ç ”è®€æ©Ÿå™¨å­¸ç¿’æŠ€è¡“æ–¼é†«ç™‚ç›¸é—œæ‡‰ç”¨è­°é¡Œ
+1.æ©Ÿå™¨å­¸ç¿’ã€æ·±åº¦å­¸ç¿’ã€å½±åƒè¾¨è­˜è»Ÿé«”é–‹ç™¼
+2.è¡¨é¢Defectæª¢æ¸¬é–‹ç™¼/æ•ˆçŽ‡æå‡å°ˆæ¡ˆ
+3.CIM/MESç³»çµ±åŠAIç³»çµ±æ•´åˆ
+
+â—Žä¾å­¸ç¶“æ­·ã€ç§‘ç³»ã€ç¶“é©—ç›¸é—œæ€§ã€ç‰¹æ®Šéœ€æ±‚è­‰ç…§åŠå°ˆé•·ç­‰æ¢ä»¶æ ¸æ•˜å€‹äººè–ªè³‡ã€‚
+æˆ‘å€‘æ˜¯ CLICKFORCE æ­¡è¿Žæ‚¨åŠ å…¥æˆ‘å€‘
+æˆ‘å€‘æ­£åœ¨æ‹›å‹Ÿå°é–‹ç™¼å……æ»¿ç†±æƒ…çš„å·¥ç¨‹å¸«åœ˜éšŠ!!
+
+ä¸»è¦å·¥ä½œå…§å®¹èˆ‡æ¢ä»¶ï¼š 
+1.	æ’°å¯«åŠç¶­è­·ç¶²è·¯çˆ¬èŸ²ç¨‹å¼ï¼Œä»¥æ“·å–ç¶²è·¯æ–‡ç« æ–‡å­—è³‡æ–™
+2.	è³‡æ–™æ¸…æ´—ï¼Œæ•´ç†
+3.	ä½¿ç”¨ç¶²è·¯çˆ¬èŸ²æ“·å–çš„è³‡æ–™å»ºæ§‹æ©Ÿå™¨å­¸ç¿’æ¨¡åž‹ï¼Œä»¥åˆ†æžä½¿ç”¨è€…è³‡æ–™
+4.	ä½¿ç”¨ç¶²è·¯ä½¿ç”¨è€…ç€è¦½è³‡æ–™å»ºç½®é æ¸¬æ¨¡åž‹ï¼Œé æ¸¬ç¶²è·¯ä½¿ç”¨è€…é»žæ“Šå»£å‘Šæ„åœ–
+5.	å”åŠ©ç·¨å¯«ä½¿ç”¨è€…åˆ†ç¾¤ç¨‹å¼
+6.     é€éŽç›£ç£å¼å­¸ç¿’æˆ–æ·±åº¦å­¸ç¿’é€²è¡Œåœ–åƒè¾¨è­˜è³‡æ–™
+
+æ‰€éœ€å°ˆé•·
+1.	ç†Ÿæ‚‰Pythonç¨‹å¼èªžè¨€ï¼ŒåŒ…å«pandas, BeautifulSoup, numpy, sklearn, Gensimç­‰æ¨¡çµ„
+2.	ç†Ÿæ‚‰Linux, SQL
+
+åŠ åˆ†å°ˆé•·
+1.     æœ‰ä½¿ç”¨GCP (BigQuery, Cloud Storage, Compute Engine), AWS (Athena, S3)ç­‰æœå‹™
+2.      çµ±è¨ˆå­¸å°ˆé•·
+3.       åœ–åƒè¾¨è­˜å°ˆæ¡ˆç¶“é©—ä½³ç’°çƒç¿è¦–(UbeStream Inc.)ç‚ºå°ç£é¦–å®¶ä¸”å”¯ä¸€å–å¾—è‚¡ç¥¨ä»£è™Ÿä¹‹AIç§‘æŠ€æ–°å‰µå…¬å¸(å‰µæ«ƒ7587)ï¼Œç‚ºè³‡æ–™ç§‘å­¸åšå£«æ‰€å‰µè¾¦ï¼Œå…¬å¸èšç„¦AIäººå·¥æ™ºæ…§/ICTè³‡é€šè¨Š/IoTåœ¨é›²ç«¯SaaSèˆ‡Edge Deviceä¹‹æŠ€è¡“ç ”ç™¼ï¼Œæä¾›å„é ˜åŸŸAIaaSä¹‹æŽ¥åœ°æ‡‰ç”¨ï¼ŒåŠ©åŠ›å®¢æœè«®è©¢/é¤é£²é›¶å”®/æ—…éŠè§€å…‰/é‹å‹•ä¼‘é–’/é†«ç™‚å¥åº·ç­‰é ˜åŸŸä»¥æ™ºæ…§èˆ‡ç„¡æŽ¥è§¸ç§‘æŠ€é€²è¡Œæ•¸ä½è½‰åž‹ã€‚ç’°çƒç¿è¦–ç‚ºæ”¿åºœæ™ºæ…§å‰µæ–°(æ™ºæ…§å®¢æœ)æä¾›å•†ï¼Œå…¬å¸ä½åœ¨å°åŒ—å¸‚å…§æ¹–ç§‘æŠ€åœ’å€æ´²å­è¡—ï¼Œäº¤é€šåœè»Šä¾¿åˆ©ï¼Œæ·é‹è¿‘æ–‡æ¹–ç·šæ¸¯å¢˜ç«™ï¼›æœ¬AIæ¼”ç®—æ³•Edge Devè·ç¼ºï¼Œé©åˆå…·ç›¸é—œé–‹ç™¼ç¶“é©—æˆ–ç§‘ç³»èƒŒæ™¯è€…æ‡‰å¾µï¼Œå…·å‚™ä¸‹åˆ—ä»»ä¸€ç›¸é—œé–‹ç™¼ç¶“é©—è€…(ç›¸é—œç³»æ‰€åšç¢©å£«ç”Ÿäº¦å¯)ï¼Œæ­¡è¿Žæª¢é™„ç›¸é—œå­¸æ­·(æœ‰è«–æ–‡è€…åŠ åˆ†)èˆ‡ç›¸é—œé …ç›®é–‹ç™¼ç¶“é©—è­‰æ˜Žæ‡‰å¾µï¼ŒåŠ å…¥ç’°çƒç¿è¦–AIé‚Šç·£é‹ç®—(Edge Algorithm & Computing)é–‹ç™¼åœ˜éšŠï¼š
+
+ä¸»è¦ä»»å‹™ï¼šç™¼å±•AIé›²æ™ºæ…§æ ¸å¿ƒèªžæ„åŠèªžéŸ³å¼•æ“Žæ¼”ç®—æ³•ï¼Œä¸¦è½‰åŒ–åˆ°Edgeå„ªåŒ–åŸ·è¡Œæ•ˆèƒ½åŠæ•ˆçŽ‡
+1.èªžæ„åŠæ–‡æœ¬åˆ†æžæ¼”ç®—æ³•ï¼šå…·èªžæ„æ–‡æœ¬åˆ†æžæ¼”ç®—æ³•è¨­è¨ˆèˆ‡é–‹ç™¼èƒ½åŠ›ï¼Œéœ€å­¸ç¿’éŽText Mining/Information Retrievalç­‰ç›¸é—œèª²ç¨‹ï¼Œå—éŽç›¸é—œèªžç¾©åˆ†æžç†è«–è¨“ç·´ï¼Œå…·æœ‰Data Science/Data Mining/Information Retrieval/Big Dtaç›¸é—œç§‘ç³»ç ”ç©¶æ‰€æˆ–LabèƒŒæ™¯ï¼Œæ’°å¯«ç™¼è¡¨éŽç›¸é—œæ¼”ç®—æ³•æœŸåˆŠè«–æ–‡è€…å°¤ä½³ã€‚
+2.Deep Learning/Machine Learningï¼šç†Ÿæ‚‰ANNé¡žç¥žç¶“ç›¸é—œèªžæ„(èªžç¾©)æˆ–æ–‡æœ¬åˆ†æžæ¼”ç®—æ³•ï¼Œç†Ÿæ»ç†Ÿæ»CNN/RNN/RCNN/LSTMç­‰ç†è«–èˆ‡é‹ç”¨ï¼Œå…·å‚™ç™¼å±•NLP/NLUä¹‹èƒ½åŠ›ï¼Œç™¼è¡¨éŽç›¸é—œè‡ªç„¶èªžæ„æ¼”ç®—æ³•æœŸåˆŠè«–æ–‡ã€‚
+3.èªžéŸ³è¾¨è­˜ï¼šSTT/TTSï¼Œç†Ÿæ‚‰è¯èªž/è‹±èªžåŠå…¶ä»–å¤–èªžèªžéŸ³è¾¨è­˜æŠ€è¡“ï¼Œéœ€å¯è™•ç†è¾¨è­˜å¤šèªžç¨®å¤¾é›œæˆ–å¤šäººç™¼è¨€èªžå¥ã€‚
+4.èªžæ„åŠèªžéŸ³EdgeéŸŒé«”åŠICè¨­è¨ˆï¼šå…·æœ‰Edgeæˆ–DeviceéŸŒé«”ç¨‹å¼åŠICè¨­è¨ˆæ•´åˆç¶“é©—èƒŒæ™¯ï¼Œå…·å‚™ç ”ç™¼Edgeèªžæ„åŠèªžéŸ³æ¼”ç®—æ³•éŸŒé«”ç¨‹å¼ICèƒ½åŠ›ã€‚
+5.æœ‰Arduino/Raspberry Pié–‹ç™¼ç¶“é©—ï¼Œç†Ÿæ‚‰DSP/MCUã€‚
+6.ç†Ÿæ‚‰Cèªžè¨€éŸŒé«”é–‹ç™¼ã€‚
+7.AIæ©Ÿå™¨å­¸ç¿’/æ·±åº¦å­¸ç¿’ä¹‹ICæ™¶ç‰‡è¨­è¨ˆç¶“é©—ã€‚
+8.Alexa/å°ç±³/iå¯¶è²æ™ºæ…§éŸ³ç®±ç›¸é—œé–‹ç™¼æˆ–æ‡‰ç”¨ç¶“é©—ã€‚
+9.IoTç‰©è¯ç¶²èˆ‡AIoTæ™ºæ…§ç‰©è¯ç¶²é–‹ç™¼å»ºç½®ç¶“é©—ã€‚
+
+ç›¸é—œï¼š
+*èªžæ„/èªžç¾©éœ€è™•ç†è§£æžè‹±æ–‡ã€ç°¡ä¸­ã€ç¹ä¸­åŠå…¶ä»–ä¸»è¦èªžæ–‡ã€‚
+*èªžéŸ³è¾¨è­˜éœ€è¾¨è­˜è‹±èªžã€è¯èªžåŠå…¶ä»–ä¸»è¦èªžè¨€(STT)åŠæ–‡å­—è½‰èªžéŸ³(TSS)ã€‚
+*éœ€ç†ŸTensorflow/Keras/PyTorchç­‰æž¶æ§‹ã€‚
+*æœ‰AI Chatbotæˆ–AI Agenté–‹ç™¼ç¶“é©—ï¼Œå…·å‚™èˆ‡å¸¸ç”¨IMæˆ–Appæ•´åˆèƒ½åŠ›æˆ–ç¶“é©—ã€‚
+*æœ‰Deviceå¦‚æ‰‹æ©Ÿ/å¹³æ¿/æ™ºæ…§çœ‹æ¿/Kioskæˆ–Edgeä¹‹AIoTé–‹ç™¼æ•´åˆèƒ½åŠ›æˆ–ç¶“é©—ã€‚
+*ç†ŸLinux/Android/Mac/iOSç­‰Device/Edgeä½œæ¥­ç³»çµ±æ‡‰ç”¨ç¨‹å¼é–‹ç™¼åŠéŸŒé«”é–‹ç™¼
+
+å…·æœ‰ä»¥ä¸Šç›¸é—œé–‹ç™¼ç¶“é©—æˆ–å°ˆé•·ï¼Œå°AIèªžæ„å°è©±æ©Ÿå™¨äºº/èªžæ„æ–‡æœ¬åˆ†æž/èªžæ„è¾¨è­˜æ¼”ç®—æ³•åœ¨Cloud/Edge/Deviceç­‰AICTæˆ–AIoTæŠ€è¡“ä¹‹è½‰åŒ–èª¿é©åŠæ•ˆèƒ½å„ªåŒ–æœ‰èˆˆè¶£ï¼Œæ­¡è¿ŽæŠ•éžå±¥æ­·é¢è«‡ï¼Œèˆ‡ç’°çƒç¿è¦–å…±å‰µæ•¸æ“šæ™ºæ…§å¾žæ¼”ç®—æ³•ç ”ç™¼ã€ç³»çµ±ç”¢å“ç™¼å±•ã€ç”¢æ¥­æœå‹™æ‡‰ç”¨ï¼Œä¿ƒé€²å°ç£èˆ‡å…¨çƒç”¢æ¥­æ•¸ä½è½‰åž‹ï¼›æœ¬å…¬å¸ç‚ºå°ç£ç¬¬ä¸€å®¶AIæ–°å‰µç™»æ¿å‰µæ«ƒå…¬å¸ï¼Œåœ˜éšŠå¤¥ä¼´å°‡äº«æœ‰è‚¡ç¥¨èªè‚¡é…è‚¡æˆ–è‚¡ç¥¨é¸æ“‡æ¬Šæ©Ÿæœƒã€‚ï¼Šï¼Šï¼Š2020å¹´6æœˆ å…¨æ–°å•Ÿç”¨å°ç£æˆ¿ä»²æ¥­å”¯ä¸€ï¼Œæƒ…å¢ƒå¼é«˜éšŽå°ˆæ¥­è¨“ç·´ä¸­å¿ƒï¼Šï¼Šï¼Š
+â€»å°ç£æˆ¿ä»²æ¥­å”¯ä¸€ï¼Œé€éŽæƒ…å¢ƒå¼æ¨¡æ“¬çµåˆAIæ™ºæ…§ã€å¯¦å¢ƒæ“´å……äº’å‹•è¨“ç·´ï¼Œå”åŠ©æ–°äººå¿«é€Ÿå°ˆæ¥­å‡ç´šï¼Œå„ªè³ªæœå‹™å®¢æˆ¶ï¼Œé ˜å…ˆåŒæ¥­å‚³çµ±è¨“ç·´ã€‚
+â€»æ¥­ç•Œå”¯ä¸€ï¼Œæ–¥è³‡ä¸Šå„„æä¾›æ™ºæ…§åž‹è¨“ç·´ä¸­å¿ƒï¼‹æƒ…å¢ƒé«˜éšŽè¨“ç·´èª²ç¨‹ï¼Œè®“æ–°äººæˆç‚ºæˆ¿åœ°ç”¢é ‚å°–å°ˆæ¥­äººæ‰ã€‚
+
+1. åœ‹å…§ä¸å‹•ç”¢è²·è³£å°ˆæ¥­æœå‹™
+2. å…¨é½¡åŒ–ä¸å‹•ç”¢æŠ•è³‡ç®¡ç†æœå‹™
+3. ä¿éšœå®¢æˆ¶ç›¸é—œå”®å¾Œæœå‹™(è¼»å°„ã€æµ·ç ‚é é˜²æª¢æ¸¬)ç”±å…¬å¸å°ˆæ¡ˆæä¾›
+4. å°ç£æˆ¿å±‹ç›´ç‡Ÿé–€å¸‚éŒ„å–ï¼Œä»¥åŠå„éšŽæ®µå‡é·ï¼Œå‡æœ‰è€ƒè©¦åˆ¶åº¦æå‡å°ˆæ¥­å“è³ª1. é€²æ–™é›¶ä»¶æª¢é©—ã€è£½é€ éŽç¨‹ä¸­è£½ç¨‹å·¡æª¢ã€å‡ºè²¨æª¢é©—ã€å¯¦æ–½å“ç®¡è¨ˆç•«ã€‚
+2. åŽŸç‰©æ–™æˆå“é©—æ”¶ã€å“ä¿å ±å‘Šè£½ä½œã€å“ä¿è¡¨å–®ç®¡ç†ç­‰ã€‚
+3. ç¶­è­·ã€æ›´æ–°ã€è™•ç†å„é¡žæ–‡ä»¶æª”æ¡ˆå’Œè³‡æ–™åº«ç³»çµ±åŠå…¬å¸äº¤è¾¦äº‹é …ã€‚ 
+4. å…·è¦–åœ–èƒ½åŠ›ï¼ˆå·¥ç¨‹åœ–ï¼‰ã€‚ 
+5. ç†Ÿæ‚‰ç”Ÿç”¢ç‰©æ–™ç®¡ç†æµç¨‹è€…ä½³ ã€‚
+6. éœ€è¦å…·æœ‰é–‹è»Šèƒ½åŠ›,é…åˆåœ‹å…§å‡ºå·®ã€‚æ­¡è¿Žå–œæ„›éŸ“åœ‹æµè¡Œäº‹å‹™æˆ–å°å½©å¦/éš±å½¢çœ¼é¡/æœ‰èˆˆè¶£çš„äººï¼Œä¸€åŒåŠ å…¥æˆ‘å€‘çš„åœ˜éšŠï¼
+
+â€»æ­¤è·ç¼ºç‚ºçŸ­æœŸè‡¨æ™‚æ«ƒäººå“¡ï¼Œå·¥ä½œæœŸé–“ç‚ºå³æ—¥èµ·~110å¹´5æœˆä¸­
+
+1.é¡§å®¢æŽ¥å¾…æœå‹™åŠå”®å¾Œæœå‹™ã€‚
+2.éš±å½¢çœ¼é¡å•†å“ä»‹ç´¹ã€éŠ·å”®èˆ‡åŒ…è£æœå‹™ã€‚
+3.é–€å¸‚å•†å“é™³åˆ—ã€åº«å­˜ç®¡ç†ã€‚
+4.é–€å¸‚åº—å‹™ç¶“ç‡Ÿã€æŽ¨å‹•åº—æ¥­ç¸¾ä¹‹ç›®æ¨™é”æˆã€‚
+5.æœƒå“¡ç®¡ç†ï¼Œç›¸é—œè¡Œæ”¿ä½œæ¥­ ã€‚
+6.å¶é ˆé…åˆé–€å¸‚è¼ªèª¿èˆ‡æ”¯æ´ã€‚æ³›ç§‘çŸ¥è­˜ä»¥çŸ¥è­˜æŽ¨å»£åŠæ•™è‚²å‰µæ–°ç‚ºç†å¿µï¼Œè‡´åŠ›æ–¼è®“å¤©ä¸‹æ²’æœ‰é›£å­¸çš„çŸ¥è­˜ã€‚æ——ä¸‹Pansciæ³›ç§‘å­¸æ˜¯å°ç£æœ€å¤§ä¸”æœ€è¢«ä¿¡è³´çš„ç§‘å­¸ç¤¾ç¾¤ï¼Œé€éŽç¤¾ç¾¤é »é“åŠè‡ªå»ºå¹³å°é€²è¡Œå…§å®¹è¡ŒéŠ·ï¼ŒæŽ¨å‹•ç§‘æ™®æ–‡åŒ–ã€‚ã€Œç§‘å­¸ç”Ÿã€æ˜¯å°ˆç‚ºåœ‹ä¸­ç”Ÿæ‰“é€ çš„ç§‘æ™®é–±è®€å¹³å°ï¼Œèˆ‡å—ä¸€æ›¸å±€ã€ç§‘å­¸æœˆåˆŠå¼·å¼·è¯æ‰‹ï¼ŒåŸ¹é¤Šå­©å­çš„ç§‘å­¸ç´ é¤Šã€‚æ­¡è¿ŽèªåŒæ³›ç§‘ç†å¿µï¼Œå«»ç†Ÿå¹³å°é–‹ç™¼æŠ€è¡“çš„å¥½æ‰‹åŠ å…¥ï¼Œèˆ‡æˆ‘å€‘ä¸€èµ·é€éŽç³»çµ±åŒ–åŠæ™ºèƒ½æ•¸æ“šï¼Œå‘æœªä¾†çŸ¥è­˜è½‰å‹•ã€‚
+
+1. åƒèˆ‡æ•¸ä½å­¸ç¿’å¹³å°ç³»çµ±è¨­è¨ˆã€é–‹ç™¼èˆ‡ç¶­è­·
+2. å…·PHPé–‹ç™¼ç¶“é©— (ç†Ÿæ‚‰ WordPress å®¢è£½é–‹ç™¼å°¤ä½³ï¼‰
+3. ç†Ÿæ‚‰RDBMSæˆ–å…·å‚™NoSQLé–‹ç™¼ç¶“é©—
+4. å…·å‚™RESTful API é–‹ç™¼ç¶“é©—è€…å°¤ä½³
+5. æœ‰ä¼æ¥­é›²ç«¯å¹³å°(å¦‚AWS, GCPç­‰)ä½¿ç”¨ç¶“é©—è€…å°¤ä½³
+
+ï¼Šï¼Šï¼Š2020å¹´6æœˆ å…¨æ–°å•Ÿç”¨å°ç£æˆ¿ä»²æ¥­å”¯ä¸€ï¼Œæƒ…å¢ƒå¼é«˜éšŽå°ˆæ¥­è¨“ç·´ä¸­å¿ƒï¼Šï¼Šï¼Š 
+â€»å°ç£æˆ¿ä»²æ¥­å”¯ä¸€ï¼Œé€éŽæƒ…å¢ƒå¼æ¨¡æ“¬çµåˆAIæ™ºæ…§ã€å¯¦å¢ƒæ“´å……äº’å‹•è¨“ç·´ï¼Œå”åŠ©æ–°äººå¿«é€Ÿå°ˆæ¥­å‡ç´šï¼Œå„ªè³ªæœå‹™å®¢æˆ¶ï¼Œé ˜å…ˆåŒæ¥­å‚³çµ±è¨“ç·´ã€‚  
+â€»æ¥­ç•Œå”¯ä¸€ï¼Œæ–¥è³‡ä¸Šå„„æä¾›æ™ºæ…§åž‹è¨“ç·´ä¸­å¿ƒï¼‹æƒ…å¢ƒé«˜éšŽè¨“ç·´èª²ç¨‹ï¼Œè®“æ–°äººæˆç‚ºæˆ¿åœ°ç”¢é ‚å°–å°ˆæ¥­äººæ‰ã€‚ 
+ 
+1. åœ‹å…§ä¸å‹•ç”¢è²·è³£å°ˆæ¥­æœå‹™  
+2. å…¨é½¡åŒ–ä¸å‹•ç”¢æŠ•è³‡ç®¡ç†æœå‹™ 
+3. ä¿éšœå®¢æˆ¶ç›¸é—œå”®å¾Œæœå‹™(è¼»å°„ã€æµ·ç ‚é é˜²æª¢æ¸¬)ç”±å…¬å¸å°ˆæ¡ˆæä¾›  
+4. å°ç£æˆ¿å±‹ç›´ç‡Ÿé–€å¸‚éŒ„å–ï¼Œä»¥åŠå„éšŽæ®µå‡é·ï¼Œå‡æœ‰è€ƒè©¦åˆ¶åº¦æå‡å°ˆæ¥­å“è³ª1. åˆ©ç”¨è³‡æ–™åˆ†æžåŠæ©Ÿå™¨å­¸ç¿’é€²è¡ŒçŽ‰å±±é‡‘æŽ§å…§éƒ¨ / å¤–éƒ¨æƒ…å‹¢è©•ä¼°åŠå•é¡Œç™¼ç¾
+2. å”åŠ©æ¥­å‹™å–®ä½åˆ©ç”¨è³‡æ–™åˆ†æžæˆ–æ©Ÿå™¨å­¸ç¿’è§£æ±ºé—œéµç§‘æŠ€è­°é¡Œï¼Œä¸¦æä¾›æ±ºç­–å»ºè­°
+
+è‹¥æ‚¨å°æ­¤è·ç¼ºæœ‰èˆˆè¶£ï¼Œè«‹è‡³ã€ŒçŽ‰å±±èè‹±ç”„é¸ç¶²ç«™ã€å¡«å¯«å±¥æ­·
+ã€ç¶²å€ï¼šhttps://hr.esunfhc.com/Recruitment/Home/Account?hrcontact&oneofour ã€‘ï¼Œå¦‚ç¶“ä¸»ç®¡å¯©æ ¸é€šéŽï¼Œå°‡é‚€è«‹æ‚¨åƒåŠ é¢è«‡ï¼Œè¬è¬ï¼1. åŸºç¤Žè³‡æ–™åˆ†æž(é ˜åŸŸè³‡æ–™æ´žæ‚‰ã€ç‰¹å¾µé¸æ“‡ã€è³‡æ–™å‰è™•ç†ç­‰)
+2. æ©Ÿå™¨å­¸ç¿’æ‡‰ç”¨è»Ÿé«”ç”¢å“èˆ‡å°ˆæ¡ˆé–‹ç™¼
+èº«è™•æ•¸ä½é‡‘èžè½‰åž‹å¹´ä»£çš„ä½ ï¼Œæƒ³è¦åœ¨é€™å€‹ç¿»è½‰çš„æ™‚ä»£è»‹ä¸Šä¸€è§’ï¼Ÿ å°å·¨é‡çµæ§‹åŒ–è³‡æ–™ã€åŠçµæ§‹åŒ–è³‡æ–™ç”šè‡³éžçµæ§‹åŒ–è³‡æ–™çš„åˆ†æžã€è™•ç†èˆ‡å„²å­˜æ˜¯å¦å…·æœ‰é«˜åº¦èˆˆè¶£ï¼Ÿ å°æ‰“é€ æ©Ÿå™¨å­¸ç¿’å¹³å°åŠç³»çµ±è»Ÿé«”æ¡†æž¶æ˜¯å¦å…·æœ‰ä¸€è‚¡ç†±è¡€ï¼Ÿ æ˜¯å¦æœ‰ç¨®è¡å‹•æƒ³æŒ‘æˆ°æŠŠæ©Ÿå™¨å­¸ç¿’å»ºæ§‹åœ¨åˆ†æ•£å¼ç³»çµ±åŠå¾®æœå‹™ç³»çµ± (docker)ä¹‹ä¸Š ï¼Ÿ æƒ³è¦æŒ‘æˆ°ç›¸åŒè³‡æ–™åº«è³‡æºä¸‹ç²¾ç¾Žåˆé«˜æ•ˆçŽ‡çš„ SQL èªžæ³•ï¼Ÿ å° open source æœ‰è‚¡èŽ«åçš„ç‹‚ç†±ï¼Œæƒ³è¦åˆ©ç”¨ open source  åšä¸€ç•ªäº‹æ¥­ï¼Ÿ è‡ªå‹•åŒ–æ¸¬è©¦åŠè‡ªå‹•åŒ–ä½ˆç½²ä¸Šç‰ˆæ©Ÿåˆ¶ï¼Œæ­£æ˜¯ä½ æ‹¿æ‰‹çš„é …ç›®ï¼Ÿä½ æ˜¯å–„æ–¼åˆ†æžå•é¡Œèˆ‡è§£æ±ºï¼Œæˆ–æœ‰å¿—æƒ³è¦æŒ‘æˆ°å·¨é‡è³‡æ–™çš„è™•ç†ï¼Ÿ ä½ æ˜¯ Python ä¸­çš„ç¿¹æ¥šï¼Ÿ 
+æ²’éŒ¯ï¼Œé€™äº›éƒ½æ˜¯æˆ‘å€‘æƒ³è¦æ‰¾çš„äººæ‰ï¼Œå°±æ˜¯ä½ ï¼Œæ­¡è¿Žä½ ä¾†åŠ å…¥çŽ‰å±±æ™ºèƒ½é‡‘èžè™•ï¼ 
+é™¤äº†ä»¥ä¸Šï¼Œä½ é‚„æœ‰æ©Ÿæœƒï¼Œåƒèˆ‡æ©Ÿå™¨å­¸ç¿’ (Machine Learning) å°ˆæ¡ˆé–‹ç™¼ã€è³‡æ–™ç‰¹å¾µå·¥ç¨‹ã€è¦åŠƒè¨­è¨ˆæ¬¡ä¸–ä»£æ©Ÿå™¨å­¸ç¿’å¹³å°ç™¼å±•èˆ‡è—åœ–ç­‰ä»»å‹™ã€‚ 
+
+
+è·ç¼ºæ¢ä»¶:
+1. ç¢©å£«è³‡è¨Šç®¡ç†ç›¸é—œã€æ•¸å­¸åŠé›»ç®—æ©Ÿç§‘å­¸å­¸ç§‘é¡žã€è³‡è¨Šå·¥ç¨‹ç›¸é—œï¼Œå·¥ä½œç¶“æ­·ä¸æ‹˜
+2. ç†Ÿæ‚‰ Linux åŠ Python ç¨‹å¼é–‹ç™¼èˆ‡ç¬¬ä¸‰æ–¹å¥—ä»¶åº«å¼•ç”¨ç¶“é©—
+3. ç†Ÿæ‚‰ SQL è³‡æ–™åº«èªžæ³•ï¼Œå°è³‡æ–™åº«æ ¡èƒ½èª¿æ ¡æœ‰èˆˆè¶£
+4. ç†Ÿæ‚‰ Git ç‰ˆæœ¬æŽ§åˆ¶ï¼Œå°CI/CD æµç¨‹ç®¡ç†æœ‰èˆˆè¶£
+5. ç•¥æ‡‚è³‡è¨Šå®‰å…¨åŠç¶²è·¯å‚³è¼¸ç›¸é—œåŸºç¤ŽçŸ¥è­˜ 1.åŸºç¤Žè³‡æ–™åˆ†æž(é ˜åŸŸè³‡æ–™æ´žæ‚‰ã€ç‰¹å¾µé¸æ“‡ã€è³‡æ–™å‰è™•ç†ç­‰)
+2.æ©Ÿå™¨å­¸ç¿’æ‡‰ç”¨è»Ÿé«”ç”¢å“èˆ‡å°ˆæ¡ˆé–‹ç™¼
+3.é–‹ç™¼åŠæ”¹è‰¯æ©Ÿå™¨å­¸ç¿’æˆ–æ¼”ç®—æ³•
+4.æ¼”ç®—æ³•å¯¦é©—è¨­è¨ˆèº«è™•æ•¸ä½é‡‘èžè½‰åž‹å¹´ä»£çš„ä½ ï¼Œæƒ³è¦åœ¨é€™å€‹ç¿»è½‰çš„æ™‚ä»£è»‹ä¸Šä¸€è§’ï¼Ÿ å°å·¨é‡çµæ§‹åŒ–è³‡æ–™ã€åŠçµæ§‹åŒ–è³‡æ–™ç”šè‡³éžçµæ§‹åŒ–è³‡æ–™çš„åˆ†æžã€è™•ç†èˆ‡å„²å­˜æ˜¯å¦å…·æœ‰é«˜åº¦èˆˆè¶£ï¼Ÿ å°æ‰“é€ æ©Ÿå™¨å­¸ç¿’å¹³å°åŠç³»çµ±è»Ÿé«”æ¡†æž¶æ˜¯å¦å…·æœ‰ä¸€è‚¡ç†±è¡€ï¼Ÿ æ˜¯å¦æœ‰ç¨®è¡å‹•æƒ³æŒ‘æˆ°æŠŠæ©Ÿå™¨å­¸ç¿’å»ºæ§‹åœ¨åˆ†æ•£å¼ç³»çµ±åŠå¾®æœå‹™ç³»çµ± (docker)ä¹‹ä¸Š ï¼Ÿ æƒ³è¦æŒ‘æˆ°ç›¸åŒè³‡æ–™åº«è³‡æºä¸‹ç²¾ç¾Žåˆé«˜æ•ˆçŽ‡çš„ SQL èªžæ³•ï¼Ÿ å° open source æœ‰è‚¡èŽ«åçš„ç‹‚ç†±ï¼Œæƒ³è¦åˆ©ç”¨ open source  åšä¸€ç•ªäº‹æ¥­ï¼Ÿ è‡ªå‹•åŒ–æ¸¬è©¦åŠè‡ªå‹•åŒ–ä½ˆç½²ä¸Šç‰ˆæ©Ÿåˆ¶ï¼Œæ­£æ˜¯ä½ æ‹¿æ‰‹çš„é …ç›®ï¼Ÿä½ æ˜¯å–„æ–¼åˆ†æžå•é¡Œèˆ‡è§£æ±ºï¼Œæˆ–æœ‰å¿—æƒ³è¦æŒ‘æˆ°å·¨é‡è³‡æ–™çš„è™•ç†ï¼Ÿ ä½ æ˜¯ Python ä¸­çš„ç¿¹æ¥šï¼Ÿ 
+
+æ²’éŒ¯ï¼Œé€™äº›éƒ½æ˜¯æˆ‘å€‘æƒ³è¦æ‰¾çš„äººæ‰ï¼Œå°±æ˜¯ä½ ï¼Œæ­¡è¿Žä½ ä¾†åŠ å…¥çŽ‰å±±æ™ºèƒ½é‡‘èžè™•ï¼ 
+
+é™¤äº†ä»¥ä¸Šï¼Œä½ é‚„æœ‰æ©Ÿæœƒï¼Œåƒèˆ‡æ©Ÿå™¨å­¸ç¿’ (Machine Learning) å°ˆæ¡ˆé–‹ç™¼ã€è³‡æ–™ç‰¹å¾µå·¥ç¨‹ã€è¦åŠƒè¨­è¨ˆæ¬¡ä¸–ä»£æ©Ÿå™¨å­¸ç¿’å¹³å°ç™¼å±•èˆ‡è—åœ–ç­‰ä»»å‹™ã€‚ 
+
+è·ç¼ºæ¢ä»¶:
+1. ä¸‰å¹´ä»¥ä¸Šç³»çµ±ç®¡ç†åŠç¶­è­·ç¶“é©—
+2. å…·å‚™æŠ€è¡“æž¶æ§‹è¦åŠƒèƒ½åŠ›èˆ‡åˆ¶å®šæŠ€è¡“è¦ç¯„ï¼ŒåŒ…æ‹¬å¤§æ•¸æ“šå‚³è¼¸åŠå€‰å„²ç­‰
+3. ç†Ÿæ‚‰ Linux åŠ Python ç¨‹å¼é–‹ç™¼èˆ‡ç¬¬ä¸‰æ–¹å¥—ä»¶åº«å¼•ç”¨ç¶“é©—
+4. ç†Ÿæ‚‰ SQL è³‡æ–™åº«èªžæ³•åŠæ ¡èƒ½èª¿æ ¡
+5. ç†Ÿæ‚‰ Git ç‰ˆæœ¬æŽ§åˆ¶åŠ CI/CD æµç¨‹ç®¡ç†
+6. ç•¥æ‡‚è³‡è¨Šå®‰å…¨åŠç¶²è·¯å‚³è¼¸ç›¸é—œåŸºç¤ŽçŸ¥è­˜ 1. Linux / Bash ç·¨ç¨‹ã€‚
+2. é‡å°ç¾æœ‰æ¨¡åž‹æˆ–ç³»çµ±æå‡ºç›¸å°å„ªåŒ–çš„æ–¹æ³•ã€‚
+3. æ‡‰ç”¨æ©Ÿå™¨å­¸ç¿’æ¼”ç®—æ³•æ–¼èªžéŸ³è¨Šè™Ÿ/è‡ªç„¶èªžè¨€çš„åˆ†æžã€‚
+4. é–‹ç™¼ç¥žç¶“ç¶²è·¯çš„é æ¸¬æ¨¡åž‹ã€‚
+5. æ©Ÿå™¨å­¸ç¿’æ¼”ç®—æ³•çš„IC Portingã€‚â€¢Â åƒèˆ‡é‡‘èž/äº’è¯ç¶²/é›¶å”®/å¥åº·é†«ç™‚ç­‰è¡Œæ¥­çš„æ‡‰ç”¨å ´æ™¯å’Œè§£æ±ºæ–¹æ¡ˆçš„é–‹ç™¼èˆ‡å‰µæ–°ã€‚
+â€¢Â çµåˆè¡Œæ¥­åŠå®¢æˆ¶å¯¦éš›é¢è‡¨çš„æ¥­å‹™å•é¡Œï¼Œæ¢³ç†æœ‰åƒ¹å€¼çš„å¯è½åœ°çš„å ´æ™¯å’Œå¯è¡Œæ€§æŠ€è¡“ï¼ŒæŒ‡å°Žåˆä½œå¤¥ä¼´é€²è¡Œåˆ†æžå•é¡Œï¼Œæ¢³ç†æ•¸æ“šã€å»ºæ¨¡ã€è¨­è¨ˆç‰¹å¾µæ–¹æ¡ˆå’Œå»ºæ¨¡å¯¦æ–½æµç¨‹ï¼Œè¼”åŠ©åŸ·è¡Œæ¨¡åž‹å’Œè§£æ±ºæ–¹æ¡ˆçš„äº¤ä»˜å’Œä¸Šç·šã€‚
+â€¢Â çµåˆè¡Œæ¥­ç¶“é©—åŠç«¹é–“æŠ€è¡“å„ªå‹¢ï¼Œé–‹ç™¼å…·æœ‰é€šç”¨å¯¦è¸åƒ¹å€¼çš„é«˜ç´šAIåŸ¹è¨“å’Œæž¶æ§‹è¨­è¨ˆã€‚è‡ªå‹•åŒ–äººæ‰(CIM/æ©Ÿå™¨å­¸ç¿’/æ·±åº¦å­¸ç¿’/å½±åƒè¾¨è­˜/ç³»çµ±æ•´åˆ)-é‚€è«‹æ‚¨çš„åŠ å…¥-
+
+
+ã€è·ç¼ºä¸€ã€‘-CIMå°ˆæ¥­äººæ‰(æ©Ÿå°è‡ªå‹•åŒ–)
+â—Ž EAP SECS/GEM æ©Ÿå°è‡ªå‹•åŒ–ç¨‹å¼é–‹ç™¼
+â—Ž CIMç³»çµ±çš„ç¶­è­·ã€æ”¯æ´ã€æ”¹å–„ 
+â—Ž å…ˆé€²è£½ç¨‹éœ€æ±‚è§£æ±ºæ–¹æ¡ˆè©•ä¼°åŠæä¾› 
+
+
+ã€è·ç¼ºäºŒã€‘-è»Ÿé«”é–‹ç™¼å·¥ç¨‹å¸«(æ©Ÿå™¨å­¸ç¿’/å½±åƒè™•ç†)
+â—Ž æ©Ÿå™¨å­¸ç¿’ã€æ·±åº¦å­¸ç¿’ã€å½±åƒè¾¨è­˜è»Ÿé«”é–‹ç™¼
+â—Ž è¡¨é¢Defectæª¢æ¸¬æ•ˆçŽ‡æå‡å°ˆæ¡ˆ
+
+
+ã€è·ç¼ºä¸‰ã€‘-Webç¨‹å¼è¨­è¨ˆå·¥ç¨‹å¸«
+â—Ž ç”Ÿç”¢ç®¡ç†ç³»çµ±(å«å ±è¡¨)é–‹ç™¼èˆ‡ç¶­è­·
+â—Ž CIM Reportå»ºç½®è¦åŠƒèˆ‡åŸ·è¡Œ(Webå‰å¾Œç«¯è¦åŠƒå»ºç½®)
+â—Ž ç”Ÿç”¢è‡ªå‹•åŒ–ç³»çµ±è¦åŠƒèˆ‡åŸ·è¡Œ
+
+â—Žä¾å­¸ç¶“æ­·ã€ç§‘ç³»ã€ç¶“é©—ç›¸é—œæ€§ã€ç‰¹æ®Šéœ€æ±‚è­‰ç…§åŠå°ˆé•·ç­‰æ¢ä»¶æ ¸æ•˜å€‹äººè–ªè³‡ã€‚
+â—Žè©³ç´°èªªæ˜Žè«‹åƒå„è·ç¼ºåˆŠç™»å…§å®¹
+ã€ä½ æœƒåœ¨ Positive Grid åšäº›ä»€éº¼ã€‘
+
+- å°‡ marketing, product ç«¯ä¸åŒ domain çš„éœ€æ±‚è§£æ§‹æˆæŠ€è¡“ç›®æ¨™
+- é ˜å°Ž machine learning RD, DSP å·¥ç¨‹å¸«, ä»¥åŠ PM specialist å¯¦ç¾ one-man-band ä»¥åŠå…¶ä»–éŸ³æ¨‚é …ç›®çš„ä½¿ç”¨æƒ…å¢ƒ
+- èˆ‡ IT ä»¥åŠ App å·¥ç¨‹å¸«åˆä½œ UX èˆ‡ data pipeline
+
+ã€æˆ‘å€‘éœ€è¦é€™æ¨£çš„ä½ ã€‘
+
+- ç†Ÿæ‚‰ Tensorflow/keras æˆ– pytorch
+- 3 å¹´ä»¥ä¸Š Deep learning å­¸ç¿’èˆ‡å¯¦ä½œç¶“é©—
+- 2 å¹´ä»¥ä¸Šæ©Ÿå™¨å­¸ç¿’ç›¸é—œç”¢æ¥­æºé€šç¶“é©— 
+- 2 å¹´ä»¥ä¸Šè»Ÿé«”é–‹ç™¼ä¸»ç®¡ç¶“é©—
+- ç†Ÿæ‚‰ ML model è¨­è¨ˆã€è¨“ç·´
+- è³‡è¨Šã€é›»æ©Ÿã€æ•¸å­¸æˆ–ç›¸é—œç§‘ç³»ç¢©å£«å­¸æ­·
+- ç†Ÿæ‚‰ colab ä½¿ç”¨
+- å°éŸ³æ¨‚ä½œæ›²ã€ç”Ÿæˆã€èªžéŸ³è™•ç†ã€æ¨‚éŸ³åˆæˆæœ‰ç¶“é©—è€… ä½³
+- ç†Ÿæ‚‰ GANã€Transformerã€VAEã€BERTå®¶æ—ã€GPTç³»åˆ— ç­‰ ä½³
+- ç†Ÿæ‚‰æ•¸ä½è¨Šè™Ÿè™•ç† ä½³Job Description
+1.  è¨­è¨ˆå’Œå»ºæ§‹åŸºæ–¼ Artificial Intelligence (AI, äººå·¥æ™ºæ…§) / Machine Learning (ML, æ©Ÿå™¨å­¸ç¿’) / Deep Learning (DL, æ·±åº¦å­¸ç¿’) æ¼”ç®—æ³•çš„ç³»çµ±å¹³å°ã€‚
+2.  é‹ç”¨æŽ¨è–¦ç³»çµ±/ Text Mining / Geomatics Analysis / å½±åƒè¾¨è­˜æ¼”ç®—æ³•ï¼Œå”åŠ©å…¬å¸é–‹ç™¼ç›¸é—œæ‡‰ç”¨èˆ‡æ•´åˆã€‚
+3. è² è²¬æ¨¡åž‹è¨“ç·´ã€æ¡†æž¶èˆ‡åƒæ•¸èª¿æ•´ã€‚
+4. èˆ‡ IT æºé€šèˆ‡å”ä½œè³‡æ–™åˆ†æžç³»çµ±å»ºç«‹ã€‚
+
+
+Qualifications & Education Requirements
+1. è³‡è¨Šå·¥ç¨‹ / é›»æ©Ÿå·¥ç¨‹ç­‰è³‡è¨Šç§‘å­¸ç›¸é—œé ˜åŸŸç¢©å£«ä»¥ä¸Šå­¸ä½ã€‚
+2. ç¢©å£«è«–æ–‡éœ€èˆ‡è³‡æ–™ç§‘å­¸é ˜åŸŸç›¸é—œæˆ–æ›¾ç™¼è¡¨éŽç›¸é—œæœŸåˆŠæ–‡ç« ã€‚
+3. å…·å‚™è‰¯å¥½çš„é–±è®€åœ‹éš›æœŸåˆŠä¹‹èƒ½åŠ›ã€‚
+
+
+Preferred Skills
+1. å…·å‚™é«˜æ•ˆçŽ‡çš„ Python / C / C++ ç­‰ç·¨å¯«ç¨‹å¼å¯¦ç¾æ¼”ç®—æ³•ã€‚
+2. æ“…é•·æŽ¨è–¦ç³»çµ± / Geomatics Analysis / å½±åƒè¾¨è­˜ / NLP / Text Mining è‡³å°‘ä¸€ç¨®ä»¥ä¸Šçš„æ¼”ç®—æ³•é–‹ç™¼ã€‚
+3. è‡³å°‘ç†Ÿæ‚‰ä¸€ç¨®ä¸»æµ DL æ¡†æž¶ / ML æ¼”ç®—æ³•ï¼ŒåŒ…å«ä½†ä¸é™æ–¼ TensorFlow, PyTorch, YOLOv3, Caffe, MXNet, CNTK, Keras, MLlibã€‚
+4. å…·ä»»ä¸€é›²ç«¯å¹³å° ( AWS / GCP / Azure) èˆ‡ Spark / Hadoop / PySpark å°ˆæ¡ˆé‹ç®—ç¶“é©—ã€‚
+5. èƒ½ç†Ÿç·´æ“ä½œ RDBMS, NoSQLã€‚
+6. æ“…é•·åœ˜éšŠåˆä½œä¸”å…·ç¨ç«‹è§£æ±ºå•é¡Œçš„èƒ½åŠ›ã€‚1. èƒ½å¯¦ä½œæ•¸æ“šåˆ†æžï¼Œå°‡æ„Ÿæ¸¬å™¨æ”¶é›†æ•¸æ“šé€²è¡Œé æ¸¬ã€åˆ†ç¾¤åŠåˆ†é¡žç­‰åˆ†æžã€‚
+2. èƒ½å¤ ç¨ç«‹é€²è¡ŒETLç­‰ç›¸é—œä½œæ¥­å«ï¼šè³‡æ–™æ¸…æ´—ã€å»ºæª”
+3. èƒ½å¤ å¯¦ä½œå„å›žæ­¸åŠåˆ†é¡žæ©Ÿå™¨å­¸ç¿’æ¨¡åž‹ï¼šexï¼šSVMã€LightGBMã€XGBoost
+4. èƒ½å¤ å¯¦ä½œçµ±è¨ˆæ–¹æ³•ï¼šexï¼šFactor Analysisï¼ŒANOVA
+
+
+
+è‹¥æ‚¨çš„é‚è¼¯æ¸…æ™°ã€å…·å‚™é‹ç®—æ€ç¶­èƒ½åŠ›ï¼Œä¸”å°AI/æ©Ÿå™¨å­¸ç¿’å¾ˆæœ‰èˆˆè¶£ã€åš®å¾€ä»¥AI/æ©Ÿå™¨å­¸ç¿’ç›¸é—œé–‹ç™¼å·¥ä½œç‚ºçµ‚èº«å¿—æ¥­ï¼Œä½†æ˜¯é‚„æ²’æœ‰ç›¸é—œå·¥ä½œç¶“é©—ã€ç”šè‡³ä¸æ˜¯ç›¸é—œç§‘ç³»ç•¢æ¥­ä½†è‡ªå­¸æœ‰æˆï¼Œéƒ½æ­¡è¿Žæ‚¨ä¾†æ‡‰å¾µé€™å€‹è·å‹™ã€‚åªè¦æ‚¨æœ‰æ±ºå¿ƒï¼Œæˆ‘å€‘æœƒæœ‰Mentorå¼•å°Žæ‚¨ã€è®“æ‚¨åœ¨å¯¦å‹™å·¥ä½œä¸­å­¸ç¿’ï¼Œæˆç‚ºç”¨é›™æ‰‹å‰µé€ æ”¹è®Šçš„å„ªç§€ç ”ç™¼å·¥ç¨‹å¸«ã€‚
+
+è¦æ±‚:
+1. å…·å‚™æ©Ÿå™¨å­¸ç¿’èˆ‡æ·±åº¦å­¸ç¿’ç†è«–åŸºç¤Ž
+2. å…·å‚™æ•¸å€¼åˆ†æžã€çµ±è¨ˆå­¸ã€ç·šæ€§ä»£æ•¸ç›¸é—œæ¦‚å¿µ
+3. å°æ–¼å¹³è¡Œé‹ç®—ã€åˆ†æ•£å¼é‹ç®—ã€å¢é›†é‹ç®—æœ‰åŸºç¤Žæ¦‚å¿µ
+4. åˆ†æžçµæžœå¯è¦–åŒ–èˆ‡è§£é‡‹èƒ½åŠ›çš„ç›¸é—œç¶“é©—
+5. Pythoné–‹ç™¼èƒ½åŠ›
+6. è‰¯å¥½çš„åœ˜éšŠåˆä½œèˆ‡æºé€šèƒ½åŠ›ç†Ÿæ‚‰äººå·¥æ™ºæ…§æˆ–æ˜¯æ©Ÿå™¨å­¸ç¿’æ¼”ç®—æ³•é–‹ç™¼ã€‚
+å”åŠ©é–‹ç™¼æ©Ÿå™¨å­¸ç¿’æ¼”ç®—æ³•æ‡‰ç”¨ã€‚
+
+
+
+ 
+æœ¬å…¬å¸æ˜¯ç”±ä¸€ç¾¤æ›¾ä»»è·åœ‹éš›è»Ÿé«”å¤§å» èˆ‡é«˜ç§‘æŠ€è£½é€ æ¥­åå¤šå¹´çš„å°ˆå®¶æ‰€å‰µç«‹ã€‚æˆ‘å€‘éžå¸¸ç†Ÿæ‚‰ä¼æ¥­ç‡Ÿé‹ç³»çµ±ã€ç‰©è¯ç¶²æ‡‰ç”¨ã€ä»¥åŠè¨­å‚™/ä¿¡æ¯/è‡ªå‹•åŒ–/å·¥å» ç®¡ç†ç­‰ç›¸é—œæŠ€è¡“ï¼Œå¸Œæœ›é‹ç”¨éŽåŽ»ç´¯ç©çš„ä¼æ¥­èˆ‡å·¥å» ç®¡ç†åŠç‰©è¯ç¶²æ‡‰ç”¨ç¶“é©—ï¼Œæ­é…è‡ªä¸»ç ”ç™¼çš„AIæ©Ÿå™¨å­¸ç¿’æŠ€è¡“å¹³å°ï¼Œå”åŠ©ä¼æ¥­ä»¥åˆç†çš„æˆæœ¬ã€å¿«é€Ÿåœ°å°Žå…¥é«˜åƒ¹å€¼è³‡è¨Šç³»çµ±ï¼Œè§£æ±ºå·¥å» ç®¡ç†å•é¡Œï¼Œæå‡å·¥å» æ•ˆèƒ½ï¼Œé”åˆ°æ™ºèƒ½åŒ–å·¥å» çš„ç›®æ¨™ã€‚
+
+æˆ‘å€‘å¸Œæœ›æ‹›å‹Ÿæ•¸åå¹´è¼•æ–°è¡€ï¼Œä¸¦ä¸åš´æ ¼è¦æ±‚æ‚¨çš„å·¥ä½œç¶“é©—ï¼Œåªè¦æ‚¨æŠ€è¡“åº•å­å¥½ã€é ­è…¦éˆæ´»ã€å……æ»¿å­¸ç¿’æ–°äº‹ç‰©çš„å¹¹å‹ï¼Œé¡˜æ„æŽ¥å—æŒ‘æˆ°ä¸”æŠ—å£“æ€§é«˜ï¼Œå°æ–¼å·¥æ¥­ç‰©è¯ç¶²ã€AIæ©Ÿå™¨å­¸ç¿’ã€è»Ÿé«”ç”Ÿå‘½é€±æœŸå¹³å°ç­‰æœ€æ–°æŠ€è¡“çš„å·¥æ¥­æ‡‰ç”¨éžå¸¸æœ‰èˆˆè¶£ï¼Œéƒ½æ­¡è¿ŽåŠ å…¥æˆ‘å€‘! æœ¬å…¬å¸é›–æ˜¯æ–°å‰µä¼æ¥­ï¼Œä½†æˆ‘å€‘çš„å®¢æˆ¶éƒ½æ˜¯å…©å²¸çš„å¤§åž‹è£½é€ æ¥­ï¼Œé™¤äº†è®“æ‚¨èƒ½ç ”ç©¶æ–°æŠ€è¡“æ‡‰ç”¨ä¹‹å¤–ï¼Œé‚„èƒ½ç¿’å¾—ä¸€èˆ¬äººå¾ˆé›£æœ‰æ©Ÿæœƒæ·±å…¥ç¢°è§¸çš„è£½é€ æ¥­é ˜åŸŸçŸ¥è­˜ï¼Œæˆ‘å€‘æä¾›å„ªæ¸¥çš„èµ·è–ªã€å…‰æ˜Žçš„æœªä¾†ï¼Œèª æ‘¯é‚€è«‹æ‚¨æˆç‚ºæˆ‘å€‘çš„ä¸€ä»½å­ã€‚
+
+æœ¬è·å‹™ä¸»è¦å·¥ä½œæœƒåƒèˆ‡AIæ©Ÿå™¨å­¸ç¿’Web-basedå¹³å°é–‹ç™¼å·¥ä½œï¼ŒåŸºæœ¬æ¢ä»¶è¦æ±‚:
+1. ç†Ÿæ‚‰HTML5/CSS3/ES6+(Javascript)
+
+å…·å‚™ä»¥ä¸‹èƒ½åŠ›å°¤ä½³:
+1. ä½¿ç”¨éŽä¸‹åˆ—ä»»ä¸€æ¡†æž¶ Vue/React/Angular (Vueå°¤ä½³)
+2. å…·å‚™HTTPå”è­°çš„åŸºç¤ŽçŸ¥è­˜1.	æ·±åº¦å­¸ç¿’æ¨¡åž‹è³‡æ–™æœé›†, æ¸…ç†, æ¨™è¨˜, è¨“ç·´, è©•ä¼°èˆ‡å„ªåŒ–
+2.	é›»è…¦è¦–è¦ºç›¸é—œä¹‹æ·±åº¦å­¸ç¿’æ¼”ç®—æ³•é–‹ç™¼èˆ‡æ•´åˆ
+
+
+æœ¬å…¬å¸æ˜¯åœ‹å…§å°ˆæ³¨åœ¨éžçµæ§‹è³‡æ–™è™•ç†çš„é ˜å°Žå» å•†ï¼Œåœ¨ç¤¾ç¾¤ç›£æ¸¬ã€èªžæ„åˆ†æžã€åŠä¼æ¥­æœå°‹æ‡‰ç”¨ä¸Šå‡æœ‰æœ€é«˜çš„å¸‚å çŽ‡ã€‚å› æ­¤ï¼Œå°‡é‚€è«‹ç†Ÿæ‚‰äººå·¥æ™ºæ…§/æ©Ÿå™¨å­¸ç¿’/èªžæ„åˆ†æžçš„äººæ‰åŠ å…¥ã€‚å·¥ä½œå…§å®¹å¦‚ä¸‹ï¼š
+
+1 åœ¨RDéƒ¨é–€è² è²¬æ ¸å¿ƒç¨‹å¼é–‹ç™¼ï¼ŒåŒ…æ‹¬æž¶æ§‹åŠè¨­è¨ˆ
+2 é–‹ç™¼é ˜åŸŸç‚ºæ©Ÿå™¨å­¸ç¿’åŠèªžæ„åˆ†æž (machine learning, language processing, semantic analysis)
+3 å°äººå·¥æ™ºæ…§, è¨ˆç®—èªžè¨€å­¸, èªçŸ¥ç§‘å­¸æœ‰èˆˆè¶£è€…å°¤ä½³
+4 éœ€å¯¦éš›é–‹ç™¼ç¨‹å¼åŠé€²è¡Œå„ç¨®å¯¦é©—ã€Œå°é”ç ”ç©¶é™¢ã€æˆç«‹æ–¼2013å¹´ï¼Œé™¤è‡´åŠ›æ–¼å¤§æ•¸æ“šåˆ†æžåŠç‰©è¯ç¶²æ‡‰ç”¨èˆ‡è§£æ±ºæ–¹æ¡ˆçš„é–‹ç™¼èˆ‡æ•´åˆï¼ŒåŠ é€Ÿä¼æ¥­è½‰åž‹æˆåŠŸï¼Œä¹Ÿç©æ¥µèˆ‡ç”¢å®˜å­¸ç ”ç”Ÿæ…‹é«”ç³»å”ä½œï¼Œä»¥é–‹æ”¾å‰µæ–°æ¨¡å¼ï¼Œå‰µé€ å¤šè´ç”Ÿæ…‹åœˆã€‚
+
+ æœ¬è·ç¼ºä¸»è¦å·¥ä½œå…§å®¹åŒ…å«ä½†ä¸é™æ–¼:
+1. è² è²¬è¨­è¨ˆèˆ‡é–‹ç™¼å½±åƒç›¸é—œä¹‹é›»è…¦è¦–è¦ºèˆ‡æ©Ÿå™¨å­¸ç¿’æŠ€è¡“
+2. å”åŒé–‹ç™¼ã€ä½ˆå»ºå’Œæ¸¬è©¦è§£æ±ºæ–¹æ¡ˆæ–¼æ‡‰ç”¨å ´åŸŸ
+3. ä¾å°ˆæ¡ˆéœ€æ±‚ç ”è®€æ©Ÿå™¨å­¸ç¿’æŠ€è¡“æ–¼é†«ç™‚ç›¸é—œæ‡‰ç”¨è­°é¡Œ
+1.æ©Ÿå™¨å­¸ç¿’ã€æ·±åº¦å­¸ç¿’ã€å½±åƒè¾¨è­˜è»Ÿé«”é–‹ç™¼
+2.è¡¨é¢Defectæª¢æ¸¬é–‹ç™¼/æ•ˆçŽ‡æå‡å°ˆæ¡ˆ
+3.CIM/MESç³»çµ±åŠAIç³»çµ±æ•´åˆ
+
+â—Žä¾å­¸ç¶“æ­·ã€ç§‘ç³»ã€ç¶“é©—ç›¸é—œæ€§ã€ç‰¹æ®Šéœ€æ±‚è­‰ç…§åŠå°ˆé•·ç­‰æ¢ä»¶æ ¸æ•˜å€‹äººè–ªè³‡ã€‚
+1. Behavior analysis
+2. Object detectionã€tracking
+3. Object attribute
+4. Pose estimation & action recognition
+5. Segmentation
+
+æ“…é•·å·¥å…·:Cã€C++ã€Python
+å…¶ä»–æ¢ä»¶:
+å…·å‚™é–‹ç™¼é›»è…¦è¦–è¦ºèˆ‡æ©Ÿå™¨å­¸ç¿’ç›¸é—œæ¼”ç®—æ³•ç¶“é©—ï¼Œå°‡å½±åƒç¶“ç”±æœ‰æ•ˆçŽ‡åˆ†æžå¾Œå¾—åˆ°æœ‰ç”¨çš„è³‡è¨Šå…§å®¹ç’°çƒç¿è¦–(UbeStream Inc.)ç‚ºå°ç£é¦–å®¶ä¸”å”¯ä¸€å–å¾—è‚¡ç¥¨ä»£è™Ÿä¹‹AIç§‘æŠ€æ–°å‰µå…¬å¸(å‰µæ«ƒ7587)ï¼Œç‚ºè³‡æ–™ç§‘å­¸åšå£«æ‰€å‰µè¾¦ï¼Œå…¬å¸èšç„¦AIäººå·¥æ™ºæ…§/ICTè³‡é€šè¨Š/IoTåœ¨é›²ç«¯SaaSèˆ‡Edge Deviceä¹‹æŠ€è¡“ç ”ç™¼ï¼Œæä¾›å„é ˜åŸŸAIaaSä¹‹æŽ¥åœ°æ‡‰ç”¨ï¼ŒåŠ©åŠ›å®¢æœè«®è©¢/é¤é£²é›¶å”®/æ—…éŠè§€å…‰/é‹å‹•ä¼‘é–’/é†«ç™‚å¥åº·ç­‰é ˜åŸŸä»¥æ™ºæ…§èˆ‡ç„¡æŽ¥è§¸ç§‘æŠ€é€²è¡Œæ•¸ä½è½‰åž‹ã€‚ç’°çƒç¿è¦–ç‚ºæ”¿åºœæ™ºæ…§å‰µæ–°(æ™ºæ…§å®¢æœ)æä¾›å•†ï¼Œå…¬å¸ä½åœ¨å°åŒ—å¸‚å…§æ¹–ç§‘æŠ€åœ’å€æ´²å­è¡—ï¼Œäº¤é€šåœè»Šä¾¿åˆ©ï¼Œæ·é‹è¿‘æ–‡æ¹–ç·šæ¸¯å¢˜ç«™ï¼›æœ¬AIæ¼”ç®—æ³•Edge Devè·ç¼ºï¼Œé©åˆå…·ç›¸é—œé–‹ç™¼ç¶“é©—æˆ–ç§‘ç³»èƒŒæ™¯è€…æ‡‰å¾µï¼Œå…·å‚™ä¸‹åˆ—ä»»ä¸€ç›¸é—œé–‹ç™¼ç¶“é©—è€…(ç›¸é—œç³»æ‰€åšç¢©å£«ç”Ÿäº¦å¯)ï¼Œæ­¡è¿Žæª¢é™„ç›¸é—œå­¸æ­·(æœ‰è«–æ–‡è€…åŠ åˆ†)èˆ‡ç›¸é—œé …ç›®é–‹ç™¼ç¶“é©—è­‰æ˜Žæ‡‰å¾µï¼ŒåŠ å…¥ç’°çƒç¿è¦–AIé‚Šç·£é‹ç®—(Edge Algorithm & Computing)é–‹ç™¼åœ˜éšŠï¼š
+
+ä¸»è¦ä»»å‹™ï¼šç™¼å±•AIé›²æ™ºæ…§æ ¸å¿ƒèªžæ„åŠèªžéŸ³å¼•æ“Žæ¼”ç®—æ³•ï¼Œä¸¦è½‰åŒ–åˆ°Edgeå„ªåŒ–åŸ·è¡Œæ•ˆèƒ½åŠæ•ˆçŽ‡
+1.èªžæ„åŠæ–‡æœ¬åˆ†æžæ¼”ç®—æ³•ï¼šå…·èªžæ„æ–‡æœ¬åˆ†æžæ¼”ç®—æ³•è¨­è¨ˆèˆ‡é–‹ç™¼èƒ½åŠ›ï¼Œéœ€å­¸ç¿’éŽText Mining/Information Retrievalç­‰ç›¸é—œèª²ç¨‹ï¼Œå—éŽç›¸é—œèªžç¾©åˆ†æžç†è«–è¨“ç·´ï¼Œå…·æœ‰Data Science/Data Mining/Information Retrieval/Big Dtaç›¸é—œç§‘ç³»ç ”ç©¶æ‰€æˆ–LabèƒŒæ™¯ï¼Œæ’°å¯«ç™¼è¡¨éŽç›¸é—œæ¼”ç®—æ³•æœŸåˆŠè«–æ–‡è€…å°¤ä½³ã€‚
+2.Deep Learning/Machine Learningï¼šç†Ÿæ‚‰ANNé¡žç¥žç¶“ç›¸é—œèªžæ„(èªžç¾©)æˆ–æ–‡æœ¬åˆ†æžæ¼”ç®—æ³•ï¼Œç†Ÿæ»ç†Ÿæ»CNN/RNN/RCNN/LSTMç­‰ç†è«–èˆ‡é‹ç”¨ï¼Œå…·å‚™ç™¼å±•NLP/NLUä¹‹èƒ½åŠ›ï¼Œç™¼è¡¨éŽç›¸é—œè‡ªç„¶èªžæ„æ¼”ç®—æ³•æœŸåˆŠè«–æ–‡ã€‚
+3.èªžéŸ³è¾¨è­˜ï¼šSTT/TTSï¼Œç†Ÿæ‚‰è¯èªž/è‹±èªžåŠå…¶ä»–å¤–èªžèªžéŸ³è¾¨è­˜æŠ€è¡“ï¼Œéœ€å¯è™•ç†è¾¨è­˜å¤šèªžç¨®å¤¾é›œæˆ–å¤šäººç™¼è¨€èªžå¥ã€‚
+4.èªžæ„åŠèªžéŸ³EdgeéŸŒé«”åŠICè¨­è¨ˆï¼šå…·æœ‰Edgeæˆ–DeviceéŸŒé«”ç¨‹å¼åŠICè¨­è¨ˆæ•´åˆç¶“é©—èƒŒæ™¯ï¼Œå…·å‚™ç ”ç™¼Edgeèªžæ„åŠèªžéŸ³æ¼”ç®—æ³•éŸŒé«”ç¨‹å¼ICèƒ½åŠ›ã€‚
+5.æœ‰Arduino/Raspberry Pié–‹ç™¼ç¶“é©—ï¼Œç†Ÿæ‚‰DSP/MCUã€‚
+6.ç†Ÿæ‚‰Cèªžè¨€éŸŒé«”é–‹ç™¼ã€‚
+7.AIæ©Ÿå™¨å­¸ç¿’/æ·±åº¦å­¸ç¿’ä¹‹ICæ™¶ç‰‡è¨­è¨ˆç¶“é©—ã€‚
+8.Alexa/å°ç±³/iå¯¶è²æ™ºæ…§éŸ³ç®±ç›¸é—œé–‹ç™¼æˆ–æ‡‰ç”¨ç¶“é©—ã€‚
+9.IoTç‰©è¯ç¶²èˆ‡AIoTæ™ºæ…§ç‰©è¯ç¶²é–‹ç™¼å»ºç½®ç¶“é©—ã€‚
+
+ç›¸é—œï¼š
+*èªžæ„/èªžç¾©éœ€è™•ç†è§£æžè‹±æ–‡ã€ç°¡ä¸­ã€ç¹ä¸­åŠå…¶ä»–ä¸»è¦èªžæ–‡ã€‚
+*èªžéŸ³è¾¨è­˜éœ€è¾¨è­˜è‹±èªžã€è¯èªžåŠå…¶ä»–ä¸»è¦èªžè¨€(STT)åŠæ–‡å­—è½‰èªžéŸ³(TSS)ã€‚
+*éœ€ç†ŸTensorflow/Keras/PyTorchç­‰æž¶æ§‹ã€‚
+*æœ‰AI Chatbotæˆ–AI Agenté–‹ç™¼ç¶“é©—ï¼Œå…·å‚™èˆ‡å¸¸ç”¨IMæˆ–Appæ•´åˆèƒ½åŠ›æˆ–ç¶“é©—ã€‚
+*æœ‰Deviceå¦‚æ‰‹æ©Ÿ/å¹³æ¿/æ™ºæ…§çœ‹æ¿/Kioskæˆ–Edgeä¹‹AIoTé–‹ç™¼æ•´åˆèƒ½åŠ›æˆ–ç¶“é©—ã€‚
+*ç†ŸLinux/Android/Mac/iOSç­‰Device/Edgeä½œæ¥­ç³»çµ±æ‡‰ç”¨ç¨‹å¼é–‹ç™¼åŠéŸŒé«”é–‹ç™¼
+
+å…·æœ‰ä»¥ä¸Šç›¸é—œé–‹ç™¼ç¶“é©—æˆ–å°ˆé•·ï¼Œå°AIèªžæ„å°è©±æ©Ÿå™¨äºº/èªžæ„æ–‡æœ¬åˆ†æž/èªžæ„è¾¨è­˜æ¼”ç®—æ³•åœ¨Cloud/Edge/Deviceç­‰AICTæˆ–AIoTæŠ€è¡“ä¹‹è½‰åŒ–èª¿é©åŠæ•ˆèƒ½å„ªåŒ–æœ‰èˆˆè¶£ï¼Œæ­¡è¿ŽæŠ•éžå±¥æ­·é¢è«‡ï¼Œèˆ‡ç’°çƒç¿è¦–å…±å‰µæ•¸æ“šæ™ºæ…§å¾žæ¼”ç®—æ³•ç ”ç™¼ã€ç³»çµ±ç”¢å“ç™¼å±•ã€ç”¢æ¥­æœå‹™æ‡‰ç”¨ï¼Œä¿ƒé€²å°ç£èˆ‡å…¨çƒç”¢æ¥­æ•¸ä½è½‰åž‹ï¼›æœ¬å…¬å¸ç‚ºå°ç£ç¬¬ä¸€å®¶AIæ–°å‰µç™»æ¿å‰µæ«ƒå…¬å¸ï¼Œåœ˜éšŠå¤¥ä¼´å°‡äº«æœ‰è‚¡ç¥¨èªè‚¡é…è‚¡æˆ–è‚¡ç¥¨é¸æ“‡æ¬Šæ©Ÿæœƒã€‚

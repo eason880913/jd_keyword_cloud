@@ -1,0 +1,4421 @@
+1.PCB、Substrate、HDI製程良率改善、設備維護與異常排除
+2.新設備、原物料與藥水評估
+3.獨立完成專案與客訴報告撰寫
+4.產線WIP報表管理、稼動率支配與人員分配1.  新產品材料/製程開發、測試與試產
+2. 產品異常處理及分析
+3. 製程改善與優化
+
+＊具載板/PCB/封裝廠背景優先率取1.制訂製造程序與產品標準。
+2.評估製程專案計劃，訂出最適化的製造流程。
+3.負責新產品製程的導入，並進行製程的檢測，以使新產品能夠穩定生產且符合相關標準。
+4.定期檢測製程設備的重點參數。
+5.持續改善現有生產製程。
+6.開發、應用新的半導體相關技術。1. 黃光微影/蝕刻作業。
+2. 晶片研磨製程作業。
+3. 生產製程條件維護及改善。
+4. 提升製程良率。1.II-II族半導體劈裂/切割/光學鍍膜/點測等後段製程
+2.生產線異常處理與良率分析
+3.品質維護.改善及降低成本
+4.後段製程開發1.製程維護、異常處理與改善及新製程開發。
+2.建立、改善製程條件，並監控製程結果。
+3.產品良率提昇及產品失敗分析。
+4.評估、引進、驗收新製程、技術設備及材料。
+5.執行部門計畫及規劃執行更新部門內相關製程文件。1.產品對應機台條件參數之規劃與設定及維護。
+2.生產製程實際操作與作業改善提案。
+3.生產資訊對應條件參數進行分析及調整。
+4.機台簡易維修與資料備份。 
+5.主管交辦事項。
+6.未來可接受配合派駐中國。
+1.半導體相關製程實務經驗
+2.需具備良好英文溝通能力
+公司參考網頁:
+www.evgroup.com1. 先進光罩製程研究開發及量產評估、規劃與導入
+2. 製程異常問題真因分析與現有製程改善/良率提升
+3. 光罩材料/光罩產品缺陷分析
+4. 先進光罩機台評估與開發
+5. 專案計劃執行1.新產品/新設備導入/驗證
+2.不良率分析
+3.產能提升
+4.品質控管
+1.Die Bonder、Wire Bonder設備機台操作及調整/設備架設/維護保養/點檢/異常狀況處理。
+2.光電元件封裝製程整合開發、研發工程樣品製作、新產品/新製程開發試作轉量產等執行工作。
+3.協助人員教育訓練。
+4.主管交辦事項。	1.	負責ICP VIAH Process 
+2.	Bump Process
+3.	PLD handle
+4.    部門例行事項
+1. 主要負責製程參數調整
+2. 工程實驗及專案的進行
+3. SPC Monitor
+4. 異常產品處理及改善
+5. 需配合假日輪值班
+有半導體製程相關經驗及黃光製程經驗者尤佳
+1.與RD共同研發新產品，確保新產品在製造單位順利量產。新產品試產後，提供DFx給RD作為產品設計修改參考。
+2.執行產品可靠度測試及問題分析。
+3.記錄產品生產之標準工時，以利後續製程簡化、改善與節省成本之參考。
+4.建立標準生產流程，並將製程導入製造工廠生產。
+5.確保產品生產之良率維持在設計水準之上。
+6.與製造單位協同作業，及時解決生產線所發生之品質，並確保出貨順暢。製程良率提升/新產品研發
+有D/B經驗尤佳工作區域 : 黃光區 / 電鍍區   
+其他條件:需配合輪班. 著無塵服. 接觸化學品
+工作時間:
+四班二輪,做二休二,3個月日夜輪調
+07:30-19:30 或19:30-07:30
+1. 產品異常處理：解決線上製程問題，協助新製程導入與技術移轉。
+2. 製程良率改善及生產成本降低之專案。1.制訂製造程序與產品標準。
+2.評估製程專案計劃，訂出最適化的製造流程。
+3.負責新產品製程的導入，並進行製程的檢測，以使新產品能夠穩定生產且符合相關標準。
+4.定期檢測製程設備的重點參數。
+5.持續改善現有生產製程。1.製程維護與改善
+2.製程問題解決與分析
+3.製程良率提升
+4.專案改善規劃、執行(cost down, productivity..)
+5.On dutyResponsibilities:
+	* Work with design and manufacturing groups as an NPI project leader to ensure schedule and quality objectives are met.
+	* Establish design rules and perform DFM review for PCB, mechanical, and package design.
+	* In depth knowledge on IPC, JEDEC standards. Experienced in an EMS/ODM/OEM with SMT and any of the following processes: PCBA de-panel/routing, casing/box assembly, wave soldering, labeling as an NPI, product or process engineer.
+	* Skills in DFX, DOE, SPC, FMEA, APQP, MSA and other related technical, analytical and systems knowledge. 
+	* Production tooling/fixture design and verification capability. 
+	* Moderate in written and spoken English.
+
+Other requirements:
+	* Years of experience required: 5 years and above.
+	* Education: Bachelor and above.
+	* Major: Mechanical, EE, or other engineering majors
+	* Other skills: SPC, SMT, 2D/3D CAD design tools (Creo, SolidWorks).
+
+1. III-V半導體相關產業, 製程開發, 並擔任機台負責人
+ (1)薄膜製程站點
+ (2)擴散/爐管站點
+2. 實驗設計與結果分析
+3. 新技術/新機台/新製程開發與導入1.制訂製造程序與產品標準。
+2.負責新產品製程的導入，並進行製程的檢測，以使新產品能夠穩定生產且符合相關標準。
+3.持續改善現有生產製程。 
+主要為半導體製程相關工作，有機會公司會安排到日本受訓。1.制訂製造程序與產品標準。
+2.負責新產品製程的導入，並進行製程的檢測，以使新產品能夠穩定生產且符合相關標準。
+3.持續改善現有生產製程。 
+4.主要為半導體製程相關工作，有機會公司會安排到日本受訓。 1.製程參數調整維護
+2.工程實驗及專案
+3.SPC Monitor
+4.產品異常處理及改善
+具生產及製程改善實績.
+製程及異常分析及改善.
+製程SOP建立.1. 黃光室曝光顯影、鍍膜、乾溼蝕刻、金屬製程、量測機台生產操作。
+2. 工程實驗貨或量產需求, chip process製作。
+3. 依客戶需求導入新製程與製程能力提升。
+4. 製程流程改善、製造成本降低。
+5. 操作員教育訓練與管理。
+6. 執行專案計畫及主管分配業務。
+7. SOP 撰寫與品質系統管理。- 新製程開發
+- 製程開發套件研發
+- 製程設計最佳化
+- 客製化產品導入及管理
+- 共乘光罩管理
+- 工程實驗設計與驗證
+- 新產品導入與驗證
+- 良率提昇1.製程改善專案執行
+2.提升製程能力、優化生產條件負責超低電阻(Current Sensing Resistor)之產品改善，進行多方面的改善，須從製程/機構/電性測試/模擬面進行改善
+1. 主要為黃光製程製程維護與異常處理
+2. 良率改善專案
+3. 新產品導入產線銜接
+
+Preference:
+1. 需具製程工程經驗
+2. 有黃光經驗、電性測試觀念為佳1. Be responsible for 200mm photolithography and  process monitoring, quality awareness, and process integration related activities.
+2. Be able to work with other process engineers, technology partners and vendors to develop unit processes that meet product roadmap. 
+3. Be highly motivated with an excellent track record of performance and innovation as well as be passionate about developing and producing best in class products. 1.製程穩定性之維護
+2.良率、產能提升
+3.主管交辦事項
+
+上班時間：
+常日班，一年有約3個月進行夜班輪班
+輪班期間：作三休三 20:00~08:001. Monitor, control, and qualify state of the art 200mm semiconductor equipment epitaxial growth reactors. 
+2. Supports process development for new technology offerings Familiar with available analytics tools and data.
+3. Strong team member, able to work well with a global team, train new team members as needed and other duties as assigned.
+4. Perform all activities in a safe and responsible manner and support all Environmental, Health, Safety & Security requirements and program.1. 製程改善、良率提升、生產管理、專案改善。
+2. 歡迎化工／化學／材料/機械／電機 應屆畢業生加入。
+3. 具相關經驗者佳，無經驗可培訓
+
+因應新冠肺炎疫情，懇請求職者到場面試能配戴口罩，做好防疫措施，謝謝您的配合！1.           切割製程技術研究開發
+
+2.          具切割、封裝與檢驗等技術經驗
+
+3.          新產品導入量產。
+
+4.          測試設備架設,參數設定及故障排除,維護。
+
+5.          協助不良品分析及改善作業流程提升良率。
+
+6.          量產前的準備，相關技術文件、生產模具、機器、生產流程的安排。
+
+7.          制定標準作業SOP,標準工時,製程改善。
+
+8.          量產開始後，注意生產流程，對於生產線的異常狀況，必須即時排除。
+
+1.協助新計畫開發實驗
+2.GaN 以及OPTO上量前準備
+3.EVAP quality improvement
+
+★有工作經驗者加計專業年資1.CNC製程改善，並確保良率與大量生產運作順暢
+2.評估生產流程效率及研究製程改善方案，以提升生產效率與生產良率
+3.建立並持續維護生產作業指導書，以建立標準化生產流程
+4.委外供應商製程品質管控及改善01.新產品的導入。
+02.試產的安排。
+03.生產指導。
+04.現場異常問題的及時排除(遇到異常立即有臨時對策)。
+05.生產作業的改善。
+06.產品性能及結構方面的改善。
+07.作業指導書的編寫。(SOP、SIP)
+08.試產報告。(月報、季報、年報)
+09.ECR、ECN導入確認。
+10.程式語言開發、撰寫。(開發自動化產測、機械手臂)因應「新型冠狀病毒肺炎(2019-nCoV)」疫情擴大情勢，面試當日請配戴口罩，若無配戴者將無法入廠，敬請配合
+1. 工程實驗，負責製程參數實驗、制訂與修訂。
+2. 生產人員操作訓練。
+3. 掌控產品良率及精度。
+4. 負責新製程設備/材料/技術之研究與開發。
+5. 監控產品規格。
+6. 規劃產品製造流程並提出改善的方案。1. 產品異常處理：解決線上製程問題，協助新製程導入與技術移轉。
+2. 製程良率改善及生產成本降低之專案。1.產線製程異常處理
+2.異常產品資料收集及Report撰寫
+3.定義生產流程SOP  
+4.製程參數最佳化
+5.須配合公司政策值班 (常日班、小夜班)
+1. Experience working in Wet/Cleaning Process and Equipment. 
+2. Development,process/product characterization and qualification of wet process.
+3. Work with the process development groups and others in manufacturing to deliver new unit processes as required to meet the technical requirements of new technology development programs. 
+4. Strong team member, able to work well with a global team, train new team members as needed and other duties as assigned.1.管控製程品質
+2.製程改善：成功率提升、不良分析、技術資料等。
+3.處理分析及改善品質異常
+4.規劃與執行新產品的承接及導入
+※有濕式蝕刻、黃光製程、濺鍍製程經驗者佳。
+1.協助新產品導入量產，確保良率與大量生產運作順暢，
+2.負責量產品異常分析與排除
+3.負責擬定與執行製程效率改善方案，包含產品相關治具設計
+4.負責撰寫與更新SOP及技術文件、BOM表工時測定，以維持技術文件的正確性1. 產品異常處理：解決線上製程問題，協助新製程導入與技術移轉。 
+2. 製程良率改善之專案。1. 產品異常處理：解決線上製程問題，協助新製程導入與技術移轉。 
+2. 製程良率改善之專案。1. 產品異常處理：解決線上製程問題，協助新製程導入與技術移轉。 
+2. 製程良率改善之專案。1. 產品異常處理：解決線上製程問題，協助新製程導入與技術移轉。 
+2. 製程良率改善之專案。工作內容 : 
+1.光罩管理
+2.設程式,確認光罩品質
+3.環境監測以及相關物品 機台評估, 以確保光罩品質
+4.產線光罩 TROUBLE 排除 分析
+5.光罩於黃光製程品質評估Technical
+1.Responsible for completion of process support and installation of Lam equipment at customer sites. This includes evaluation and documentation of process outputs of hardware modifications/upgrades to existing systems. 
+2. Setup and complete experiments, collect data and generate reports for both internal and external distribution.
+3. Design and complete DOE (Design of Experiments) evaluations to characterize process window for new installations or Lam recommended field hardware modifications/ upgrades. 
+4.Develop new processes for small variants to existing customer applications.
+5. Conduct experiments and tests, collect and analyze data and generate reports for both internal and external distribution.
+6. Work with senior engineers and customers to understand customer technology roadmaps, process flow, inflection points, requirements and business issues/ challenges. 
+7. May develop new processes for small variants to existing customer applications.
+8. May recommend / initiate escalations and quality investigations.
+9. Present technical and marketing materials to a high standard.
+10. Any other duties as assigned by the immediate supervisor.
+
+Customer Relation
+1. Develop good customer relations during start-up and trouble-shooting; Work closely with customer to understand customer issues and demands.
+2. Professionally represent the company to the customer. 3.Utilize knowledge of company’s product lines and services to keep existing / potential customers informed when new/additional needs are identified.
+4. Maintain company’s assigned equipment (computer, tool kit, diagnostic test equipment, spare parts etc.) in good working condition, accounted for and secure.
+5.  Can support process projects and manage customer and product group to drive to closure.
+【職務一：濺鍍/黃光區】
+1.部門長期發展專案
+2.製程技術開發專案
+
+【職務二：電鍍/蝕刻區】
+1.製程穩定性監控與維護 
+2.製程異常排除與改善 
+3.產品良率改善 
+4.新材料、新機台評估 
+5.實驗規劃與資料分析 
+6.跨部門專案合作 
+7.製程技術開發專案 
+
+◎依學經歷、科系、經驗相關性、特殊需求證照及專長等條件核敘個人薪資。A. Focus on Pre sales support:
+  1. Lead technical evaluations in support of sales activities:
+     - Prototypes or derivatives products in known or new applications
+     - Mature products in new applications or at new customers
+  2. Execute on ECI product strategy in the field by providing technical guidance to sales force
+  3. Execute for product positioning by doing product presentations and internal/external training
+B. Cowork with FSE team for specific process related activities
+C. Maintain continuous communication with customers, chemical suppliers, ECI R&D, and line managers1.解決製程異常，維持機台順利運作達成生產目標
+2.新產品導入及試量產
+3.機台SOP的修改與OI文件建立
+4.製程良率的改善
+5.簡易的設備故障排除
+6.製程異常分析報告1. 新產品微影製程之開發
+2. 撰寫ISO文件及制定SOP
+3. SPC 及日常管理
+4. In-line異常狀況處理
+5. 夜班值班(小夜班週一至週五16:00-01:00;大夜班週一至週五00:00-09:00)一、半導體製程與操作。
+二、生產異常處理。
+三、生產良率提升與作業改善。
+四、標準工時建立與維護。
+五、專案規劃執行與SOP撰寫。
+六、需配合輪班作業。
+七、具有執行力與邏輯推理能力。
+八、主管交辦事項。1.執行光電半導體/航太工程之技術、製程相關作業 (案件繪圖/建模/審圖作業)
+2.進行光電半導體/航太工程之規範解析、組裝規劃、資料查驗。
+3.光電/半導體相關零組件加工.焊接.表面處理.測漏等規劃製程。
+4.專案/新產品製程規劃與導入相關程序控管。
+5.協助培養單位製程人才培育。1.高階半體體零件清洗再生製程開發與優化。
+2.協助業務開發潛在客戶，拓展市場。
+3.熟半導體市場，有半導體大廠產業經驗尤佳。
+4.新清洗再生技術開發。1.具電子業製程改善、提昇良率、生產流程管理相關工作經驗1. 電鍍相關生產工作支援
+2. 電鍍製程建立(銅／鎳／鈀／金／銠)
+3. 製程方法改善與良率提升
+4. 電鍍站製程設備建置與改良
+
+※具備從事電鍍相關工作2年以上，有電鍍藥水配置與藥水檢驗等實務經驗者佳。美光在台擴大新建工程，需要有無經驗的您與我們一同成長與奮鬥！
+
+Job Description
+A Process Owner is responsible to direct the sustaining/improvement efforts for Quality, Yield and Equipment performance for your respective process area.
+ 
+
+Responsibilities and Tasks  
+Meet and work closely with Process Integration, Manufacturing, QA and other process areas. Send out periodic reports on process metrics.  
+Participate in process and yield improvement projects and manage multiple projects.   
+Partner with production and engineering ops team to determine and implement corrective actions for deviations.   
+Provide guides, procedures and checklists for maintenance, equipment or process qualification, and reaction mechanisms.   
+Apply technical knowledge and judgment in data analysis and conducting experiment.   
+Able to implement process monitoring and control methodologies.   
+Defining the process margin with respect to upstream and downstream steps   
+Improving the process cost of ownership, throughput, and performance   
+Reducing scrap and deviations   
+Train and mentor technician or engineer to perform specific job tasks1. PCB製程異常分析與改善
+2. 製程能力提升
+3. 製程作業規劃與SOP撰寫
+4. 新物料/新設備評估與導入1.	III-V族半導體Bonding,研磨,切割,點測製程
+2.	Backend製程開發& in-line異常處理
+3.	SOP建立與管理
+4.	須配合假日值班/on call1. 晶圓切割或元件切割相關經驗
+2. 提昇產品的良率及效能。
+3. 監控生產狀況。
+4. 改善潛在的失效問題，並提供相關預防措施方案。
+5. 規劃產品製造流程並提出改善的方案（如：縮短生產線製造過程的時間、降低製造成本等）。
+1.高階半體體零件清洗再生製程開發與優化。
+2.協助業務開發潛在客戶，拓展市場。
+3.熟半導體市場，有半導體大廠產業經驗尤佳。
+4.新清洗再生技術開發。1.切割製程改善專案執行
+2.提升製程能力、優化生產條件一、生產異常處理。
+二、生產良率提升與製程改善。
+三、專案規劃執行與SOP撰寫。
+四、其他主管交辦事項。1.異常分析及處理能力
+2.生產技術文件修訂
+3.製程改善、穩定生產流程及良率優化晶圓工廠機台參數設定與調整，主要工作內容如下：
+1.制訂製造程序與產品標準。
+2.評估製程專案計劃，訂出最適化的製造流程。
+3.負責新產品製程的導入，並進行製程的檢測，以使新產品能夠穩定生產且符合相關標準。
+4.定期檢測製程設備的重點參數。
+5.持續改善現有生產製程。 1. 異常機台以及製程基本分析及資料統整
+ 2. 異常品之重工以及檢驗
+ 3. 製程參數設定以及追蹤設定結果
+ 4. 跨部門溝通及合作
+ 5. 其他主管交辦事項
+ 6. 三個月會有日夜輪班的支援1.封裝Molding製程良率提升(須熟悉TOWA機台操作)
+2.制訂製造程序與產品標準
+3.評估製程專案計劃，訂出最適化的製造流程
+4.負責新產品製程的導入，並進行製程的檢測，使新產品能夠穩定生產且符合相關標準
+
+＊實際薪資依學歷、科系、相關工作經驗、專業證照、特殊專長與語言能力綜合核敘
+＊資深人員薪資另議1.機台設備組裝
+2.無塵室製程作業1.封裝製程良率提升
+2.制訂製造程序與產品標準
+3.評估製程專案計劃，訂出最適化的製造流程
+4.負責新產品製程的導入，並進行製程的檢測，使新產品能夠穩定生產且符合相關標準
+
+＊實際薪資依學歷、科系、相關工作經驗、專業證照、特殊專長與語言能力綜合核敘
+＊資深人員薪資另議因應擴廠需求，擴大徵才
+1.具有RTP, PECVD, P5000相關經驗尤佳！
+
+1. 掌控產品良率及精度。
+2. 監控產品規格。
+3. 控制製作方法（recipe），並計算產品補值。
+4. 提出潛在的精度問題，並提供相關預防措施方案。
+5. 規劃產品製造流程並提出改善的方案（如：縮短生產線製造過程的時間、降低製造成本等）。
+6. 提出重大產品良率問題的處理方式與報告說明。
+7. 製作、管理半導體材料與元件產品。1. 製程模組管制與生產規劃
+2. 研磨加工技術研究與建置#德州儀器介紹
+德州儀器(TI)是位居類比晶片世界領導地位的半導體設計與製造公司，
+持續提供創新及頂尖的半導體技術與產品，協助客戶開發最先進的電子產品。
+除此之外，TI也針對在校學生及初入社會新鮮人設計完整的培訓制度與挑戰性的工作內容，
+並提供具競爭力的薪資與福利、完善的升遷管、輪調培訓計畫以及活潑與國際化的工作環境。
+-
+#TI輪調培訓計畫
+TI針對新鮮人提供全面且扎實的系列培訓課程，
+透過課堂及工作日常的任務，將TI的核心理念傳達給新人。
+另外，TI亦提供完整的輪調計劃，透過給予新人不同職務內容的學習，
+使其能在公司有更多成長及發展的機會。
+歡迎至TI職涯官網 http://careers.ti.com/taiwan/ 搜尋更多相關內容。
+-
+#製程工程師職務內容 Job Description
+o Identifying & achieving project goals through team & financial management
+o Compiling and evaluating test data for process problem solving, cost reduction & yield / quality / productivity improvement
+o Generating program, supporting SWR & training line operator
+o Implementing customer return analysis & abnormal lot disposition
+o Responsible for Assembly process1.覆晶製程改善與異常處理
+2.協助新產品、新製程導入
+3.製程專案推動及管理
+4.成本降低專案規劃與執行
+5.客戶溝通與簡報
+6.具備覆晶相關製程(FCB、UF、MD)經驗優先面談
+
+＊實際薪資依學歷、科系、相關工作經驗、專業證照、特殊專長與語言能力綜合核敘。
+＊資深人員薪資另議。【本職缺僅接受華邦官方網站投遞】
+請至華邦官方網站投遞個人履歷表，此職缺履歷登錄網
+https://bit.ly/2BNTJEB
+
+工作內容：
+1.CVD/PVD機台(AMAT/LAM/TEL/ASM) recipe setup and tuning
+2.調整薄膜製程參數與管理機台SPC/FDC/R2R
+3.技轉產品 TTRB Prepare
+4.製程品質維護及改善
+5.Hold Lot處理
+6.產能與良率提升1. 製程改善、良率提升、生產管理、專案改善。
+2. 歡迎化工／化學／材料/機械／電機 應屆畢業生加入。
+3. 具相關經驗者佳，無經驗可培訓
+
+因應新冠肺炎疫情，懇請求職者到場面試能配戴口罩，做好防疫措施，謝謝您的配合！1. 新產品導入製程穩定及最佳化之研究及行動方案之執行
+2. 執行新產品導入Qual Lot ，工程品作業管制
+3. 新產品導入時製程異常解析及對策提出及客訴調查分析
+4. 執行新設備驗收及新產品的導入，確保量產順利
+5. QIT，SPC 活動之參予
+
+*薪資依學歷、科系、相關工作經歷、專業證照、特殊專長與語言能力綜合核敘1.新產品之製程開發驗證導入。
+2.新產品開發問題解析及改善。
+3.新產品機台評估與參數設定。
+4.新材料Cost Down評估。
+5.追踨新產品之生產狀況、設計圖面審查，管控專案進度。
+6.產品失敗分析及報告(含英文)撰寫。
+
+P.S. 上班時間：日班(08:20~17:10)、小夜班(15:55~23:40)※小夜班另有輪班津貼※
+※加班費、績效獎金及各項津貼另計※1.封裝製程良率提升
+2.製程異常處理與分析
+3.改善現有生產製程
+4.新產品導入專案
+
+ ＊實際薪資依學歷、科系、相關工作經驗、專業證照、特殊專長與語言能力綜合核敘。  
+＊資深人員薪資另議。 
+
+具封裝前段(切割研磨、DB、WB...)製程經驗者優先面試。
+歡迎理工科系之應屆畢業生、兵役屆退者、
+半導體相關產業，製程經驗一年以上人士加入。1.封裝Molding製程良率提升
+2.制訂製造程序與產品標準
+3.評估製程專案計劃，訂出最適化的製造流程
+4.負責新產品製程的導入，並進行製程的檢測，使新產品能夠穩定生產且符合相關標準
+
+＊實際薪資依學歷、科系、相關工作經驗、專業證照、特殊專長與語言能力綜合核敘
+＊資深人員薪資另議1.封裝製程良率提升
+2.制訂製造程序與產品標準
+3.評估製程專案計劃，訂出最適化的製造流程
+4.負責新產品製程的導入，並進行製程的檢測，使新產品能夠穩定生產且符合相關標準
+
+＊實際薪資依學歷、科系、相關工作經驗、專業證照、特殊專長與語言能力綜合核敘。
+＊資深人員薪資另議。1.機台PM後復機調機
+2.處理產品異常洽PE
+3.處理機台OCAP異常，並且調機復機
+4.協助工程實驗進行及解Hot lots
+5撰寫值班機台異常及產品異常處理報告
+1.封裝製程良率提升
+2.制訂製造程序與產品標準
+3.評估製程專案計劃，訂出最適化的製造流程
+4.負責新產品製程的導入、檢測，使新產品能夠穩定生產且符合相關標準
+
+具封裝後段(Molding、Marking...)製程經驗者優先面試。
+ 歡迎理工科系之應屆畢業生、兵役屆退者、
+ 半導體相關產業，製程經驗一年以上人士加入。 
+
+＊實際薪資依學歷、科系、相關工作經驗、專業證照、特殊專長與語言能力綜合核敘。 
+＊資深人員薪資另議。1.封裝製程優化與技術支援。
+2.封裝產品異常分析與改善。
+3.封裝產品品質管理。
+4.Back grinding或Die Saw製程2年以上相關經驗
+1.Lead Scan機台相關製程作業與規範。
+2.協助支援AI2外觀製程。
+3.生產相關異常處理與解決。
+
+※【核定薪資範圍】不含加班及各項津貼※清洗製程異常分析及改善
+製程參數執行追蹤及優化改善
+跨部門工程改善相關問題討論
+配合客戶及RD 執行清洗流程驗證資料回饋及轉量產相關事宜
+生產線設備自動化及治工具改善維護
+執行主管交辦事項
+熟 DOE 工程實驗分析手法
+具VB撰寫能力者佳【工作內容】
+1. 監控生產線的即時變化
+2. 製程設備重點參數、數據分析
+3. 控管良率品質、監測製程穩定度
+4. 其他主管交辦事項
+
+【工作時間】
+日班, 晚班, 大夜班
+(入社後須先輪班約1年時間，後會再調整為常日班)
+
+【福利制度】
+・依學經歷核定基本薪(含伙食津貼)。 
+・每年發放兩次年終(中)獎金(七月及農曆春節前)
+・定期調薪制度(幅度依每年考核結果而定)
+・完整內、外部訓練規劃
+▲福委會：
+・四節禮金/禮品(春節、端午節、勞動節、中秋節)
+・外國語文訓練補助、員工及子女學業獎學金、畢業禮金
+・生日禮金、結婚祝賀金、喪葬慰問金、生育補助
+・育兒津貼
+・個人旅遊及團體旅遊
+・團體聚餐補助
+・視聽圖書室、健身、運動器材
+・多家特約廠商優惠服務
+※詳細福利將於面試時說明
+
+【需求條件】
+1. 無經驗可、PE相關經驗加分
+2. 具日文能力尤佳
+3. 團隊合作及熱衷學習精進自我能力1. New PVD tool selection, acceptance, and start-up as well as optimization and upgrade work to improve performance on tooling platforms.
+2. Work with Product Engineering and others in manufacturing to improve and stabilize wafer PVD fabrication processes with respect to quality, yield, reliability, productivity, cycle time, and cost reduction. 
+3. Characterize and document improvements.
+4. Characterize and optimize sputtered PVD processes
+5. Deliver robust PVD solutions to address development and manufacturing issues and problems in collaboration with various development teams, equipment maintenance, and operational organizations
+6. Work with the process development groups and others in manufacturing to deliver new PVD unit processes as required to meet the technical1.封裝製程良率提升
+2.制訂製造程序與產品標準
+3.評估製程專案計劃，訂出最適化的製造流程
+4.負責新產品製程的導入，並進行製程的檢測，使新產品能夠穩定生產且符合相關標準
+
+＊實際薪資依學歷、科系、相關工作經驗、專業證照、特殊專長與語言能力綜合核敘
+＊資深人員薪資另議1. 新產品導入製程穩定及最佳化之研究及行動方案之執行
+2. 執行新產品導入Qual Lot ，工程品作業管制
+3. 新產品導入時製程異常解析及對策提出及客訴調查分析
+4. 執行新設備驗收及新產品的導入，確保量產順利
+5. QIT，SPC 活動之參予1.人員管理，激勵工程師盡力於崗位上完成工作
+2.人員調度，班別排定
+3.製程整合工程師培養
+4.帶領工程師負責管理產品，良率改善
+5.製程參數及產品電性管理
+6.跨部門工程問題解決
+7.客戶工程問題溝通1.產品生產實現
+2.產品生產過程異常問題解決
+3.工程實驗執行
+4.產品開發前置規劃(APQP)
+5.客戶回饋問題改善1)主要負責新產品開發。(開發高頻產品)
+2)主要對應KDS(日本大真空）黃光設備及技術移管高廠生產。
+懂日文者優先考慮1.製程設備參數設定，製程能力及良率提升。
+2.新產品、新材料之製程導入 。
+3.即時回應產線及客戶問題。
+4.封裝站製程專案執行。
+
+P.S. 上班時間：日班(08:20~17:10)、小夜班(15:55~23:40)※小夜班另有輪班津貼※
+※加班費、績效獎金及各項津貼另計※1.製程設備參數設定，製程能力及良率提升。
+2.新產品、新材料之製程導入 。
+3.即時回應產線及客戶問題。
+4.封裝站製程專案執行。
+5.審閱與編撰客戶規格、釘架圖、標籤LOGO圖。
+
+P.S. 上班時間：日班(08:20~17:10)、小夜班(15:55~23:40)※小夜班另有輪班津貼※
+※加班費、績效獎金及各項津貼另計※1.日常製程作業規劃與改進
+2.良率的改善與提昇
+3.成本的下降與流程簡化
+4.製程的改善、最適化設計
+5.新設備/材料評估作業之推動與規劃
+5.新開發製程之執行與分析
+6.新製程導入及對內人員的訓練課程
+7.製程穩定性監控及異常處理工作職責：
+1.	協助客製化設備的開發, 可擔任客戶與研發團隊聯繫窗口;
+2.	熟悉半導體製程, 對於薄膜設備製程, 需具備相當的專業程度;
+3.	積極有效的跨部門協調能力;
+4.	能精準掌握客戶問題與需求, 並追蹤解決方案後續執行狀況;
+5.	展現高度團隊合作精神;
+6.	具半導體大廠 薄膜製程之設備、研發、製程、客服、技術支援等工作經驗五年以上;1.提供現場最佳化的加工方式，以維持或提升產品品質
+2.製品製程開發測試，新製品導入，開發測試等
+3.製程良率改善、處理製程相關問題
+4.須具備日文N3以上能力 （具備日文應對溝通能力）
+
+
+公司簡介：日商集團，公司穩健。
+Module ownership and continuous improvement
+• Perform detailed process characterization and understand process spec limits thru margin study
+• Identify and evaluate interactions between equipment, modules and processes and resolve related issues.
+• Evaluating issues and define solutions to develop and implement improvements in equipment or processes to improve scrap, cost, rework, cycle time, throughput or yield
+
+Resolve integration issues through process development.
+• Identify and evaluate interactions between equipment, modules and processes and resolve related issues.
+
+Manufacturing Responsibility:
+• Interact on a regular basis with counterpart in manufacturing
+• Understand manufacturing issues
+• Develop, implement and transfer processes
+
+
+Production job related:
+
+1. Process sustaining.
+2. Hold lots handle.
+3. SPC chart maintain.
+4. Recipe tuning.
+5. IFDC alarm handle.
+6. New process transfer.
+7. Yield /defect improvement.
+8. Capacity enhancement.Technical
+1. Responsible for completion of process support and installation of Lam equipment at customer sites. This includes evaluation and documentation of process outputs of hardware modifications/upgrades to existing systems. 
+2. Key field support role for Beta sites, evals or first in fab installations. 
+3. Field owner to drive and resolve process/system 
+for related escalations and quality investigations.
+4. Setup and complete experiments, collect data, generate and analyze reports for both internal and external distribution and provide recommendations. Develop processes for new applications at customer sites on existing Lam equipment. 
+5. Define roadmaps to meet requirements, goals and milestones for new technology process supporting existing processes, correcting process deviations through root cause analysis.
+6. Develop new or modified processes, define best known method process recipes, and work closely with the hardware engineering team to define chamber requirements and characterize hardware designs that meet customer performance requirements.
+7. Design statistical experiments and analyze results to optimize device architecture and/or process modules to ensure the identification and resolution of process and defect issues and communicate results across the organization. 
+8. Deliver robust solutions to development needs in conjunction with development engineering groups.
+9. Provide technical support to field engineers, technicians, and product support personnel who are diagnosing, troubleshooting, repairing and debugging complex electro/mechanical equipment, computer systems, complex software, or networked and/or wireless systems. 
+10. Present technical and marketing materials to a high standard.
+11. Any other duties as assigned by the immediate supervisor.
+
+Customer Relation
+1. Professionally represent the company to the customer. Utilize knowledge of company’s product lines and services to keep existing / potential customers informed when new/additional needs are identified.
+2. Work closely with customer to understand customer issues and demands.
+3. Initiate process projects and manage customer and product group to drive to closure.
+
+Leadership
+1. May own customer/site KPIs. Provides technical instruction and leadership on installs, repairs, operations and calibration.  Coordination of application of new procedures. 
+2. May provide on-site instruction to sub-contractors and customers. 
+3. Work closely with FSE on complex problems which impact process output
+4. Defines general engineering approaches as well as specific solutions. 
+5. May execute fundamental engineering design and analysis with supervision.  
+6. Coordinates statistical analysis of failure rates and develops CIP
+7. Provides input to Lam Management on the strengths, weaknesses, opportunities and threats of and for Lam products  
+8. Works closely with Field Service, Tech Support, Sales and Corporate Engineering as well as customers to understand customer issues and demands in order to anticipate and report those to set objectives and procedures to achieve the need.
+9. Advises to effect design changes. Regularly contributes to key technical solutions, technology and process development.  Monitors/analyses equipment performance trendsTechnical
+1. Responsible for completion of process support and installation of Lam equipment at customer sites. This includes evaluation and documentation of process outputs of hardware modifications/upgrades to existing systems. 
+2. Key field support role for Beta sites, evals or first in fab installations. 
+3. Field owner to drive and resolve process/system 
+for related escalations and quality investigations.
+4. Setup and complete experiments, collect data, generate and analyze reports for both internal and external distribution and provide recommendations. Develop processes for new applications at customer sites on existing Lam equipment. 
+5. Define roadmaps to meet requirements, goals and milestones for new technology process supporting existing processes, correcting process deviations through root cause analysis.
+6. Develop new or modified processes, define best known method process recipes, and work closely with the hardware engineering team to define chamber requirements and characterize hardware designs that meet customer performance requirements.
+7. Design statistical experiments and analyze results to optimize device architecture and/or process modules to ensure the identification and resolution of process and defect issues and communicate results across the organization. 
+8. Deliver robust solutions to development needs in conjunction with development engineering groups.
+9. Provide technical support to field engineers, technicians, and product support personnel who are diagnosing, troubleshooting, repairing and debugging complex electro/mechanical equipment, computer systems, complex software, or networked and/or wireless systems. 
+10. Present technical and marketing materials to a high standard.
+11. Any other duties as assigned by the immediate supervisor.
+
+Customer Relation
+1. Professionally represent the company to the customer. Utilize knowledge of company’s product lines and services to keep existing / potential customers informed when new/additional needs are identified.
+2. Work closely with customer to understand customer issues and demands.
+3. Initiate process projects and manage customer and product group to drive to closure.
+
+Leadership
+1. May own customer/site KPIs. Provides technical instruction and leadership on installs, repairs, operations and calibration.  Coordination of application of new procedures. 
+2. May provide on-site instruction to sub-contractors and customers. 
+3. Work closely with FSE on complex problems which impact process output
+4. Defines general engineering approaches as well as specific solutions. 
+5. May execute fundamental engineering design and analysis with supervision.  
+6. Coordinates statistical analysis of failure rates and develops CIP
+7. Provides input to Lam Management on the strengths, weaknesses, opportunities and threats of and for Lam products  
+8. Works closely with Field Service, Tech Support, Sales and Corporate Engineering as well as customers to understand customer issues and demands in order to anticipate and report those to set objectives and procedures to achieve the need.
+9. Advises to effect design changes. Regularly contributes to key technical solutions, technology and process development.  Monitors/analyses equipment performance trends1.與製程工程師合作, 共同改善製程的良率
+2.提供客戶在技術上的支援
+3.定期檢視及改善產品製程的穩定性
+4.主導或協助MEMS元件良率改善
+5.整合產品製程及分析異常
+6.了解客戶需求並解決相關產品問題1. 掌控產品良率及精度。
+2. 監控產品規格。
+3. 控制製作方法 （recipe） ，並計算產品補值。
+4. 提出潛在的精度問題，並提供相關預防措施方案。
+5. 規劃產品製造流程並提出改善的方案1、設定各站製程參數、檢驗參數
+2、提高產品良率/客符率，提升生產力、降低成本
+3、撰寫SOP&WI與產線人員教育訓練
+4、生產異常處理並持續改善(實驗計劃)
+5、新產品&新設備轉量產之作業驗證
+6、其他主管交辦事項Technical
+1. Responsible for completion of process support and installation of Lam equipment at customer sites. This includes evaluation and documentation of process outputs of hardware modifications/upgrades to existing systems. 
+2.Key field support role for Beta sites, evals or first in fab installations. 
+3.Field owner to drive and resolve process/system 
+for related escalations and quality investigations.
+4. Setup and complete experiments, collect data, generate and analyze reports for both internal and external distribution and provide recommendations. Develop processes for new applications at customer sites on existing Lam equipment. 
+5. Define roadmaps to meet requirements, goals and milestones for new technology process supporting existing processes, correcting process deviations through root cause analysis.
+6. Develop new or modified processes, define best known method process recipes, and work closely with the hardware engineering team to define chamber requirements and characterize hardware designs that meet customer performance requirements.
+7. Design statistical experiments and analyze results to optimize device architecture and/or process modules to ensure the identification and resolution of process and defect issues and communicate results across the organization. 
+8. Deliver robust solutions to development needs in conjunction with development engineering groups.
+9. Provide technical support to field engineers, technicians, and product support personnel who are diagnosing, troubleshooting, repairing and debugging complex electro/mechanical equipment, computer systems, complex software, or networked and/or wireless systems. 
+10. Present technical and marketing materials to a high standard.
+11. Any other duties as assigned by the immediate supervisor.
+
+Customer Relation
+1. Professionally represent the company to the customer. Utilize knowledge of company’s product lines and services to keep existing / potential customers informed when new/additional needs are identified.
+2. Work closely with customer to understand customer issues and demands.
+3.  Initiate process projects and manage customer and product group to drive to closure.
+
+Leadership
+1.  May own customer/site KPIs. Provides technical instruction and leadership on installs, repairs, operations and calibration.  Coordination of application of new procedures. 
+2.May provide on-site instruction to sub-contractors and customers. 
+3.Work closely with FSE on complex problems which impact process output
+4.Defines general engineering approaches as well as specific solutions. 
+5.May execute fundamental engineering design and analysis with supervision.  
+6.Coordinates statistical analysis of failure rates and develops CIP
+7.Provides input to Lam Management on the strengths, weaknesses, opportunities and threats of and for Lam products  
+8.Works closely with Field Service, Tech Support, Sales and Corporate Engineering as well as customers to understand customer issues and demands in order to anticipate and report those to set objectives and procedures to achieve the need.
+9.Advises to effect design changes. Regularly contributes to key technical solutions, technology and process development.  Monitors/analyses equipment performance trendsTechnical
+1. Responsible for completion of process support and installation of Lam equipment at customer sites. This includes evaluation and documentation of process outputs of hardware modifications/upgrades to existing systems. 
+2.Key field support role for Beta sites, evals or first in fab installations. 
+3.Field owner to drive and resolve process/system 
+for related escalations and quality investigations.
+4. Setup and complete experiments, collect data, generate and analyze reports for both internal and external distribution and provide recommendations. Develop processes for new applications at customer sites on existing Lam equipment. 
+5. Define roadmaps to meet requirements, goals and milestones for new technology process supporting existing processes, correcting process deviations through root cause analysis.
+6. Develop new or modified processes, define best known method process recipes, and work closely with the hardware engineering team to define chamber requirements and characterize hardware designs that meet customer performance requirements.
+7. Design statistical experiments and analyze results to optimize device architecture and/or process modules to ensure the identification and resolution of process and defect issues and communicate results across the organization. 
+8. Deliver robust solutions to development needs in conjunction with development engineering groups.
+9. Provide technical support to field engineers, technicians, and product support personnel who are diagnosing, troubleshooting, repairing and debugging complex electro/mechanical equipment, computer systems, complex software, or networked and/or wireless systems. 
+10. Present technical and marketing materials to a high standard.
+11. Any other duties as assigned by the immediate supervisor.
+
+Customer Relation
+1. Professionally represent the company to the customer. Utilize knowledge of company’s product lines and services to keep existing / potential customers informed when new/additional needs are identified.
+2. Work closely with customer to understand customer issues and demands.
+3.  Initiate process projects and manage customer and product group to drive to closure.
+
+Leadership
+1.  May own customer/site KPIs. Provides technical instruction and leadership on installs, repairs, operations and calibration.  Coordination of application of new procedures. 
+2.May provide on-site instruction to sub-contractors and customers. 
+3.Work closely with FSE on complex problems which impact process output
+4.Defines general engineering approaches as well as specific solutions. 
+5.May execute fundamental engineering design and analysis with supervision.  
+6.Coordinates statistical analysis of failure rates and develops CIP
+7.Provides input to Lam Management on the strengths, weaknesses, opportunities and threats of and for Lam products  
+8.Works closely with Field Service, Tech Support, Sales and Corporate Engineering as well as customers to understand customer issues and demands in order to anticipate and report those to set objectives and procedures to achieve the need.
+9.Advises to effect design changes. Regularly contributes to key technical solutions, technology and process development.  Monitors/analyses equipment performance trendsTechnical
+1. Responsible for completion of process support and installation of Lam equipment at customer sites. This includes evaluation and documentation of process outputs of hardware modifications/upgrades to existing systems. 
+2.Key field support role for Beta sites, evals or first in fab installations. 
+3.Field owner to drive and resolve process/system 
+for related escalations and quality investigations.
+4. Setup and complete experiments, collect data, generate and analyze reports for both internal and external distribution and provide recommendations. Develop processes for new applications at customer sites on existing Lam equipment. 
+5. Define roadmaps to meet requirements, goals and milestones for new technology process supporting existing processes, correcting process deviations through root cause analysis.
+6. Develop new or modified processes, define best known method process recipes, and work closely with the hardware engineering team to define chamber requirements and characterize hardware designs that meet customer performance requirements.
+7. Design statistical experiments and analyze results to optimize device architecture and/or process modules to ensure the identification and resolution of process and defect issues and communicate results across the organization. 
+8. Deliver robust solutions to development needs in conjunction with development engineering groups.
+9. Provide technical support to field engineers, technicians, and product support personnel who are diagnosing, troubleshooting, repairing and debugging complex electro/mechanical equipment, computer systems, complex software, or networked and/or wireless systems. 
+10. Present technical and marketing materials to a high standard.
+11. Any other duties as assigned by the immediate supervisor.
+
+Customer Relation
+1. Professionally represent the company to the customer. Utilize knowledge of company’s product lines and services to keep existing / potential customers informed when new/additional needs are identified.
+2. Work closely with customer to understand customer issues and demands.
+3.  Initiate process projects and manage customer and product group to drive to closure.
+
+Leadership
+1.  May own customer/site KPIs. Provides technical instruction and leadership on installs, repairs, operations and calibration.  Coordination of application of new procedures. 
+2.May provide on-site instruction to sub-contractors and customers. 
+3.Work closely with FSE on complex problems which impact process output
+4.Defines general engineering approaches as well as specific solutions. 
+5.May execute fundamental engineering design and analysis with supervision.  
+6.Coordinates statistical analysis of failure rates and develops CIP
+7.Provides input to Lam Management on the strengths, weaknesses, opportunities and threats of and for Lam products  
+8.Works closely with Field Service, Tech Support, Sales and Corporate Engineering as well as customers to understand customer issues and demands in order to anticipate and report those to set objectives and procedures to achieve the need.
+9.Advises to effect design changes. Regularly contributes to key technical solutions, technology and process development.  Monitors/analyses equipment performance trends1.新產品導入、試做及驗證產品品質，試做前須與客戶確認產品規格，進入量產後協助製程工程師改善良率.
+2.新製程開發、評估及導入生產線.
+3.APQP文件撰寫.
+4.不良品分析、持續改善.1. 新產品開發、認證、成本計算、製程確認與改善
+2. 與國外客戶確認有關製程、產品規格、交期等事宜1.負責晶圓凸塊異常分析及改善，以提升產品之良率
+2.晶圓凸塊機台程式維護與改善，以降低生產成本，提升產品品質
+3.負責晶圓凸塊製程改進及配合新製程開發，以利製程穩定與提升
+4.定期教育訓練人員(值班PE、產線),以降低產品異常失誤
+5.機台標準操作維護，以降低產品異常失誤
+6.其他及臨時交辦事項1.測試後段相關包裝作業流程、標籤與規範。
+2.生產相關異常處理與解決。
+
+※【核定薪資範圍】不含加班及各項津貼※1.	Hold Lot處理
+2.	Update Report
+3.	機台異常處理
+4.	雷射切割,SAW切割,研磨Grinding, 拋光製程經驗
+5.	協助工程師專案進度執行1.新產品導入
+2.控制線上產品及異常分析
+3.產品良率的提昇
+4.元件電性測試與分析
+1.產品製程整合，負責維持產線穩定
+2.良率整合與異常分析
+3.執行上級/客戶交付之專案
+1.化合物半導體WAT&CP測試邏輯，具相關測試經驗
+2.自動光學檢驗機(AOI)設定邏輯，具defect分析經驗
+3.具半導體製程整合經驗，懂產品異常分析
+
+1.	新產品開發 
+2.	專案執行
+3.	製程優化
+4.	產品分析與整理
+5.	可配合短期出差
+6.	可配合加班
+7.	個性外向樂觀/抗壓性強
+8.	可配合無塵室工作
+9.生產製程相關、設備工程相關、程式運算邏輯分析相關經驗尤佳
+1.制訂製造程序與產品標準。
+2.評估製程專案計劃，訂出最適化的製造流程。
+3.負責新產品製程的導入，並進行製程的檢測，以使新產品能夠穩定生產且符合相關標準。
+4.定期檢測製程設備的重點參數。
+5.持續改善現有生產製程。
+6.有CMP相關經驗尤佳。【工作內容】:
+1.管控生產線的即時變化、產品品質確保
+2.分析data，製程參數
+(入社後須先輪班約1年時間，後會再調整為常日班)
+
+【薪資福利】
+(1)待遇：
+・依學經歷核定基本薪(含伙食津貼)。
+・每年發放兩次年終(中)獎金(七月及農曆春節前夕)
+・定期調薪制度(幅度依每年考核結果而定)
+(2)福委會：
+・四節禮金/禮品(春節、端午節、勞動節、中秋節)
+・外國語文訓練補助、員工及子女學業獎學金、畢業禮金
+・生日禮金、結婚祝賀金、喪葬慰問金、生育補助
+・育兒津貼
+・個人旅遊及團體旅遊
+・團體聚餐補助
+・視聽圖書室、健身、運動器材
+・多家特約廠商優惠服務1、作業指導書的編寫及安排 
+2、生產，製程問題進行分析，檢視錯誤原因、並找尋解決辦法 
+3、產品異常分析及持續的改善 
+4、良率報表彙整 
+5、品質監控1. Process and equipment release and qualifying
+2. New Process development 
+3. 需配合輪值班 Need to be on duty ( PH / ET / TF / BS process )1.製程改善及評估。
+2.測試計畫執行與數據分析。
+3.文件修訂。
+4.主管交辦事項。* 負責高速產品及光通訊相關產品的封裝&測試製程
+* 制定封裝設備製程參數, SOP
+* 新產品製程開發評估, 新產品試作與轉量產(NPI),
+* 量產良率及生產效率提升
+* 異常處理與失效品分析
+* 協助工程樣品製作與工程/設計變更評估
+* SPC, FMEA, OEE, problem solving, kaizen.
+1.產品製程整合，負責維持產線穩定與異常改善，包括資料分析、實驗設計與推動各項專案
+2.新產品導入，協調生產製造、製程工程、測試工程及產品工程等單位進行產品驗證及量產
+3.良率整合與異常分析1.	新機台驗機
+2.	評估材料
+3.	NPI 導入
+4.	製程規範建立
+5.     實驗(DOE)安排與執行                                                                    1. 與國際客戶討論及制訂產品規格。
+2. 掌控產品良率及 整合 Module 缺失改善。提供相關預防措施方案。
+3. 規劃產品製造流程並提出改善的方案
+4. 分析及maintain產品良率，並規劃實驗提升量產產品良率 
+5. 產線重大異常處理並提供因應對策 (客訴處理)
+6. 衍生性產品開發及 cost down等專案 
+一、生產品質良率提昇專案。
+二、製程品質管制與監控。
+三、生產異常分析/改善/追蹤，需跨部門溝通。
+四、SPC 管理/MES系統建立, 具Cpk 製程能力分析。
+五、新產品的品質檢驗開發與規劃。
+六、製程產品管制點標準建立與管理。1.製程優化與技術評估
+2.大型化與自動化技術推展、規劃與標準化 
+3.大型專案規劃、推動與成效評估  
+4.製程異常原因分析檢討改善
+5.生產作業流程整合與改善
+6.跨單位溝通與技術交流
+7.其他主管交派特定事項1. 生產良率分析與提升。
+2. 生產製程優化與改善。
+3. 異常分析報告。
+4. 新產品導入量產。1. 負責製程管制及改善 
+2. 負責提升製程良率
+3. 新產品測試生產管理 
+4. 線上製程參數檢點與稽核
+5. 機台基本的調機與排除異常 
+6. SPC OOC處理 
+1.半導體黃光設備組裝、測試、調整、清潔、改管等設備工作  
+
+2.需能配合國內外出差  
+
+3.進行設備操作以及海外出差作業．具備外語溝通能力尤佳
+
+4.需配合加班或輪班
+
+5.遵守客戶端相關PIP安全規範
+
+6.具半導體設備作業經驗者尤佳
+
+7.主管交辦事項。
+
+*加班費另計1.半導體黃光設備組裝、測試、調整、清潔、改管等設備工作  
+
+2.需能配合國內外出差  
+
+3.進行設備操作以及海外出差作業．具備外語溝通能力尤佳
+
+4.需配合加班或輪班
+
+5.遵守客戶端相關PIP安全規範
+
+6.具半導體設備作業經驗者尤佳
+
+7.主管交辦事項。
+
+*加班費另計1. 產線良率及效率提升
+2. 產線測試系統維護
+3. 測試站的異常排除及解決
+4. 每日測試數據的收集因應擴廠需求，擴大徵才
+1.有FAB及封裝相關經驗尤佳，後段研磨、切割經驗可。
+2.有管理相關經驗者尤佳
+* 負責高速產品的封裝製程
+* 制定封裝設備製程參數, SOP
+* 新產品製程開發評估, 新產品試作與轉量產(NPI),
+* 量產良率及生產效率提升
+* 異常處理與失效品分析
+* 協助工程樣品製作與工程/設計變更評估
+* SPC, FMEA, OEE, problem solving, kaizen.
+工作內容：
+1. 長晶製程改善及產品開發
+2. 或晶片製程改善及產品開發
+
+應徵條件: 
+1. 1年以上工作經驗
+2. 具有半導體長晶相關經驗
+3. 半導體製程(Slicing/Lapping/CVD/CMP)相關經驗
+
+PS1912-010※具封裝前段、後段第一線製程經驗者優先面談
+1.新產品製程開發及實驗計畫進行
+2.新產品規格建立
+3.新製程的資料建立
+4.新產品樣本製作並通過量產認證
+
+＊實際薪資依學歷、科系、相關工作經驗、專業證照、特殊專長與語言能力綜合核敘。 
+＊資深人員薪資另議。 1. 跨製程問題整合及改善
+2. 生產流程最佳化 / 製程能力提升
+3. 客戶專案推動及執行 / 新產品開發
+4. 熟統計學基本知識 /工具
+5. 定期與客戶會議 
+6. 多益成績需達650以上
+
+1.multi process integration and yield improvement.
+2.Process flow optimization and capability improvement . 
+3.Good skill with communication of engineer issue with others department.
+4.Well knowledge with statistics software.
+5.Regular report preparation and meeting with customer. 
+6.Fluency in English language ( TOEIC : 650 above)
+
+因應新冠肺炎疫情，懇請求職者到場面試能配戴口罩，做好防疫措施，謝謝您的配合！1.元件研發
+2.良率改善
+3.新製程開發
+1.蝕刻(黃光)製程維護與管理
+2.製程良率改善
+3.SPC管理與改善
+4.專案推行
+5.SOP標準化制訂• 從事半導體製程開發實驗分析、測試相關經驗者佳。
+• 開發recipe，滿足客戶需求
+• 協助客戶提昇良率
+• 監控設備穩定性
+• 提出潛在的精度問題，並提供相關預防措施方案。
+• 提出重大產品良率問題的處理方式與報告說明。
+• 提供客戶製程相關之教育訓練。
+• 提供技術性建議及相關諮詢。1. 負責製程管制及改善 
+2. 負責提升製程良率
+3. 新產品測試生產管理 
+4. 線上製程參數檢點與稽核
+5. 機台基本的調機與排除異常 
+6. SPC OOC處理 
+7. 可輪班-作4休2
+1.新產品需求及工程安定化對應
+2.產品SOP制定與規格標準化
+3.實驗規劃、製程改善
+【本職缺僅接受華邦官方網站投遞】
+請至華邦官方網站投遞個人履歷表，此職缺履歷登錄網
+https://bit.ly/2Wsmy0e 
+
+工作內容：
+1.新世代製程開發與導入
+2.製程/產品(含代工產品)良率提昇,改善及簡化
+3.產品(含代工產品)電性異常/低良率產品分析與改善
+4.元件特性分析及寬容度調整
+5.新產品(含代工產品)導入量產及產品寬容度調整
+6.SEM/TEM 剖面分析
+7.製程可靠性改良
+8.晶片層次製程可靠性分析
+9.製程流程建立及管理
+10.支援客戶稽核作業1. 測試製程異常產品分析、良率提升
+2. 執行8D report 撰寫
+3. 新材料品質監控與評估
+4. 執行與準備客戶稽核活動
+5.  IQC、OQC
+
+＊實際薪資依學歷、科系、相關工作經驗、專業證照、特殊專長與語言能力綜合核敘。
+ ＊資深人員薪資另議。1.新產品之製程開發驗證導入。
+2.新產品開發問題解析及改善。
+3.新產品機台評估與參數設定。
+4.新材料Cost Down評估。
+5.追踨新產品之生產狀況、設計圖面審查，管控專案進度。
+6.產品失敗分析及報告(含英文)撰寫。
+
+P.S. 上班時間：日班(08:20~17:10)、小夜班(15:55~23:40)※小夜班另有輪班津貼※
+※加班費、績效獎金及各項津貼另計※【本職缺僅接受華邦官方網站投遞】
+請至華邦官方網站投遞個人履歷表，此職缺履歷登錄網
+https://bit.ly/3j9JlI5
+
+工作內容：
+1.新世代製程開發與導入
+2.製程/產品(含代工產品)良率提昇,改善及簡化
+3.產品(含代工產品)電性異常/低良率產品分析與改善
+4.元件特性分析及寬容度調整
+5.新產品(含代工產品)導入量產及產品寬容度調整
+6.SEM/TEM 剖面分析
+7.製程可靠性改良
+8.晶片層次製程可靠性分析
+9.製程流程建立及管理
+10.支援客戶稽核作業1.新產品導入 
+2.控制線上產品及異常分析 
+3.產品良率的提昇 
+4.元件電性測試與分析 
+1.AOI Recipe建立、維護調整
+2.AOI defect工程覆判，AOI檢視資料確認
+3.生產技術支援及異常處理1.各站 Hold Lot 即時處理 
+2.機台參數建立 
+3.產線日常異常維護 
+4.工程品作業 
+5.產品異常調查及撰寫異常報告
+
+※班制說明：作四休二，每三個月輪調一次日夜班
+※薪資說明：
+◎依學經歷、科系、經驗相關性、特殊需求證照及專長等條件核敘個人薪資。
+◎輪班津貼/班制津貼另計。 
+1.製程設備參數設定，製程能力及良率提升。
+2.新產品、新材料之製程導入 。
+3.即時回應產線及客戶問題。
+4.封裝站製程專案執行。
+
+P.S. 上班時間：日班(08:20~17:10)、小夜班(15:55~23:40)※小夜班另有輪班津貼※
+※加班費、績效獎金及各項津貼另計※1.製程設備參數設定，製程能力及良率提升。
+2.新產品、新材料之製程導入 。
+3.即時回應產線及客戶問題。
+4.封裝站製程專案執行。
+5.審閱與編撰客戶規格、釘架圖、標籤LOGO圖。
+
+P.S. 上班時間：日班(08:20~17:10)、小夜班(15:55~23:40)※小夜班另有輪班津貼※
+※加班費、績效獎金及各項津貼另計※As a Yield Analysis Data Scientist, you will be responsible to check daily yield performance, process improvement actions, and analyzing baseline issue or bad lot/wafers. Besides, cooperating with yield improvement team to enhance yield and quality.
+
+Responsibilities and Task: 
+• Focused track to become a Data Scientist with specialization in manufacturing process improvements, focused on yield and quality enhancement
+• Exposure to vast and complex data universe within a leading edge technology semiconductor fabrication with a world-class data collection and processing system
+• Exposure to international team of data scientists and subject matter experts
+• Part of world-wide team to build leading edge data analysis and process control ecosystem
+
+Successful candidates for this position will have:
+• Bring background and interest in Data Analysis, prior experience in semiconductor area welcome but not required
+• Major in math, computer science, statistics, or Engineering /Physical/Chemistry sciences degrees with interest in data science1. 產線人員訓練管理與規劃。
+2. 量產產品 生產維護 / 資料分析。
+3. 生產異常調查分析與改善對策推展。
+4. 其它主管交辦事項。
+1. 尋找市場標準用料或與材料供應商共同開發新材料，應用於車用磁性元件。
+2. 熟悉高分子物理，其中高分子包含工程塑料、環氧樹脂接著膠、矽膠型導熱材料、膠布、Coating。
+3. 協助電性與機構設計者選擇適合材料。
+4. 建立車用材料清單與Design rule。
+5. 材料量產時，配合大陸工廠做參數優化。
+6. 跨部門溝通與合作，包含供應商、採購、工程、品保、製造等。
+
+
+#專長
+1. 科系:  化工或高分子相關科系
+2. 儀器分析：熟悉DSC, TGA, TMA, DMA, SEM分析
+
+#需求
+1.實驗規劃，執行，追蹤時程。
+2.獨立接案能力。
+3.跨部門溝通能力。
+4.工作經驗3年以上。※工作內容：
+1. 生產設備維護，保養及異常排除，維持設備正常運作 
+2. 設備導入、改善及維護 
+3. 設備維護計畫規劃、執行落實 
+4. 完成其他主管交辦工作
+
+※能力條件：
+1. 熟悉PLC程式、具設備導入經驗優先錄用
+2. 企圖心旺盛可獨立工作，抗壓性佳。 
+3. 電子、電機、自動化工程相關科系畢業。
+
+依學經歷的相關性敘薪
+至少二年以上、半導體、光電相關工作經驗從事專業性之新產品專案及新機種正確快速導入規劃與執行，並確保QUAL LOT成功。
+1.執行與協調NPI/NP導入活動
+2.規劃Qual plan, 監控Qual lot執行/成果
+3.執行年度計劃
+4.客戶SPEC Review
+5.執行ECM變更/PDM建立
+*實際薪資依學歷、科系、相關工作經歷、專業證照、特殊專長與語言能力等條件綜合核敘因應擴廠需求，擴大徵才
+1. 主要負責製程參數調整
+2. 工程實驗及專案的進行
+3. SPC Monitor
+4. 異常產品處理及改善
+5.有半導體製程相關管理經驗及黃光製程經驗者尤佳
+工作內容:
+
+1.新製程開發
+2.Engineering lot handing, Inline/ WAT data analysis, Mask tape out & Pilot lot.
+3.Lot handing ,Inline data collect analysis, mask tape out & Pilot lot
+4.Yield improvement, failure analysis
+5.班別:常日班、假日需輪班
+
+職缺說明：
+
+1.碩士以上電機、電子、電物、物理及材料等相關系所畢。
+2.三年以上半導體製程整合或產品開發相關經驗。
+3. 影像感測器製程開發驗證及電性分析經驗者佳。職缺說明：
+1.邏輯產品開發與整合
+2.碩士以上電機、電子、電物及物理等相關系所畢
+3.兩年以上半導體製程、元件開發相關經驗者佳
+4.對半導體製程、元件物理與元件整合有興趣者
+
+工作內容
+1.邏輯元件製程開發
+2.整合製程
+3.良率提升
+4.光罩設計◎半導體生產製程◎
+1.產品缺陷分析
+2.良率提升/改善
+3.協助執行缺陷掃描
+
+若學歷為化學工程相關、材料工程相關、電機電子工程相關者，或經歷與工作內容需求相符者，您也許就是我們正在尋找的人才！快來主動應徵吧！1. 製程規劃，訂出最適化流程
+2. 機台參數驗證與制定 
+3. 製程能力開發與精進
+4. 客戶端技術合作與開發
+5. 具相關經驗者佳，無經驗可培訓 
+6. 歡迎化工／化學／材料 / 機械／電機／機電／電子應屆畢業生加入。 
+7. 多益成績需達700以上（無官方成績者，經邀約面試後，可至本公司進行模擬測驗，達標視同官方成績） 
+
+
+因應新冠肺炎疫情，懇請求職者到場面試能配戴口罩，做好防疫措施，謝謝您的配合！
+
+
+因應擴廠需求，擴大徵才
+1.線上異常產品及協助專案進度執行事宜
+2.有半導體經驗尤佳1.產品異常處理 
+2.製程程式建立 
+3.實驗追蹤
+
+※工作地點:湖口區光復廠
+※輪班模式：做三休三，日夜班3個月對調一次
+※薪資說明：
+◎依學經歷、科系、經驗相關性、特殊需求證照及專長等條件核敘個人薪資。
+◎輪班津貼/班制津貼另計。
+因應擴廠需求，擴大徵才
+1.具有RTP, PECVD, P5000相關經驗尤佳！
+2.有相關管理經驗者佳1.具有PVD/CVD 相關製程經驗
+2. 熟悉Bumping, 3DIC TSV, CISCSP等製程開發流程
+3. 負責製程優化與良率提升
+4. 新產品製程開發及實驗計畫進行
+因應擴廠需求，擴大徵才
+1.機器設備每日檢點
+2.機器定期保養
+3. 做二休二，需日/夜輪班1. 封裝製程的異常分析與處理
+2. 整合與分析各製程異常數據
+3. 具封裝前段或後段站點經驗者佳。
+
+＊實際薪資依學歷、科系、相關工作經驗、專業證照、特殊專長與語言能力綜合核敘。
+＊資深人員薪資另議。		　	　	　	　1.Litho process engineer related TSV / ubump / RDL / CPB experience.
+2.New PR material evaluation and stepper exposure study.
+
+＊實際薪資依學歷、科系、相關工作經驗、專業證照、特殊專長與語言能力綜合核敘。
+＊資深人員薪資另議。1.異常產品分析、良率提升
+2.8D report
+3.跨部門溝通
+4.客戶稽核
+5.IQC、OQC
+＊實際薪資依學歷、科系、相關工作經驗、專業證照、特殊專長與語言能力綜合核敘。
+ ＊資深人員薪資另議。１製程工作年資３年以上
+２調適機台製程參數,機台性能測試,實驗規劃和測試.
+３服務客戶,與客戶溝通,調試最佳製程.
+４半導體濕製程製程經驗及設備經驗者佳  
+ 5 機台規格溝通撰寫,實驗報告產出
+1. 製程良率改善及提升
+2. 生產流程管理
+3. 專案推動、改善及執行
+4. 具載板廠製程經驗者佳
+
+因應新冠肺炎疫情，懇請求職者到場面試能配戴口罩，做好防疫措施，謝謝您的配合！
+【本職缺僅接受華邦官方網站投遞】
+請至華邦官方網站投遞個人履歷表，此職缺履歷登錄網
+https://bit.ly/32pSO89
+
+工作內容：
+1.新產品導入及良率提升 
+2.製程/產品量產、良率與製程條件最佳化及生產力提升
+3.異常產品之分析與改善 
+4.支援各項稽核工作因應擴廠需求，擴大徵才
+1.	負責ICP VIAH Process 
+2.	Bump Process
+3.	PLD handle
+4.    部門例行事項
+5.    有管理相關經驗佳Job Description
+
+As a Site New Product Proliferation (NPP) Owner you will be responsible for oversight of the MFG NPP business process and continual improvement necessary to be best in class.
+
+ Responsibilities and Tasks 
+
+                         
+
+- Maintain a common set of business processes for MFG NPP.                     
+
+- Manage upstream deliverables and drive continual improvements to process inputs and triggers.
+
+                •  Collaborate with corporate partner process owners to make MFG NPP best in class.                     
+
+- Authority for and leadership on business process improvement:
+
+                •  Promote worldwide synergy at all appropriate opportunities.
+
+                •  Utilize metrics to monitor and improve MFG NPP.
+
+                •  Look for efficiency gains and improved benchmark performance through joint problem solving.
+
+                •  Mobilize network resources to generate best and integrated solutions
+
+                •  Lead focused improvement activities and projects.
+
+                •  Create necessary systems.                     
+
+- Partner with all MFG site owners to gather and fan out NPP BKMs.                        
+
+- Represent MFG NPP in corporate forums and projects.                 
+
+- Act as primary point of contact for MFG NPP business process                 
+
+- Communication Expectations
+
+                •  Communicate issues which impact NPP in a clear and timely manner and help drive to fix the issue where necessary.
+
+                •  Maintain a strong and open relationship with peer group and managers in other functional areas within Site and outside in areas such as MFG, BU, PIE, Centrial planning, GQ and Product Engineering.
+
+                •  Demonstrate ability to give effective presentations to both small and large groups.
+
+                •  Periodically follow up with manager to ensure all type of goals are met and get assistance to remove obstacles.
+
+                •  Use all available resources to manage the successful completion of goals, including resources outside of the area.1.為通訊應用,工業及消費性產品開發創新且領先市場的高功率單模和多模半導體雷射。
+2.從事開發計畫構想,規劃,設計和條件的建立。
+3.設計磊晶結構和晶圓生產過程,以符合或超越規格的光電性能並能順利量產。
+4.光罩設計
+5.特性測試,數據分析,建立結構和製造參數及元件性能之關係
+6.與製程整合工程師進行跨團隊合作
+1.黃光室曝光顯影、鍍膜、乾溼蝕刻、金屬製程、研磨拋光、量測等全線製程。
+2.製程優化與新製程開發導入。
+3.協助機台維修保養作業。
+4.執行研發計畫
+5.工作90%以上時間須於無塵室環境作業。1.針對客戶運用半導體設備的各種提案及技術支援 
+2.各種半導體設備導入前後的試作與外派支援
+3.針對各種半導體設備的評估以及利用內部開發設備/消耗品進行基礎實驗
+4. 預計第一年會在台北受訓1. 測試設備故障排除/維修/保養/校驗.
+2.熟 ICOS 機台為佳.1.	黃光室曝光顯影、鍍膜、乾溼蝕刻、金屬製程、研磨拋光、量測等全線製程。
+2.	製程優化與新製程開發導入。
+3.	協助機台維修保養作業。
+4.	執行研發計畫。1.國內、國外產品推廣及售後服務（如：客戶拜訪、產品簡介，使用狀況了解及客訴處理)。
+2.了解客戶需求、並作為客戶與公司跨部門間的技術溝通橋樑。
+3.了解各項產品及製程，及產品在不同應用上的表現。
+4.針對市場上的技術現況及競爭狀況之定期報告。
+5.主導對客戶端之技術改善議題或問題真因分析實驗，並與廠內製程工程師共同研發改善。
+6.整合內部訊息並撰寫客戶要求之實驗報告、新技術及設計等資訊之整合報告。
+7.配合新產品導入，需至客戶廠內之產線上服務以了解並解決上機狀況。
+8.配合客戶對於其他相關零件之客製化需求，主導訂定規格、搜尋合格零件、或外包、開模…等。1.製程工程師管理。
+2.新產品導入與規劃。
+3.建立封裝技術評估。
+4.Back grinding或Die Saw製程10年以上相關經驗
+MICRON IN TAIWAN
+Micron’s global footprint is designed to deliver comprehensive customer collaboration, support and quality around the world and throughout the product lifecycle. Taiwan plays a meaningful role in strengthening Micron’s position in leading-edge DRAM.
+
+Micron’s Taiwan sites include sales and technical support in Taipei along with state-of-the-art fabrication facilities in Taichung and Taoyuan that together comprise the company’s DRAM Center of Excellence. The Center’s goal is to achieve the most efficient and effective technology transfer and manufacturing ramp by combining front- and back-end manufacturing, product engineering and technology development roles.
+
+
+JOB DESCRIPTION
+As a Process Integration Engineer at Micron Technology Inc, you will be responsible for the set-up and maintenance of process flow of new and legacy technology nodes. Drive or support improvements in Yield, Quality, and Output for the production line. Day-to-day responsibilities include crafting and analyzing process experiments, correspond with YE and PQA to investigate yield and quality problems, and working with Production and Module teams to ensure the smooth operation of the Fab.
+
+
+RESPONSIBILITIES AND TASKS
+Design, execute, and analyze experiments to improve Fab process, yield, and quality
+
+Process set-up, characterizations, robustness, correlation and integrated responses on process blocks for all technologies nodes
+
+Help Module teams on in-line data parameter step-up and defectivity control
+
+Support Module teams to collect and interpreting complex data to optimize Fab processes and increase yields.
+
+Engage and/or lead cross-area engineering teams to solve process integration issues
+
+Maintain required training, as well as job critical knowledge and skills
+
+Contribute toward activities and projects to increase product quality and reduce excursions
+
+Actively encourage values driven behaviors and responses to issues
+
+Own and ensure that the in-line process spec limits are set at optimum and reviewed as needed
+
+Partner with IE, Module teams and Production to better forecast and balance yield, output and process issues
+
+Actively contribute to a safe and positive working environment
+
+Education
+
+Required
+
+Bachelors Degree
+
+-  Engineering - Electronics
+
+-  Related field of study
+
+
+EXPERIENCE
+Required
+
+3 year experience in any of the following:
+
+-  Semiconductor Manufacturing
+
+STATEMENT
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+According to the "Employment Service Act", positions with salary lower than NTD$40,000, please refer to the salary information in the job description. Positions with salary over than NTD$40,000 will be subject to be discussed during interview.作為資深記憶體測試工程師，主要負責HFC記憶體產品的最終測試和驗證工作，並且支援與HFC合作測試的外包商。
+
+主要工作內容：
+•編寫，修改和維護在自動化測試設備（ATE）上執行的封裝測試 (FT) 及電性特性分析程式，用以驗證HFC DDR4相容記憶體 (DUT)。
+•在組裝後的零件上執行少量DDR4記憶體測試和電性特性分析。
+•對錯誤訊息進行電子測試，提高成品率並按需求增加或修改測試。
+•與測試外包商合作，以進行測試治具的準備工作和數據的收集。
+•將測試報告提供給設計，製程，晶片測試人員或其他研發團隊參照。
+•支援協助處理公司內部團隊，外包商和客戶所提出的問題。
+•根據每項計劃的進度，參與不同的測試平台的產品品質和可靠性測試。
+
+•Write, modify and maintain final test (FT) and characterization programs that run on automated test equipment (ATE) to verify the memory HFC DDR4-compatible device-under-test (DUT)
+•Perform low-volume DDR4 memory yield test and product characterization on　post-assembly component parts
+•Perform electrical tests on failure debug, improvement of yield and test mode insertion on demand
+•Collaborate with testing subcontractors to enable test fixture preparation and volume data collection
+•Feedback test data to technology driving design, process technology, wafer sort or other function teams
+•Support questionnaire requests from internal teams, subcontractors and customers
+•Support new product qualification based on quality and reliability requirement according to project schedule. May involve in different test platform.1.Panel fan-out封裝專案開發製程整合、良率改善及缺陷分析。
+2.熟悉BEOL各製程佳。
+
+＊實際薪資依學歷、科系、相關工作經驗、專業證照、特殊專長與語言能力綜合核敘。
+＊資深人員薪資另議。		　	　	　	　1.制訂製造程序與產品標準。
+2.評估製程專案計劃，訂出最適化的製造流程。
+3.負責新產品製程的導入，並進行製程的檢測，以使新產品能夠穩定生產且符合相關標準。
+4.定期檢測製程設備的重點參數。
+5.持續改善現有生產製程。
+6.整合製程與改善良率1.負責晶圓廠生產資料分析及晶圓級製程能力監控。
+2.負責製程管制，掌握品質變異狀況並解決問題，穩定產品品質水準。
+3.負責製程與出貨異常之CAR開立、8D改善對策之跟催與效果追蹤。
+4.負責晶圓廠稽核及改善對策之跟催與效果追蹤。※請註明欲應徵職位※
+◎台南
+- LCD Array & Cell Tri-gate 資深工程師
+ 
+◎高雄
+- LTCC 研發主管
+
+◎海外-亞洲
+Silicon Wafer 矽晶圓製造
+- Silicon Wafer LTO (low temperature oxidation) Backseal 矽晶圓氧化膜背封製程資深工程師
+- 廠務技術專家/顧問 (20年以上經驗)
+
+LED
+- Mini LED / Micro LED 晶粒研發&製程資深研發職務
+
+◎海外-美國
+Telecommunication (RRH product lines. Requires 5G NR or LTE experience)
+- Product Support / Customer Service Engineer (5+ years experience)
+- System Engineer (10+ years experience)製程 / 設備 / 生產 - 工程師：
+1.執行良率維持與改善
+2.執行產能提升專案 
+3.執行品質改善專案 
+4.執行成本降低專案
+5.設備維護及異常排除   
+6.工程實驗的進度管制   
+7.生產作業及人員管理  
+8.品質控管#6431 【新竹-2職缺】切割/研磨
+
+【切割/研磨客服工程師】
+1.半導體後段製程設備之技術支援
+2.設備安裝/維修
+3.提供客戶切割技術上的支援
+4.客戶問題電話或現場對應
+5.與日本原廠技師接洽並對應客戶問題
+
+======================================================
+
+#5942 【台中-3職缺】切割/研磨/應用
+
+【CE Dicer切割/CE Grinder研磨客服工程師】
+1.半導體後段製程設備之技術支援
+2.設備安裝/維修
+3.提供客戶切割技術上的支援
+4.客戶問題電話或現場對應
+5.與日本原廠技師接洽並對應客戶問題
+
+【Dicer AP應用工程師】
+1.針對客戶運用半導體設備的各種提案及技術支援
+2.各種半導體設備導入前後的試作與外派支援
+3.針對各種半導體設備的評估以及利用內部開發設備/消耗品進行基礎實驗
+
+======================================================
+
+#5943 【高雄-2職缺】雷射/應用
+
+【Grinder AP應用工程師】
+1.針對客戶運用半導體設備的各種提案及技術支援
+2.各種半導體設備導入前後的試作與外派支援
+3.針對各種半導體設備的評估以及利用內部開發設備/消耗品進行基礎實驗
+
+【Laser CE雷射客服工程師】
+1. 安裝雷射機台裝機
+2. 排除客戶端之雷射機台問題
+3. 雷射機台之相關零件改造				
+
+
+
+！POINTS！
+1.公司毛利率約59.2％，年營收近1700億日圓（約合新台幣460億元）
+營業利益近510億日圓，雙雙創下新高。
+2. 公司提倡不加班主義，彈性上下班制
+3.  每年發放三次奬金(業績連動獎金、連結決算貢獻獎金、VISION達成獎金、股票選擇權型獎金 )
+4. 試用期滿以後，第一年即給予特休 9 日。1.協助製程工程師與線上單位進行品質管理，工作內容包含不良品追蹤、處理、客訴事件追蹤以及特殊作業管理。
+2.具溝通協調能力佳、邏輯性佳。1. 新產品製程的驗證及導入
+2. 新技術/ 新客戶開發及應用
+3. 客戶相關技術問題服務及解決
+4. 客訴8D抱怨處理
+5.黃光及蝕刻製程模擬驗證
+• Engineering interface for Imaging technology (color filter products).
+• Interface between Foundry, Imaging Division, WFO internal teams (quality/
+planning/mask/finance/IT) and exposure to final key Customer.
+• Support process transfer/setup and production follow-up.
+• Drive process/product qualification to meet time-to-market and yield to 
+market 
+• Drive technology ramp-up and manufacturing quality with continuous 
+improvement plan 
+• Improve yield/quality/capacity on technologies already in foundries 
+• Ensure D0 roadmap and action plan are executed and ST get constant report 
+and updates 
+• Work with ST tools (EDA, NSL, PCR, NCL etc.) for yield analysis, process 
+changes and non-conform management
+To manage and contribute to the product industrialization on the Analog family, specifically on WLCSP products at Back End level and Front End based on 
+management requests. In this position, the jobholder is required to support 
+product crisis and to drive the assembly and FT yield improvement agreed 
+among the different stakeholders in order to meet DAC KPI. In regards to this, 
+the jobholder is accountable to support at shop floor level the continuous 
+improvement program on technical KPI, and to provide technical guidance 
+based on product/process knowledge to assure long term quality enhancement. The jobholder is also accountable to drive and support with the manufacturing 
+site all related engineering activity requested either for new product 
+development or for supporting the yield improvement program. In the same 
+context, the jobholder is responsible to drive daily communications with the 
+involved OSATs and regular visits at the manufacturing site to secure quality 
+level and production efficiency according to Division KPI and product targets. 
+Technical visits and AUDITs at OSATs must be supported upon a request.
+Key Responsibilities 
+•	Evaluate, understand and identify current customer needs, while also anticipating future needs and building long-term sustainable relationship and solutions.
+•	Develop, maintain, and ensure relevance of technical information used by internal and external stakeholders.
+•	Ensure communication vehicles, e.g. telephone, email, and presentation, etc. are able to facilitate efficient and consistent customer follow-up.
+•	Drive continuous improvement of the customer experience through team, process and support tool development.
+•	Drive and manage new product installs and subsequent process development.  
+•	Projects manage new evaluations and present to client, you will be responsible for ensuring the success of the project.
+•	Leading new site start-up and planning/risk assessment for readiness/execution successfully to get customer recognition and satisfaction.
+•	Define project scope and resource planning together with BU, escalate to Manager for resource gap.
+•	Support CS EE /Sales/BU as one team to success site base operation/service.
+
+Key Responsibilities
+• Evaluate, understand and identify current customer needs, while also anticipating future needs and building long-term sustainable relationship and solutions.
+• Develop, maintain, and ensure relevance of technical information used by internal and external stakeholders.
+• Ensure communication vehicles, e.g. telephone, email, and presentation, etc. are able to facilitate efficient and consistent customer follow-up.
+• Drive continuous improvement of the customer experience through team, process and support tool development.
+• Drive and manage new product installs and subsequent process development.
+• Projects manage new evaluations and present to client, you will be responsible for ensuring the success of the project.
+• Leading new site start-up and planning/risk assessment for readiness/execution successfully to get customer recognition and satisfaction.
+• Define project scope and resource planning together with BU, escalate to Manager for resource gap.
+• Support CS EE /Sales/BU as one team to success site base operation/service.工作內容:
+. 負責被動元件(電容、電感、電阻、RF等)相關產品。
+. 協助業務單位商品銷售所需技術支援。
+. 商品市場調查、資料收集、特性分析及彙整。
+. 至客戶端Promotion產品資訊，提供客戶產品的認識及專業。
+. 負責正確對應產品規格。
+. 客戶端技術資源及服務。
+. 產品承認書規格制訂。
+
+人員條件:
+. 電子、電機及資訊相關科系。
+. 大學以上
+. 三年以上被動元件類相關FAE工作經驗。
+. 熟悉不同材料電容器之特性、功能及應用領域。
+. 熟悉Powerpoint, word, excel 
+. 語文-- 英文 聽/中等、說/ 中等、 讀/中等、 寫/中等
+. 具高頻應用領域知識者尤佳。A.	熟悉Sputter , E-Gun製程
+B.	產品異常處理，解決線上製程問題
+C.	協助新製程導入，撰寫ISO文件
+D.	製程良率改善等專案進行
+E.	生產異常分析/改善/追蹤
+F.	樂於團隊合作
+G.	專案改善、新機評估
+H.	主管交辦事項
+A.	熟悉CMP經驗
+B.	產品異常處理，解決線上製程問題
+C.	協助新製程導入，撰寫ISO文件
+D.	製程良率改善等專案進行
+E.	生產異常分析/改善/追蹤
+F.	樂於團隊合作
+G.	專案改善、新機評估
+H.	主管交辦事項
+參與建置下列製程技術:
+1.撰寫與修改磊晶程式
+2.分析磊晶片相關特性與電性與報表之分析與計算。 
+3.量測機台之校正與維護。 
+4.製程資料之監控
+5.與客戶製程人員之溝通。
+6.實際負責磊晶生產1.需要熟悉Fab高壓製程, 具有實際擔任製程整合經驗尤佳；
+2.Tape out 流程及量產導入； 
+3.產品異常分析(包含良率分析與FA原理) ；
+4.協助新產品開發 (須熟悉Fab Design Rule與基本元件特性)；
+5.整理工程資料 。1.Product owner 
+2.In-line/WAT/CP/SPC handle/analysis and improvement
+3.Yield enhancement1.Power Discrete Technology Development/Sustaining/Customer Communication.  2.Analog,BiCMos Technology Development/Sustaining/Customer Communication. 1.CIS晶圓代工廠，封裝廠，測試廠對接事宜
+2.新產品手動性能測試
+3.協助測試工程師和應用工程師完成產品影像測試專案的專案與規格
+4.量產CP/FT良率資料匯總分析，並提出相應的良率改進措施
+5.產線異常問題處理
+6.產品進度制定和推進
+7.熟元件modeling 能力佳1.半導體元件電性量測及分析
+2.產品良率改善及製程流程簡化
+3.異常產品分析與處理
+4.新製程開發及導入量產Job Responsibilities:
+
+- Diagnostics and troubleshooting of  Metrology Tools(AFM, XRD, XRF), product training, installation, upgrade, preventative maintenance, and applications support
+- Develop, and continuously improve the customer support & applications knowledge database
+- Tracks and reports performance of systems as assigned and assists in uptime improvement
+- Demonstrates the ability to communicate effectively with customers
+- Attends continued training on company systems
+- On call support
+
+1.新產品導入
+2.客戶產品需求溝通
+3.產品良率與異常分析
+4.專案改善
+5.整合前後段製程
+
+※工作地點:湖口區光復廠
+※依學經歷、科系、經驗相關性、特殊需求證照及專長等條件核敘個人薪資。
+A.	具Laser 操作經驗
+B.	產品異常處理，解決線上製程問題
+C.	協助新製程導入，撰寫ISO文件
+D.	製程良率改善等專案進行
+E.	生產異常分析/改善/追蹤
+F.	樂於團隊合作
+G.	專案改善、新機評估
+H.	主管交辦事項
+1.良率改善計畫建立、改善項目追蹤
+2.良率分析及方向建議
+1. Familiar with in-line process quality control (IPQC) with process flow and route creation
+2. Good communication skill to co-work with process modules to come out yield improvement actions
+3. Familiar with  process yield, defects, and data analysis skills such as using SPC and JMP/Tableau tools
+4. Co-work with product department to define process windows and specifications that meet customers requirement
+5. New product introduction (NPI) and development for mass production
+6. Working experience in LCD fields is preferred工作內容：
+1.處理各單位對原物料/零配件的採購需求。
+2.原物料/零配件供應商管理。
+3.新原物料/零配件供應商導入。
+
+其他條件：
+1.學歷:大學(含)以上。
+2.科系:理工相關科系尤佳。
+3.年資:不拘。
+4.相關經驗: 不拘。
+5.英文聽說讀寫流利，若會日文者尤佳。1,磊晶生產機台控制,參數編寫.
+2,督導磊晶材料與元件產品之良率、穩定度的控制與分析。
+3,磊晶元件、材料的評估、測試、分析。
+4,新產品或技術的製程開發及導入。
+5.制訂新產品檢驗標準。1. 熟悉光罩出圖排版軟體。
+2. 執行主管交辦之研發實驗進行以及光罩出圖。 
+3. 紀錄、整理研發實驗結果及撰寫研發報告。
+4. 維護設備及基本故障排除。- Contributing to the MRB- Material Review Board
+- Monitoring test house performance through statistical analysis (SYL/SBL&MPE)
+- Driving foundry services to investigate process excursions
+- Applying AQL methods to realize cost efficient test solutions
+- Dynamic test control based on yield performance and failure signatures
+Our Platform Hardware Engineering is looking for a Systems Engineer to provide support to our Taiwan sales and service team.  In this role, you will responsible for platform related systems engineering as related to new system design, new system installation support and existing system support. Determine system specifications, input/output processes and working parameters for hardware/software compatibility. You will be need to be responsive and satisfy our customer needs. Build engineer-to-engineer relationships with customers. Gain customer and industry knowledge to feed our new product roadmap. As a member of the systems engineering group, (s)he will be responsible for identifying, developing, qualifying and releasing new products for our current and next gen product lines.
+
+
+Job Description
+
+Works independently, but receives direction from Platform Engineering Manager in the form of goals and objectives - either written or verbal to achieve the following:
+1. Become the local technical engineering expert on the overall system design.
+2. Learn the system operation that includes the mechanical, electrical and software functionality.
+3. Continuously enhance technical knowledge of system robotics, teaching, troubleshooting, maintenance procedures.
+4. Be a focal point of contact for engineering support on system operation at customer sites and in the engineering lab.
+Test new electrical and hardware components as an interface for Global Change Control Board (CCB) to validate and feedback on the new designs.
+5. Main interface to coordinate testing of system hardware and software improvements on lab tools.
+6. Work with Process Engineering in testing the system, finding appropriate usage to achieve results, define enhancements or quality improvements.
+7. Support all Customer Escalation Engineering support.
+8. Travel to Customer sites as a content expert on engineering functionality (Electrical, Mechanical and Software).
+9. Provides support to Engineering, related to installation, operation, calibration, service and/or testing of a new hardware, process or software design
+10. Provides Alpha and Beta Site Support and management
+11. Specifically related to installation, operation, calibration, service and/or testing of a new hardware, process or software design.
+12. Provides system support for engineering systems in reliability and/or applications labs.
+13. Makes presentations at the engineering and management level to customers on system upgrades, support plans, technical demonstrations.
+ 
+nge can affect the system.A.	熟悉Dicing SAW經驗
+B.	產品異常處理，解決線上製程問題
+C.	協助新製程導入，撰寫ISO文件
+D.	製程良率改善等專案進行
+E.	生產異常分析/改善/追蹤
+F.	樂於團隊合作
+G.	專案改善、新機評估
+H.	主管交辦事項
+1.製程技術開發及改善 
+2.異常產品分析 
+3.新機台及材料評估
+
+◎依學經歷、科系、經驗相關性、特殊需求證照及專長等條件核敘個人薪資。1. 與國際客戶討論及制訂產品規格。
+2. 掌控產品良率及 整合 Module 缺失改善。提供相關預防措施方案。
+3. 規劃產品製造流程並提出改善的方案
+4. 分析及maintain產品良率，並規劃實驗提升量產產品良率 
+5. 產線重大異常處理並提供因應對策 (客訴處理)
+6. 衍生性產品開發及 cost down等專案 
+１.試作作成指示
+　　スケジュール調整
+　　材料供給サポート
+　　製造依頼書作成
+２.試作評価
+　　評価結果レーポート入手・確認
+３.量産指示
+　　製品仕様書確認・発行
+　　量産歩留確認
+　　量産移管時のトラブル対応
+1.新製程開發,標準流程規範制定
+2.專案開發與研究
+3.新產品評估與導入
+4.協助解決產線製程異常問題
+5.製程異常事件調查處理與定義預防措施
+6.降低製程成本
+7.完成公司交派任務
+8.各部門溝通協調
+9.與客戶間的溝通與協調
+10.新產品試作Job function:
+1) In charge of NPI release with well document, process and recipe control
+2) Direct interface Between customer and engineering to align the technical and quality requirement
+3) Lead and organize internal parties to drive the excellent outcome to fulfill customer requirement
+4) NPI BOM generation and release control
+5) Engineering lot handling
+6) Supervisor of product yield improvement
+7) Map creation and control
+8) Packing fitting analysis and reviewKey Responsibilities: 
+• Subcon for Yield improvement. 
+• Coordinate with supplier analyzing yield improvement through NPI and mass production phase
+• handle and improve product quality issues
+• Other supports to operation 
+
+
+Requirements:  
+• IC fabrication experience 
+• Semiconductor Yield Enhancement and analytical methods. 
+• Experience with statistical tools for data analysis 
+• Experience power MOSFETS or power IC is a MUST
+
+
+Excellent team orientated person with passion for knowledge
+Able to communication cross functionally across different teams and suppliers 
+Takes initiative and is results driven, able to work without supervision 
+Good understanding of Semiconductor front-end and back-end processes 
+一、MicroLED前瞻製程研發
+二、MicroLED新型製程材料評估
+三、MicroLED新型設備評估
+四、MicroLED生產良率提升
+五、MicroLED量產異常處理
+六、主管交辦事項處理This role will lead the Package Design Project with R&D team members and deliver advanced and innovative packaging resolutions to clients.
+1.Package RFQ and structure & BOM selection
+2.Direct material evaluation and survey.
+3.FA and Reverse Engineering.
+4.Package design rule maintain & update.
+5.Advance products design and development.
+6.Research & setup package roadmap / material roadmap1.能獨立規劃以及改善生產流程，實現產能目標
+2.能掌控專案時程、分析製造成本、產能稼動率等專案規畫
+3.能協助管理各項生產指標，確保作業程序可以有效執行
+4.生產流程優化
+5.規劃與執行新產品的承接及導入
+Tasks and Responsibilities
+•	On-site supervision of process technologies (from 0,35um down to 55nm) for manufacturing of ICs in close teamwork with Process Engineering, Process R&D, Quality etc.
+•	Acting as a primary process integration representative to wafer fabrication subcons and customers (from new product development to product end-of-life)
+•	Drive and manage continuous improvement programs at wafer subcons to ensure quality and reliability of products. Basic knowhow on advanced packaging technologies
+•	Optimize processes and solve process problems in team with people from different departments (e. g. Test, Product Engineering, Design, Design Support, QA, etc .... and the wafer fabrication engineering team at the subcon wafer fabs 
+•	Interface for physical failure analysis between ams and wafer subcon FA team
+•	Support transfer of technologies between external & internal wafer fabrication subcons
+•	Support product development, product qualification and release to production at external wafer fabrication subcons
+•	Implement DFM strategies to improve product performance
+•	Acting as interface between wafer fabrication and assembly
+•	Support joint developments of new technologies I process modules from R&D into production
+
+Education and Experience:
+•	Master Degree or PhD in Electronics, Physics or Chemistry
+•	>7 years of experience in semiconductor industry
+•	Excellent problem solving and communication skills
+•	High self-organizing skills and good customer interface skills
+•	Native Mandarin speaker
+•	Very good in English (spoken and written)
+•	Willing to work in international teams and ability to lead cross-functional teams
+•	Willing to travel frequently abroad, including stays for longer periods
+•	Ability to work under pressure in a fast-paced environment- 功率元件設計與開發
+- 元件模擬與設計驗證
+- 新產品開發與製程導入
+- 元件測試與可靠度驗證【職務說明】
+1.產品維護及管理 
+2.測試效率提升
+3.產品異常分析
+4.量產流程訂定、改善
+5.工程資料整合 
+6.客戶/廠內專案執行
+
+【薪資說明】
+◎依學經歷、科系、經驗相關性、特殊需求證照及專長等條件核敘個人薪資。PCB Layout 佈線規劃、設計。1.光纖通訊半導體雷射及積體光學元件設計開發( develop semiconductor laser diode and optical integration device for optical communication applications.)
+2.半導體雷射晶圓 乾、溼蝕刻製程開發 ( develop required dry and wet etching processed ) 
+3.高頻雷射元件特性測試及失效分析  ( 10/25G device characteristics and measurement)
+4.良好的團隊合作及有效的溝通能力 ( good team work and communication ) 1.產品製程整合，負責維持產線穩定與異常改善，包括資料分析
+2.良率整合與異常分析1.Customer Engineering Accoumt Management
+   a.Meet and exceed customer's expectation of advanced package engineering in terms of quality, cost and delivery.
+   b.Offer industrial leader's advanced package solutions and services through integration of package and process development.
+2.Project Management
+   a. Project phase in schedule arrangement and follow up.
+   b. SWR arrangement, schedule follow up, negotiation, etc.
+   c. Reliability arrangement
+3.Team Work
+   a. Optimize resource allocation
+   b. Enhance teamwork in 360° including customer, supplier and our colleagues
+   c. Develop self and others' production1.半導體前段製程、黃光雷射設備維護與問題處理。
+2.客戶端的維修、安裝，需配合客戶On-Call服務。
+3.維修的SOP與QC建立。
+4.料件的收送與維修。
+5.具半導體Stepper、Scanner、DUV Excimer Laser 經驗尤佳。A.	 Package design
+1.	Package RFQ for cost estimation
+2.	New device package feasibility & technical risk assessment
+3.	Package structure, BOM design 
+4.	Package design rule setup & update
+5.	Coordinate DR0 design review meeting
+6.	PKG structure confirmation after setup
+B.	  Package research & development
+1.	Research & setup package roadmap / material roadmap
+2.	New package development
+3.	New material survey & capability development
+4.	Setup direct material purchase specification
+5.	Technical benchmark with competitors (Reverse engineering)1. 開發鍍膜技術與設備
+2.具濺鍍知識及專案規劃及管理執行【Customer Engineering Account Management】
+(1)Meet and exceed customer’s expectation of advanced package engineering in terms of quality, cost and delivery
+(2)Offer industrial leader’s advanced package solutions and services through integration of package and process development
+
+【Project management】
+(1)Project phase in schedule arrangement and follow up
+(2)SWR arrangement ,schedule follow up, negotiation…etc.
+(3)PKD/PMD creation (PLM)
+(4)Reliability arrangement
+
+【Team Work】
+(1)To optimize resource allocation
+(2)Enhance teamwork in 360° including customer, supplier and our colleagues
+(3)Develop self and others指導製作生產SOP(設備、治具)及系統操作(申請料號、ECO)
+指導生產異常分析處裡
+上級長官專案事件處理
+1.具工程背景
+2.具被動元件製程經驗佳
+3.具實驗設計能力佳
+4.具基礎統計概念佳
+1. 異常分析
+2. WAT/PCM 及Sorting良率提昇一、職務說明
+1. Product UI, MES, EDC, data base sync system management.
+2. 效率提升、異常改善
+3. Product Low yield analyzation 
+4. DN Operation
+5. 日報/週報管理 
+6. 協助客戶執行工程實驗
+
+二、班制說明
+常日班08:30~17:30
+
+【薪資說明】
+◎依學經歷、科系、經驗相關性、特殊需求證照及專長等條件核敘個人薪資。1.垂直式探針卡(VPC)例行性保養與維修.
+2.垂直式探針卡(VPC)異常排除
+3.試產時的產品分析與改善
+4.協助新產品導入及良率提升
+5.垂直式探針卡(VPC)產品測試SOP管理及撰寫1.新產品導入量產驗證及分析.
+2.生產異常處理及分析.
+3.改善CP/FT 測試良率.
+4.測試程式時間縮減以降低成本.
+5.支援工程及可靠度樣品測試.
+6.測試相關治具設計, 製作及維護.
+7.完成主管臨時交辦事項.1. Responsible for SBT Material management manager role.
+2. Manage the SBT material supply with MM Specialist to fulfill Production Planning.
+3. Manage the inventory and access material.
+4. Manage the related projects for jobs/system efficiency improvement.
+5. Manage the KPI.
+6.Work for management assignment for special request.
+
+*具10年物管或供應鏈管理相關工作經驗,其中包含有主管職經驗3年以上者
+*必須具備封裝或基板( substrate) 相關產業管理經驗1. AOI 設定
+2.故障排除
+3.生產一年以上經驗為佳
+因應擴廠需求，擴大徵才
+1.CVS，TTR，MCA：Plating solution analysis
+2.OXF：Data check and process time fine tune
+3.機台異常處理
+4.Hold lot 處理
+5.Update PLD report1.IQC/FQC工程品質檢驗與異常處理 
+2.SPC資料整理與出貨報告整理 
+3.工程支援AOI機台及量測程式設定 
+4.班制說明：做三休三，日夜三個月輪調一次
+
+※依學經歷、科系、經驗相關性、特殊需求證照及專長等條件核敘個人薪資
+※輪班津貼/班制津貼另計。1. FQC產品異常分析與追蹤.
+2. SPC資料整理, 改善與追蹤.
+3. AOI機台程式建立與維護.
+4. 跨部門合作與專案管理與進行.
+5. 系統與機台功能開發與導入.
+6. QC流程改善.
+
+※依學經歷、科系、經驗相關性、特殊需求證照及專長等條件核敘個人薪資A.	具FAE分析經驗，熟悉金屬鍍膜經驗,Die bonding經驗尤佳
+B.	產品異常處理，解決線上製程問題
+C.	協助新製程導入，撰寫ISO文件
+D.	製程良率改善等專案進行
+E.	生產異常分析/改善/追蹤
+F.	樂於團隊合作
+G.	專案改善
+H.	主管交辦事項
+1.品質文件管理與彙整
+2.協助客戶稽核相關文件整理
+3.其他主管交辦事項
+
+＊實際薪資依學歷、科系、相關工作經驗、專業證照、特殊專長與語言能力綜合核敘。
+ ＊資深人員薪資另議。1. 先進封裝製程開發 (SiP , Fan-out...)
+2. 與客戶制定 NPI 產品規格與試做交期
+3. 制定封裝 Design Rule
+
+新事業群期待您的加入。
+初期工作地點為新竹科學園區，後期為湖口工業區廠區
+
+◎依學經歷、科系、經驗相關性、特殊需求證照及專長等條件核敘個人薪資。1. LFB/CPB/RDL/WLCSP layout & package structure design 
+2. Design discussion with domestic /foreign customer 
+3. Design discussion with different internal team for risk assessment
+4. New device feasibility study.
+5. Daisy Chain Test Vehicle Design
+6. Mask Design
+
+＊實際薪資依學歷、科系、相關工作經驗、專業證照、特殊專長與語言能力綜合核敘。
+＊資深人員薪資另議。1.線上異常處理與分析
+2.產品導入量產
+3.需配合日夜輪調。
+(早班07:30~19:30、晚班19:30~07:30)
+
+大學新鮮人起薪$33,600(輪班津貼另計)，有經驗者依照資歷調整。1.	具新產品導入及追踨
+2.	異常分析及改善
+3.	客戶服務及關係維持
+4.	規劃製程提昇良率能力
+5.     職稱核定將視個人學經歷背景略作調整Tasks and Responsibilities
+•	Monitor the overall performance of worldwide VCSEL suppliers with regards to production and technology development(analyzes production processes, identifies areas for improvement & sets up / reviews relevant process KPIs)
+•	Onsite supervision of process technologies in close teamwork with process R&D, Product Engineering & Supplier Quality Engineering,
+•	Lead & manage task forces and coordinates issues at suppliers and internal AMS site.
+•	Manage disposition of critical material at suppliers
+•	Co-work with various engineering departments and product & process Reliability Team regarding qualification of new device, technologies and change in process flows.
+•	Perform process and quality audits following TS16949 and VDA 6.3 standards
+•	Prepare and attend customer audits at supplier sites
+•	Device continuous improvement programs to establish predictable and reliable manufacturing capabilities at the suppliers
+•	Ensure that products and services are fit for purpose and meet both external & internal requirements and customer expectations
+
+Education and Experience:
+•	Master degree in physical /chemical / material / EE / optical-electrical
+•	More than 8 year VCSEL manufacturing or R&D experience
+•	III-V compound material / process / EPI / test knowledge
+•	Experience in Yield enhancement and process integration
+•	Good knowledge of statistics analysis and Reliability theory
+•	Good knowledge of FA tool and method
+•	Logical thinking
+•	Excellent Communication Skills in English and Mandarin and good appearance in front of suppliers and customers
+•	Highly Self-organized and strong team player
+•	Willingness to travel and work in an international team
+Location	Hsinchu, Taiwan
+Degree	Bachelor
+Experience	3-7 years
+Team	Customer support    
+Job category	Physics    
+Travel	10%
+Reference	req15013
+
+Introduction
+In HMI CS team, we bring together the most brilliant minds with various backgrounds, skills and competencies. We are one team to make everything is possible.  Join us to work together, to make us grow together.
+
+Job Mission
+Field service focus on tool performance of customer fab. From system install till warranty end and contract start. Our daily with SMART method on field operation. We co-work with different department to make high performance system on customer site. 
+
+Job Description
+1. Present Daily , Weekly , Quarterly ,and Annually Prevent maintain  in customer side
+2. Report abnormal tools status
+3. Tool's Base line data collection and instant issue handling
+4. On duty/On call sheet required 
+5. Should expect to spend more than 60% of the time inside the clean room working with mechanical and electrical equipment.
+
+Education
+1. Bachelor above.  2.Major in Physics/Electrical Engineering
+
+Experience
+3~7 years
+
+Personal skills
+1. Good communication and problem solving skills 
+2. Work well both in a team and as an individual 
+3. Good English capability in reading, writing and speaking
+
+Context of the position
+Support and co-work with Field service engineer on customer service daily operation. 
+
+Other information
+Position will require traveling to other city of Taiwan up to 10%. Home base is Hsinchu, Taiwan.妥善利用現有資源，維護製程穩定性，並針對製程中產品品質異常進行分析、改善，以期滿足客戶需求，並達成公司營收目標。
+1.確保製程穩定性
+2.降低製程缺陷發生率
+3.提升產能
+4.提升客戶滿意
+5.機台關鍵技術改善
+PS.1.此職務需具備Fab廠及主管經驗
+      2.需具備黃光/Stepper/Bench蝕刻的經驗1.製程與設備問題解決與分析
+2.自動化專案配合展開與執行
+3.製程能力提升與效率改善
+
+【薪資說明】
+◎起薪30000~80000
+◎依學經歷、科系、經驗相關性、特殊需求證照及專長等條件核敘個人薪資。
+1.負責晶圓廠生產資料分析及晶圓級製程能力監控。
+2.負責製程管制，掌握品質變異狀況並解決問題，穩定產品品質水準。
+3.負責製程與出貨異常之CAR開立、8D改善對策之跟催與效果追蹤。
+4.負責晶圓廠稽核及改善對策之跟催與效果追蹤。1.負責VCSEL產品良率穩定，監控並改善工程問題以提升良率
+2.針對VCSEL製程流程強化，統一及改善以增加有效產出
+3.支援磊晶群工程開發及驗證【職務說明】
+1.支援客戶工程借機&測試.
+2.異常產品分析與驗證.
+3.配合4/2或3/3日夜輪值(日夜班三個月輪調).
+4.處理其他工程事項交辦
+
+【薪資說明】
+◎依學經歷、科系、經驗相關性、特殊需求證照及專長等條件核敘個人薪資。
+◎輪班津貼/班制津貼另計。1.	熟gas sensor CMOS與 MEMS製程
+2.	設計感測器開發與驗證
+3.	委外加工，製程規劃，量測
+4.	熟gas sensor封裝製程
+5.	熟氣體感測器設計
+6.	MEMS元件模擬、設計1.Design rule write and maintain
+2.CAD layer define and maintain
+3.PIE layout support
+4.Process development with module
+5.Device tuning with T-CAD
+6.Tape out1.異常分析 
+2.WAT/PCM 及Sorting良率提昇1.	負責刻蝕新工藝的開發和量產導入
+2.	負責刻蝕異常的處理，不良分析和解決，保障蒸發刻蝕工程生產的平穩運行
+3.	分析生產資料，監控工藝的穩定性和產品良率，提高產品品質
+4.	監控生產物料的使用，降低產品單耗
+5.	配合新材料、新工藝、新設備的開發
+1.繪圖re-con成品圖.
+2.需與客戶溝通與確認產品資訊與需求.
+3.工程階段產品確認.
+4.主管交辦事項.協助至半導體客戶端協助:
+1). 於客戶端進行新機器設備的安裝和調試。
+2). 瞭解客戶需求，進行機器設備的數據分析，評估及提供解決方案。
+3). 負責機台零件更換與維修機台工作。
+4). 與研發團隊和應用團隊密切合作，進行機器設備的技術問題調查及為客戶提供解決方案。
+
+相關訊息，請看條件處
+只要您有符合其中一項，請盡快投遞!1. 操作設備及執行主管交辦之研發實驗。
+2. 紀錄及整理研發實驗結果。
+3. 撰寫研發報告。
+4. 維護設備及基本故障排除。A.	具P&P, AOI, VI目檢 操作經驗
+B.	產品異常處理，解決線上製程問題
+C.	協助新製程導入，撰寫ISO文件
+D.	製程良率改善等專案進行
+E.	生產異常分析/改善/追蹤
+F.	樂於團隊合作
+G.	專案改善、新機評估
+H.	主管交辦事項
+1. 自動機台維修及保養。
+2. 協助製程改善。
+3. 有ASM固晶、焊線5年經驗。
+4. LED生產設備維護相關經驗佳。
+5. 了解ODE驗証、參數最佳化。
+6. 機台down time 、 異常資料搜集。
+7. 主管交辦事項。1. 產品電性測試結果分析與改善 
+2. 客戶工程支援 
+3. 產品維護及管理
+4. DN發送與Release
+◎班制-作四休二，日班07:20~19:20、夜班19:20~07:20，日夜班每三個月輪調一次
+◎依學經歷、科系、經驗相關性、特殊需求證照及專長等條件核敘個人薪資。
+◎輪班津貼/班制津貼另計。
+1.Provides leadership, technical oversight and direction to cross-functional teams supporting program requirements. Communicates program parameters, team accountability, reporting relationships, master schedules and critical paths for program execution.
+2.Participate in meetings with internal Engineering/Field Service teams, customer, and site personnel to effectively manage/plan field activities.
+3.Directs technical support staff, including third party field engineers at international locations engaged in preventative maintenance, repairs, retrofit and engineering upgrades for installed systems at validation and virtual factory customer sites.
+4.Supports customer personnel by providing on-going assistance and instructions in the operation of semiconductor test equipment/tools/systems and product applications.
+5.Conducts diagnostic tests to identify and resolve equipment hardware, software and applications issues affecting functionality and availability.
+6.Maintains equipment performance metrics, preventative maintenance statistics, site schedule performance and other field performance data required by the customer, product support organization and senior management for monitoring product fulfillment.
+7.Serves as key customer contact on contract performance and customer support for semiconductor test programs.
+8.Serves as technical advisor to senior management on customer site performance issues pertaining to equipment availability, staffing and contract fulfillment.
+9.Conducts audits of the Field Service network to assure the teams are operating in compliance to all Advantest processes and procedures.1.HR/MBO系統維護及開發
+2.CPS系統維護及開發
+3.社內資訊系統開發之仕樣書作成與程式撰寫1.產線巡檢與稽核
+2.異常品管制及排除。
+3.即時帳料狀況確認/處理。
+4.生產作業人/機調度作業。
+5.人員教育訓練。
+6.其它主管交辦事項。•      FRT GmbH offers 3D surface measurement technology for research and production
+•      www.frtmetrology.com
+•	Carrying out test measurements for customers & partners in close contact with the headquarter
+•	Preparation of results reports and feasibility studies
+•	Organization of test measurements and sample management
+•	Participation in trade fairs and customer training courses
+•	Cooperating with the team as an application engineer in compliance with the headquarter
+•     Needs to be flexible supporting the customers in both north and south Taiwan.1.化學/材料相關科系  　
+2.3年以上有分析實驗室管理經驗,有金屬材料分析檢測經驗或貴金屬廢料分析經驗
+3.具ISO17025經驗佳
+1.量儀例行性之點檢量測，協助處理量儀異常狀況
+2. MOCVD機台和量儀和相關機台（或硬體）之相關點檢，確認MOCVD之相關點檢的SPC趨勢圖
+3.MOCVD機台之外延生長和抄表
+4.外延片相關量測
+5.在進行LD DFB二次外延生長前的芯片清洗
+6.協調外延和設備人員，維持機台生產調度
+7. InP基板進貨之入庫
+8.一次外延片（半成品）的入庫和二次外延片（成品）的轉化
+1.可靠度測後sample之FT驗證與測試資料整理。
+2.執行可靠度測試進出爐作業。
+3.簡易電路銲接與量測。
+4.實驗室與烤箱區管理:各式被動元件與耗材之備置/執行daily check,確保各儀器與烤箱之正常運作/機臺清潔,維修,儀校作業之支援。1.高解析度感應偶合電將質譜儀(ICP-MS)檢驗分析
+2.化學品自學滴定儀檢驗分析
+3.離子層析儀(IC)檢驗分析
+4.主管交辦事項BGA SUBSTRATE 佈線規劃、設計。1.元件量測與特性分析
+2.WAT 相關量測程式編寫   
+3.新元件/layout 設計開發
+1.NPI/SRA/HVM/RMA不良品分析及改善
+2.FA/Rework SOP 撰寫
+3.FA Fixture開發
+4.協助SMT良率提升及改善
+5.協助新產品導入
+
+
+＊實際薪資依學歷、科系、相關工作經驗、專業證照、特殊專長與語言能力綜合核敘
+＊資深人員薪資另議 (1) DRAM記憶體產品測試程式開發
+(2) 新產品測試與驗證
+(3) 具有寫程式經驗尤佳
+(4) 主管交辦事項◎對半導體CP測試產品工程有1~2年經驗
+◎新產品導入測試及程式開發(Logic/Mixed測試程式開發)
+◎與國內外客戶討論測試規格與設計 Probe card等技術工程支援
+◎懂 T637x / DX/ NI等程式開發經驗優先綠取
+
+【薪資說明】
+◎依學經歷、科系、經驗相關性、特殊需求證照及專長等條件核敘個人薪資。
+
+【工程軟體專才，等你來挑戰】
+1. 系統自動化作業專案推行
+2. 報表系統開發整合
+3. ITR需求審核與作業溝通協調
+1. Generating new device architectures and setting up key process modules required for new cutting-edge Field-Stop Trench IGBT technology development
+2. DOEs planning to realize new concepts, and wafer probing & assembled performance data analysis for each learning cycle
+3. Wafer cost analysis, wafer probing yield analysis & yield-up activities for the new innovative technologies
+4. Derivative technology development support, based on proven technologies
+1.8”/12”BE-II(DPS)新製程開發及新產品導入
+2.負責產品流程之整合規劃與製造流程的最適化
+3.客訴分析與報告
+4.良率的提升與品質的改善
+5.異常品追蹤與risk lot品質判斷
+6.與客戶直接對話，回覆說明工程相關之問題
+7.確實執行全方位製程掌控，以符合客戶產品需求，提高客戶滿意度
+8.為單位窗口，對內與各部門(製程、設備、製造、品保、業務、資訊等)溝通協調客戶相關需求Micron in Taiwan
+Micron’s global footprint is designed to deliver comprehensive customer collaboration, support and quality around the world and throughout the product lifecycle. Taiwan plays a meaningful role in strengthening Micron’s position in leading-edge DRAM.
+
+Micron’s Taiwan sites include sales and technical support in Taipei along with state-of-the-art fabrication facilities in Taichung and Taoyuan that together comprise the company’s DRAM Center of Perfection. The Center’s goal is to achieve the most efficient and effective technology transfer and manufacturing ramp by combining front- and back-end manufacturing, product engineering and technology development roles.
+
+Specific Responsibilities: 
+Advanced package technology (chip stacking, 2.5D or 3D) research and development
+Familiar with chip to substrate or chip to wafer interaction
+Familiar with TCB(thermal compression bonding) process
+Familiar with JMP data analysis and DOE matrix design
+Process problem identification and solving
+Work effectively to produce cross sections cooperation
+
+Qualifications:
+MS or Ph.D. with an engineering major
+3 years or above experience in semiconductor process, assembly process, or substrate process technologies is preferred
+Innovative with independent thinking
+Good team player with a high motivation
+Fluent communication in both English and Chinese1. Whole chip ESD/Latch-up 防護設計與驗證.
+2.協助產品ESD/EOS/Latch-up客訴問題處理與故障分析.
+3.Layout&DRC Review.
+4.ESD Device Development.一、職務說明
+1. Product UI, MES, EDC, data base sync system management.
+2. Project management(CP專案管理: 效率提升、異常改善 )
+3. Product Low yield analyzation
+4. Identify & Improve CP MP/NPI process flow and procedure
+5. ENG/Production process mapping & summarization
+6. DN Operation
+7. 日報/週報管理 
+8. Customer ENG/MPV DOE支援與規劃
+
+二、擅長工具
+Excel(VBA)、Power Point(Charts drawing)、Linux、TestStand
+具專案管理實務(改善、效率提升)尤佳、熟悉Fab現場實務尤佳
+
+三、班制說明
+常日班08:30~17:30
+◎依學經歷、科系、經驗相關性、特殊需求證照及專長等條件核敘個人薪資。
+
+1.協助新產品開發生產驗證。
+2.新製程對產品效益評估和最佳製程評估建議。
+3.與晶圓廠合作開發新製程或自行開發新產品所需要的元件，並導入量產。
+4.量產管理， Low yield 分析及良率改善。
+5.RMA  root cause分析及改善。1.PCB,半導體,封裝,陶瓷基板產品開發打樣;
+2.應供商及材料調查
+3.有曝光,顯影,蝕刻,研磨,印刷技能
+4.具PCB,半導體濕製程,封裝, LED載板,陶瓷基板概念.1.黃光製程維護與管理
+2.製程良率改善
+3.SPC管理與改善
+4.專案推行
+5.可接受日夜班輪值及12Hr排休1.	專業: 材料或機械相關 　
+2.	學歷: 碩士以上  
+3.	經歷: 金屬材料, 冶金鑄造, 粉末冶金, 深加工, 精密加工等經驗
+4.	職位: 資深工程師具有小組管理經驗
+5.	有願意到大陸發展長駐1. Plans and supervises the activities of a manufacturing shift performing the material handling, build, test, and inspection of products
+2. Reviews production and test schedules, material resources, test equipment and resource requirements
+3. Review and update manufacturing capacity plan for the assigned manufacturing area
+4. Plans, develops, implements, and maintains manufacturing methods, processes, operations and equipment for new and existing products
+5. Initiate and implement programs to reduce labor hours and manufacturing cycle time as well as implement quality improvement program to drive to achieve zero defect
+1.New product introduction (NPI) and supplier selection.
+2.Monitor, review and drive supplier quality performance from incidents to 
+structural improvement.
+3.Optimize manufacturing processes at suppliers by improving quality, 
+testing and qualification infrastructure.
+4.Drive yield and process improvements at suppliers. Actively participate in 
+improvement projects at suppliers(cycle time reduction, cost of goods 
+reduction).
+5.Managing Manufacturing Quality team, responsible for the quality control of 
+raw materials(IQC), semi-finished products(IPQC), finished products(FQC) and 
+moving/crating products(OQC).Location	Hsinchu, Taiwan
+Degree	Master
+Experience	3-7 years
+Team	Customer support    
+Job category	Other technical job categories    
+Travel	10%
+Reference	req15052
+
+Introduction
+Application engineer plays a unique role as technology enabler to support our customer continuously development in lithography of semiconductor industry
+
+Job Mission
+Application engineer supports ASML product in 3 phases:
+•Business development: translate customer requirement into potential business development
+•New product introduction: new platform insertion in customer R&D / Pilot Fab 
+•High volume manufacturing: sustain installed base machine for on product performance issues 
+
+Job Description
+This position need to keep travel flexibility between HC and TC for one day travel or max until 2 weeks support.
+• Help new product business development include bridging D&E idea and customer requirement/demand. 
+• Familiar with semiconductor/memory foundry litho-process, optical & metrology mechanism, able to do on product troubleshooting under time pressure 
+• Able to understand customer’s needs and clearly describe the issues that customer is facing to internal stakeholders
+• Act as the owner of customer requests and follow through. (customer interfacing, data collection, 1st hand analysis, etc) 
+• Escalate/Communicate the issues to ASML experts in headquarter when needed without losing the ownership. Drive for progress and containment/solution 
+• Able work and coordinate across departments to ensure smooth troubleshooting process 
+• Able to present and report clearly during internal and external meetings.
+
+Education
+Master of Optical/Physical engineering, Material/Chemical science, Mechanical engineering
+
+Experience
+3 - 5 years in semiconductor industry, optical engineering
+
+Personal skills
+•Excellent English presentation and communication skills to interface internal (business development managers, project leaders, management) and external customers (mainly execution and mid to high management level).
+•Troubleshooting skill, basic project management 
+•Basic programming skill (Matlab) will be plus 
+
+Context of the position
+This position is based in Taichung, working together with semiconductor and memory company customer. To fulfill customer’s needs, Application engineer always looking for potential improvement beyond current machine spec with supporting from different department (D&E/marketing/equipment engineering). Application engineer is creating value by integration of multiple professional area.
+
+Other information
+High quality people are a key asset to our company. To recognize that, we offer highly competitive compensation and benefits packages to attract and retain the very best people and let them share in the success that they build. Our rewards philosophy is to attract and retain specific professional knowledge and competencies within the company by offering a competitive package in local markets where ASML is active.
+
+【職類1】
+測試產品開發，測試程式開發/驗證，自動化平台開發，客戶溝通
+
+【職類2】
+製程開發及建立，材料及產品/結構及可靠度驗證，客戶溝通
+
+※投遞前請確認是否符合109年度研發替代役資格※1.	產品製程異常確認與處理
+2.	SWR 執行與確認
+3.	產品製程良率分析
+4.	產品 WIP 管理
+5.	SFCs 確認與維護
+
+* 具備基本英文溝通能力，須配合輪班，歡迎~無經驗或有經驗的您加入! 
+＊實際薪資依學歷、科系、相關工作經驗、專業證照、特殊專長與語言能力綜合核敘。
+＊資深人員薪資另議。		　	　	　	　
+1.Project Management
+a. Project phase in schedule arrangement and follow up.
+b. SWR arrangement, schedule follow up, negotiation, etc.
+2.Team Work
+a. Optimize resource allocation
+b. Enhance teamwork in 360° including customer and our colleagues
+c. Develop production
+3. Project Integration
+
+＊實際薪資依學歷、科系、相關工作經驗、專業證照、特殊專長與語言能力綜合核敘。
+＊資深人員薪資另議。督導所屬準備產品生產所需的所有治具及維護
+審核課內製作的SOP
+協助處理生產線的異常
+負責工程人員績效考核
+負責新的設備及新的製造技術導入
+負責工程整體績效提升與成本管控
+統籌新產品導入配合事宜
+上級臨時交付之任務
+
+1、磊晶生產機台控制、參數編寫。
+2、監控磊晶材料與元件產品之良率、穩定度的控制與分析。
+3、磊晶元件、材料的評估、測試、分析。
+1.模流軟體與warpage分析能力建構。
+2.製作與量測熱傳分析與Moire樣品。
+3.整理量測報告與建立資料庫。
+4.分析與解決工程發生之結構、熱傳與模流問題。
+
+
+※【核定薪資範圍】不含加班及各項津貼※1.組裝及測試製程維護。
+2.新產品開發及樣品製作、導入量產。
+3.生產異樣處理及良率改善。1. 計畫並監督製程，執行產品搬運，製造，測試和檢查
+2. 審查生產和測試進度，材料源，測試設備
+3. 審查並分配製程能力區塊
+4. 計畫並實施產品製造方法，過程及操作
+5. 安排製程計畫以減少人力成本及工時，實施質量改善計畫達到零缺陷的目標1. Vertical P/C維修評估
+2. 製程問題分析與解決
+3. 專案的管理與執行
+4. 異常處理及分析
+5. 其他主管交辦1. 執行主管交辦事項 
+2. BOM表維護 
+3. 製程文件編寫與修訂 
+4. 實驗及樣品進度追蹤 / 工程報告整理 
+5. 製程維護與改善 
+6. 製程異常分析  
+
+※ 無經驗可，具半導體製程相關經驗者佳。1.負責協助客戶解決問題，必要時親自拜訪客戶，釐清問題。
+2.負責與客戶溝通討論，轉化為發生的異常充分了解後提供內部討論與替換。
+3.協調各部門資源，進行異常解析工作，追踪待辦事項。
+4.建立製程失效模式與效應分析（FMEA）。
+5.具備可行性的模式分析能力，異常解析並發現真因，負責FACA / 8D報告撰寫。
+6.客戶滿意處理與回覆。
+7.完成主管交辦事項。1.功率元器件技術開發
+2.孰悉晶圓製程或功率元件製程及元件物理者
+Position Overview:
+1. Have Si background to work with Si foundry for technology/process development.
+2. Familiar with wafer level testing and data analysis.
+3. Work with foundry to develop process in order to boost pixel performance.
+4. With good integrate skill to overall handle RD project including Si/CF/package.
+
+Responsibilities:
+1. Working on CIS and related process.
+2. Process integration for new product and new module delivery.
+3. Interact with design team, product team and silicon fab.
+4. Co-work with foundry, color, and package to improve process window and silicon issue.
+5. Address and solve engineering problems.工作職責：
+1.	協助客製化設備的開發, 可擔任客戶與研發團隊聯繫窗口;
+2.	熟悉半導體製程, 對於ALD設備製程, 需具備相當的專業程度;
+3.	積極有效的跨部門協調能力;
+4.	能精準掌握客戶問題與需求, 並追蹤解決方案後續執行狀況;
+5.	展現高度團隊合作精神;
+6.	具半導體大廠 薄膜製程之設備、研發、製程、客服、技術支援等工作經驗五年以上;半導體設備裝機，拆機，異常處理1. Manage project and handle the NPI schedule to meet customer's requirement.
+2. Discuss new product spec,  and roadmap  with customer and internal department directly. 
+3. Coordinate with internal department and drive the development schedule.
+4. Regular meeting with customer and present project status.
+5. Make new product release to mass production smoothly.
+
+＊實際薪資依學歷、科系、相關工作經驗、專業證照、特殊專長與語言能力綜合核敘。
+＊資深人員薪資另議。		　	　	　	　
+1.了解客戶技術需求,並提供解決方案。 
+2.撰寫客戶端的技術文件與規格說明。 
+3.協助內部與客戶端的溝通。 
+4.提供客戶偵錯服務與技術支援。 
+5.分析並解決客戶產線上發生的問題。1.元件可靠度研發。
+2.先進製程可靠度開發。
+3.半導體元件電性分析。
+4.新製程元件可靠度測試、分析、驗證。
+5.實驗室與烤箱區管理:各式被動元件與耗材之備置/執行daily check,確保各儀器與烤箱之正常運作/機臺清潔,維修,儀校作業之支援。1、參與擴散模組濕蝕刻工藝最佳化以及新產品工藝開發。
+2、負責新產品各項參數設定以及實物流通。
+3、及時處理本模組的工藝、產品等方面出現的問題，並落實解決措施參與本模組的技術管理的各項制度與工藝文件，確保生產線順利運作物理系、應用數學及電機工程學類優先錄取。
+電磁、光學、微波、EMC相關領域模擬應用。Comsol Multiphysics教育訓練、技術支援、Pre-sale support、POC和專案分析與整合。
+發展遠景：成為先進知識工作者
+成就樂趣：終身學習，不斷創新，樂在工作1. 外包商管理(封裝廠&測試廠)
+2. 熟半導體封裝測試製程知識&封裝製程管制&技術能力評估
+3. 量產品的管理，Low yield及良率改進。 
+4. 工作態度主動積極、溝通協調能力佳與負責任。
+5..其他主管交辦工作 
+半導體設備機台的維修保養與售後服務
+1.設備裝機
+2.客戶端現場(無塵室內)設備保養、修繕、改造等
+3.設備軟體作業支援
+  (1)系統更新等自動化設備軟體相關對應
+  (2)機台Log的分析處理與後續異常追蹤
+4.公司其他據點支援
+5.需配合加班或輪班
+  (1)設備機台的ON CALL對應
+6.有機會至國外出差或受訓，須具備良好外語溝通能力
+7.與客戶維持良好關係
+8.遵守客戶端工安規定
+9.具半導體設備經驗尤佳Design Rule 修正與設計
+分析元件結構
+DOE元件設計
+Process 實驗設計
+元件量測與分析Major Responsibilities: 
+‧ Provide engineering support to manufacturing to meet production output goals. 
+‧ Provide engineering support for new device / package start up. 
+‧ Initiate / implement productivity, yield and quality improvement programs 
+‧ Participate in Global forums and drive alignment, issues resolution and BKM (Best Known Methods) 
+‧ Provide innovative and creative solutions to upgrade / improve highly automated equipment. 
+‧ Provide leadership in problem analysis and resolution 
+‧ Performance Management and Development for directs 
+
+Qualifications and Experience 
+‧ Good communication and interpersonal skills and a good team player. 
+‧ Good analytical skills with a strong interest in working in a dynamic and highly automated environment. 
+‧ Highly motivated and outcome oriented. 
+‧ Ability to work independently 
+‧ Good analytical and problem solving skill 
+‧ Knowledgeable in FMEA, SPC, Problem Solving concept 
+‧ Working knowledge of statistical analysis methods. 
+‧ Good command of English 
+‧ Bachelor's degree in Mechanical / Production / Manufacturing Engineering or equivalent. 
+‧ Be flexible in terms of working location1. Responsible for completion of process support and installation of new wafer 
+    etching systems at customer sites. This will include evaluation and 
+    documentation of process outputs of hardware modifications/upgrades to 
+    existing systems.
+2. Setup and complete experiments collect data and generate reports for both in  
+    ternal and external distribution.
+3. Develop process for new application at customer sites on existing equipment.
+4. Define problems and objectives, develop approach, analyze results and 
+     provide recommendation for new and previously installed equipment.1. Responsible for completion of process support and installation of new wafer 
+    etching systems at customer sites. This will include evaluation and 
+    documentation of process outputs of hardware modifications/upgrades to 
+    existing systems.
+2. Setup and complete experiments collect data and generate reports for 
+    both in  ternal and external distribution.
+3. Develop process for new application at customer sites on existing equipment.
+4. Define problems and objectives, develop approach, analyze results and 
+    provide recommendation for new and previously installed equipment.1. Manage wafer foundry and solve all engineering related issues occurred in wafer foundry 
+2. Monitor foundry process control and yield performance, yield improvement 
+3. Manage new product tapeout, mask tooling, engineering preparation, schedule control, corner splits, DOE before mass production 
+4. Coordinate with wafer foundry for technical Q&A with internal R&D team 
+5. Foundry technology evaluation and assessmentResponsibilities：
+1. Establishment and optimization of optical process parameters and production of SOP.
+2. Optical process yield/efficiency improvement,SPC/PFMEA maintenance and improvement
+3. Optical operator training, certification, test bank maintenance and update.
+4. Carried out optical customer engineering experiments, analyzed and improved the quality of customer complaints/abnormal returns
+Requirements：
+1. bachelor degree or above, major in mechanical / electronic / automation;
+2. Relevant working experience in optical fiber transceiver module is preferred;
+3. Understand the basic structure and working principle of light module;
+4. Experienced in failure analysis of optical devices, including multimeter and oscilloscope;
+5. Good communication skill in English, familiar with Chinese or Vietnamese.
+工作職責：
+1.光通訊模塊製程參數建立,優化,作業SOP製作.
+2.光通訊模塊製程良率/效率提升,SPC/PFMEA維護和改善
+3.光通訊模塊作業人員培訓,認證,試題庫維護更新.
+4. 光通訊模塊客戶工程實驗執行,品質客訴/退貨異常分析及改善
+崗位要求：
+1.本科含以上學歷，機械/電子/自動化等專業；
+2.具备光纖收發模塊相關工作經驗,有光模塊經驗者優先;
+3.瞭了解光模塊基本構造與工作原理;
+4.有光器件失效分析經驗，會有万用表及示波器等工具進行分析;
+5.良好的英文溝通能力，熟悉中文或越南語。1.製程改善、良率提升、生產管理、專案改善。
+2.歡迎機械／電機／機電／電子／化工／化學／材料／輪機／造船或其他「理工相關背景」應屆畢業生、社會新鮮人加入。
+3.具相關經驗者佳，無經驗可培訓。1.製程改善、良率提升、生產管理、專案改善。
+2.歡迎機械／電機／機電／電子／化工／化學／材料／輪機／造船或其他「理工相關背景」應屆畢業生、社會新鮮人加入。
+3.具相關經驗者佳，無經驗可培訓。1. Pre-Production and developing Sensor Performance characterization
+( Dark current , PRNU , Noise , Power , Image quality , High/low temperature )。
+2. 車規產品高低溫 Sensor Performance characterization & Qualification
+3. 支援產品工程As a MTB Program Management senior Engineer, you will be responsible for planning, developing and scheduling key Programs, such as 3DI transfer and Automation programs at MTB, using structured Program Management methodologies and business processes. You will be expected to work with other departments / job functions and the Program teams to ensure timely delivery of Program outcomes in line with the Program objectives. The Program Management senior Engineer is competent in Program Management methodology, Performance Management system, Reporting and shows good communications skills, is result driven and can apply a personal, persuasive style in driving for timely completion of Programs. Responsibilities and Tasks 1.Partner with Program Managers to define Projects to support key Programs 2.Collaborate with Program managers to identify gaps / opportunities in Program performance 3.Propose Programs to address the gaps and capitalize on opportunities 4.Collaborate with the Program managers to define Program level metrics 5.Partner with Program teams to plan, develop and schedule Programs based on established Program Management methodology 6.Collaborate with Program teams to develop the Program charter, work breakdown structures, stakeholder involvement and risk analysis 7.Develop Program activity plans with clear milestones and schedule them in the Program tracking system 8.Develop metrics to measure the success of Programs 9.Carry out regular reviews and report of key Programs and progress of Programs with management 10.Monitor progress of Programs and work with the Program Managers to keep the portfolio of Programs updated 11.Work with Program teams to identify actions to bring Programs that are at risk of failure / slippage back on track 12.Develop Business Processes, reports and software tools to manage and improve the Program / Program Management processes 13.Carry out reviews of Program failures / misses and drive Continuous Improvement of the Program / Program Management processes 14.Provide technical expertise and training on Program Management methodology 15.Act as Program Managers for key Programs, when assigned1、負責新產品的實物流通
+2、參與薄片模組的工藝開發、參與新產品在本模組的工藝開發
+3、參與本模組的技術管理的各項制度與工藝文件，確保生產線順利運作
+4、及時處理本模組的工藝、產品等方面出現的問題，並落實解決措施工作職責：
+1.	協助客製化設備的開發, 擔任客戶與研發團隊聯繫窗口.
+2.	熟悉半導體製程, 對於蝕刻製程與設備需具備相當的專業程度.
+3.	積極有效的跨部門協調能力.
+4.	能精準掌握客戶問題與需求, 追蹤後續執行狀況.
+5.	展現優質團隊領導能力者.
+6.	具半導體刻蝕製程、研發、設備、客服等工作經驗五年以上.We are looking for a creative and experienced Product Test Engineer.
+
+NVIDIA has continuously reinvented itself over two decades. Our invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing — with the GPU acting as the brains of computers, robots, and self-driving cars that can perceive and understand the world. Today, we are increasingly known as “the AI computing company.” We're looking to grow our company and build our teams with the smartest people in the world. Join us at the forefront of technological advancement.
+
+We need a creative individual who will help writing automated test program for the advance GPU and SOC. You will be exposed to various aspects of designing and testing NVIDIA products. In addition, your responsibilities will include coordinating with local and overseas product engineering and wafer foundry teams to implement the new test methodology to ensure our chip with the best quality and performance can be delivered to the end customer. If you are passionate about new advance test technology of GPU and SOC, then we really want to hear from you
+
+What you'll be doing: 
+
+o	Initiative and bring up wafer sort ATE program during new product introduction and ramp up for mass production.
+o	ATE production sustain, includes hold lot disposition, yield tracking and improvement, test time optimization, and EFA support.
+o	Engage the on-site work with team collaboration, communication, and drive the ATE/probing HW vendor/supplier on right strategy to improve the performance, quality and reliability.
+o	New probing technology and methodology deployment, includes machine learning for artificial intelligence model, high bandwidth test fixture for 3D IC support.
+o	Build up statistical tool or performing data analysis for gap and root cause analysis.
+
+What we need to see:
+
+o	BS of EE or CS related fields.
+o	Two years or above of relative experience at semiconductor test house, ATE vendor, either written wafer sort program or production sustaining.
+o	Experience in either C++/C or VB.
+o	Experience in either Shell Prog., Awk/Sed, Perl, Python is preferred.
+o	Experience in CAD/SPICE is preferred.
+o	Experience in DFT is preferred.
+o	Experience in either Matlab, SPSS, SAS, Machine Learning is preferred.
+
+NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most brilliant and talented people in the world working for us and, due to unprecedented growth, our best-in-class engineering teams are rapidly growing. If you're a creative and autonomous engineer with a real passion for technology, we want to hear from you.
+- Develops, and implements cost-effective methods of testing and troubleshooting systems and equipment in manufacturing
+- Interface with engineering to resolve technical issues during system test
+- Provide technical input and feedback to engineering on system testing
+- Maintain test fixtures, equipment, specifications and procedures for all products
+- Drive quality projects to improve system level test and cycle time
+- Capability and knowledge to maintain, troubleshoot and upload automated system testing software
+- Be able to attend shift operation
+- Project base tasks such as Labor Hour reduction, Man power planning, Training Plan...etc一、工作說明
+1. 現有客戶之新產品開發: DX or ASLx or Keysight
+2. 新產品導入之良率驗證與製程規劃
+3. 新測試技術研究開發與能力建立
+4. 客戶需求與專案執行處理作業
+
+二、工作技能
+1. 具備CP ATE開發能力
+2. 具備Prober setup能力
+3. 熟DX者尤佳
+
+三、班制說明
+常日班08:30~17:30
+◎依學經歷、科系、經驗相關性、特殊需求證照及專長等條件核敘個人薪資。
+
+1.設計，執行和分析實驗。
+2.執行Opto-Electronics設備的材料表面和確認分析。
+3.維持並改進III-V材料上黃光和蝕刻技術。
+4.為塗層和曝光製造程序建立標準操作程序（SOP）。
+5.具有製造業使用統計方法的經驗，以及DOE，SPC的實際操作經驗。
+職缺說明：
+1.邏輯產品開發驗證及電性分析
+2.碩士以上電機、電子、電物及物理等相關系所畢
+3.兩年以上半導體製程、元件開發、元件分析相關經驗者佳
+4.對半導體製程、元件物理與元件特性分析有興趣者
+
+工作內容
+1.WAT 電性量測及程式編輯
+2.工程實驗電性分析
+3.Testkey 設計及分析
+4.元件最佳化及開發
+5.元件特性分析1.良率提升分析
+2.製程技術改善
+3.實驗數據分析
+碩士以上理工相關科系畢，具微影半導體工作經驗者尤佳。工作內容:
+1.Lab.分析儀器(SIMS & ICP-MS)檢測分析。
+2.機台維護與校正管理。
+3.文件與稽核相關工作。
+4.專案業務負責。
+5.有儀分與質譜儀分析或ISO 17025經驗尤佳。
+6.大學(含)以上化學化工相關系所畢。
+
+相關關經驗:有ISO 17025認證或稽核或實驗室分析儀器操作經驗尤佳。職缺說明：
+1.邏輯產品開發驗證及電性分析
+2.碩士以上電機、電子、電物及物理等相關系所畢
+3.兩年以上半導體製程、元件開發、元件分析相關經驗者佳
+4.對半導體製程、元件物理與元件特性分析有興趣者
+
+工作內容
+1.WAT 電性量測及程式編輯
+2.工程實驗電性分析
+3.Testkey 設計及分析
+4.元件最佳化及開發
+5.元件特性分析工作內容：
+1.各計畫分項進度查核。
+2.計畫報告收集整理。
+3.專案相關會議安排。
+4.專案計畫溝通協調事項。
+5.班別: 常日班。【職務內容】
+1. Project schedule 制定與管控
+2. 協助新產品導入及驗證
+3. 熟悉 WP/AP/WT/FT 流程
+4. 熟悉產品應用及規格
+
+【其他條件】
+1.大學以上理工相關科系畢
+2.對半導體製程職有興趣、學習意願強、抗壓性高
+3.無經驗可，具半導體整合或產品相關經驗者尤佳
+1、參與擴散模組離子注入與快速熱處理課工藝最佳化以及新產品工藝開發
+2、負責新產品各項參數設定以及實物流通
+3、各項指標建立與達成
+4、及時處理本模組離子注入與快速熱處理課的工藝、產品等方面出現的問題，並落實解決措施
+5、參與本模組離子注入與快速熱處理課的技術管理的各項制度與工藝檔，確保生產線順利運作
+6、團隊管理與任務分配1. 新產品工程開發。
+2. 量產產品導入 / 維護 / 資料分析。
+3. 維護系統製程參數。
+4. 產品測試問題分析與異常排除。
+5.其它主管交辦事項。
+
+1.新產品開發階段與國外客戶確認規格，並與廠內各部門合作於量產前找出問題為新產品品質把關。
+2.修制訂廠內品質系統相關規範及流程以符品質規範。1.ESD/LU Design
+2.半導體元件製程及元件結構
+3.BCD/HV Process，具UHV經驗
+4.具晶圓廠及Design House經驗1.品質工程缺陷分析
+2.熟悉缺陷分析手法, SEM, XRT, OM等設備操作
+3.熟半導體製程
+
+PS2006-0061.半導體生產線產品的抽檢,發現異常時,即時通知相關機台處置。
+2.生產機台Trouble，造成產品Defect情況確認。
+3.缺陷檢驗程式設定與管理。
+4.配合相關實驗，Defect檢驗的結果，產出報告。
+5.新製程的開發，Defect確認情況。(需與其他工程單位溝通合作)1、參與薄片模組的工藝開發、參與新產品在本模組的工藝開發
+2、參與本模組的技術管理的各項制度與工藝改善，確保生產線順利運作
+3、負責新產品的實物流通
+4、及時處理本模組的工藝、產品等方面出現的問題，並落實解決措施【工作內容】:
+1.針對客戶運用半導體設備的各種提案及技術支援
+2.各種半導體設備導入前後的試作與外派支援
+3.針對各種半導體設備的評估以及利用內部開發設備/消耗品進行基礎實驗
+
+【福利制度】:
+※每年發放四次奬金
+※業績連動獎金、連結決算貢獻獎金、VISION達成獎金、股票選擇權型獎金
+※根據公司營運狀況及同仁績效表現進行年度調薪
+※三節禮金
+※通勤津貼、出差津貼、育兒津貼
+※每年定期健康檢查
+※各項活動（員工旅遊/尾牙/社團等）1. New Product Design / NPI / Production Review
+2. APQP System owner, Design FMEA/Process FMEA/NPI Review
+3. PCN System Owner
+【職務說明】
+1.	Wafer-level 電性參數量測技術支援，包括 on-site support 或 remote support
+2.	受理客戶提出的各項技術問題、分析並提供解決方案。主要項目為
+- 產品技術諮詢與疑難排除
+- 產品安裝及教育訓練 
+- 客制化功能開發 (需寫程式) 
+- 量測程式開發、量測系統問題排除(需寫程式) 
+- 產線建立、實驗室建立
+- 新產品介紹與導入
+3.	針對複雜的技術問題，需跨部門、組織協調溝通，尋求支援共同解決客戶問題
+ 
+【工作型態】 
+1.	主要客戶為半導體廠、記憶體廠、面板廠
+2.	服務客戶量測、測試應用開發需求 
+3.	需要出差配合產線客戶現場驗證要求
+4.	On board後需備車，公司有相關津貼補助 
+5.	需進無塵室作業
+As SR. Burn/Test/Post-E Process Engineering Manager, you will be responsible for leading and managing the operation of Process Engineering sections comprising of a team of engineers and technicians, working together with other functional groups locally and/or globally to accomplish Departmental and organizational objectives by ensuring the process is in control and quality/reliability of product meets expectation; sustaining and improving yield through continuous yield improvement activities / projects; reducing cost through continuous cost reduction effort; ensuring effective and efficient risk management strategy; defining, developing and establishing process capabilities, strategy and roadmap; developing new capabilities ahead of needs, sustaining and executing to the relevant Business Processes that support the overall Quality Management System. 
+
+ 
+
+Responsibilities and Tasks 
+
+Mentoring: Actively share information with others to raise level of awareness and knowledge in the department, site, or larger industry groups. Manage Area Personnel and Programs (Managerial aspect)
+
+Provide communication regarding job expectations and changes
+Coach and provide career development
+Establish goals and monitor performance achievement
+Manage employee performance and resolve conflict
+Provide recognition
+Motivate and inspire direct reports to facilitate meeting of both individual and organizational objectives.
+Participate in development of management policies for Equipment and Process Engineering department.
+Nurture open communication and contribute to maintaining a positive work environment.
+Provide leadership in problem solving and decision making.
+Provide leadership in technical and operational areas.
+Manage team staffing and succession
+Provide line of sight to strategic objectives
+Promote partnership across functional areas and customer groups
+Create an environment of motivation to foster team member engagement to the fullest of their potential.
+Foster an environment where "winning as a team" is a way of life.
+Ensure that department learning and development opportunities are identified and fulfilled.
+Develop and promote technical expertise in the group by ensuring relevant technical training, and supporting attendance to technical conferences.
+Develop a succession management strategy and periodically conduct talent reviews within department.
+Ensure Quality of Process and Product through establishing strategy/program to drive continuous improvement projects (Operational aspect)
+
+Manage, engage in, and promote continuous yield and quality improvement efforts
+Manage and support new product startup.
+Develop short and long term plans to effectively to meet departmental goals.
+Manage execution of engineering and/or cross-functional projects to ensure operational objectives are met.
+Pursue continuous improvement and develop new solutions to meet Microns business needs.
+Drive/Manage Audit activities
+Ensure team members are properly trained according to department compliance and work requirements
+Identify and implement system and process improvements
+Develop, communicate, and monitor performance metrics
+ 
+
+Education Required
+
+Engineering Bachelors Degree 
+
+ 
+
+Experience Required 
+
+Minimum 7 years experience in any of the following: 
+
+Leadership position
+Semiconductor Manufacturing1. 新製程技術的評估與開發												
+2. 新製程技術的整合與移轉												
+3. 新材料的評估與開發													
+4. 新技術應用機台的評估													
+5. 配合客戶新設計專案的開發												
+6. Main focus area is WLCSP & DPS(Die Process Service)															
+1.大學以上理工相關科系畢。
+2.半導體相關經驗五年以上。
+3.熟悉電腦MS-office操作。
+4.精通英語或日語。
+5.個性開朗，善於溝通協調，人際互動良好，具社團經驗尤佳。
+6.記憶體或邏輯半導體產業相關，具製造，產品或整合經驗者尤佳。1.DRAM,Flash,PCM..等Memory產品製程開發與量產導入，並提升良率與品質。
+2.相關製程與模組之可靠度分析，電性分析，驗證，改善..以得製程整合設計之最佳化。
+3.與各工藝模組部門共同制定相關模組技術規格。
+4.與設計部門制定新產品規格。半導體設備機台的維修保養與售後服務
+1.設備裝機
+2.客戶端現場(無塵室內)設備保養、修繕、改造等
+3.設備軟體作業支援
+  (1)系統更新等自動化設備軟體相關對應
+  (2)機台Log的分析處理與後續異常追蹤
+4.公司其他據點支援
+5.需配合加班或輪班
+  (1)設備機台的ON CALL對應
+6.有機會至國外出差或受訓，須具備良好外語溝通能力
+7.與客戶維持良好關係
+8.遵守客戶端工安規定
+9.具半導體設備經驗尤佳1.客訴分析與事後處理，防堵，call back，預防等
+2.競品分析
+3.規劃並執行實驗計畫，且能收集並分析資料，判斷結果並加以修正，整理成果報告フィールドサービスエンジニア
+プロセスエンジニア
+客先装置のアフターサービス能夠在半導體的工作環境中提升專業能力！
+以半導體製造裝置的維修保養・待命為主！
+以蝕刻裝置與成膜裝置為主的定期維修保養。
+
+【工作内容】
+■半導體的維修保養・運用
+■顧客諮詢
+■無塵室作業
+■其他內勤事務作業
+※為配合待命工作採用排班制的方式。（不定期：1～2個月1週間左右的頻率）
+※實際工作場所位於新竹地區，視情況需出差
+
+【工作環境】
+加入客戶團隊，須擔任與客戶積極溝通的橋樑，視情況今後可能會再增加人員。
+將來有機會成為組長。
+
+福利制度：
+＜法定項目＞ 
+・勞健保
+・加班費
+・各種休假(特別休假、婚假、喪假、生理假、產檢假、陪產假、產假、育嬰假), 
+・退休金
+
+＜企業福利制度＞ 
+・餐費津貼（NT1,000）
+・住宿津貼(NT5,000，僅限須搬家至台中者)
+・交通津貼（NT3,000）
+・語言津貼（N2⇒1,000NTD/月、N1⇒1,500NTD/月）
+・加班津貼、夜間加班津貼
+・保險完善
+
+
+【歡迎主動投遞履歷至以下信箱】
+  rcntw-service@reeracoen.com.tw
+【更多職缺】
+https://www.reeracoen.tw/zh-tw/jobs/search- Provides expertise in cleaning and surface treatment processes for commodities
+- Provides cleaning process inputs to design engineers for commodities
+- Ensures suppliers’ cleaning processes are in place to produce reliable products in a repeatable manner; develops and audits quality control systems.
+- Conducts supplier process audits and drive closures of improvement actions.
+- Manages suppliers and analytical labs to perform failure analyses of parts failed in the field.
+- Coordinates development activities with suppliers and product groups in developing processes to meet product groups' needs.
+- Conducts supplier assessments (with emphasis on manufacturing capabilities and quality management systems) of new and existing suppliers.
+- Provides expertise in cleaning and surface treatment processes for commodities
+- Provides cleaning process inputs to design engineers for commodities
+- Ensures suppliers’ cleaning processes are in place to produce reliable products in a repeatable manner; develops and audits quality control systems.
+- Conducts supplier process audits and drive closures of improvement actions.
+- Manages suppliers and analytical labs to perform failure analyses of parts failed in the field.
+- Coordinates development activities with suppliers and product groups in developing processes to meet product groups' needs.
+- Conducts supplier assessments (with emphasis on manufacturing capabilities and quality management systems) of new and existing suppliers.
+- Provides expertise in cleaning and surface treatment processes for commodities
+- Provides cleaning process inputs to design engineers for commodities
+- Ensures suppliers’ cleaning processes are in place to produce reliable products in a repeatable manner; develops and audits quality control systems.
+- Conducts supplier process audits and drive closures of improvement actions.
+- Manages suppliers and analytical labs to perform failure analyses of parts failed in the field.
+- Coordinates development activities with suppliers and product groups in developing processes to meet product groups' needs.
+- Conducts supplier assessments (with emphasis on manufacturing capabilities and quality management systems) of new and existing suppliers.
+1、收集市場訊息，分析趨勢，研究客戶開發方向，客戶規格回覆與執行。 
+2、執行新產品開發專案之規劃、執行、設計及發展進度掌控、成本控制及
+   結案程序。 
+3、協助各部門推動專案之執行、管理、問題追蹤及解決。 
+4、溝通協調跨部門問題。
+5、業務技術說明
+6、主管交辦事項。
+The Company
+
+Onto Innovation is a leader in process control, combining global scale with an expanded portfolio of leading-edge technologies that include: 3D metrology spanning the chip from nanometer-scale transistors to micron-level die-interconnects; macro defect inspection of wafers and packages; metal interconnect composition; factory analytics; and lithography for advanced semiconductor packaging. Our breadth of offerings across the entire semiconductor value chain helps our customers solve their most difficult yield, device performance, quality, and reliability issues. Onto Innovation strives to optimize customers’ critical path of progress by making them smarter, faster and more efficient.
+
+Headquartered in Wilmington, Massachusetts, Onto Innovation supports customers with a worldwide sales and service organization. Additional information can be found at www.ontoinnovation.com.
+
+Position Summary
+
+The Applications Scientist will provide technical on-site support to enlarge POR share, develop and maintain positive relationship with customers and will bridge new product penetration, support pre-sales efforts with technical presentations, BKM and white papers. 
+
+Roles And Responsibilities
+
+•	Initiates the design, development, execution and implementation of scientific research projects.
+•	Investigates the feasibility of applying scientific principles and concepts to potential inventions and products.
+•	Plans and executes laboratory research.
+•	Maintains substantial knowledge of state-of-the-art principles and theories, and may contribute to scientific literature and conferences.
+•	Participate in development of patent applications.
+•	Coordinate interdepartmental activities and research efforts.
+
+Required Education And Experience
+
+•	More than 2 years working experience in semiconductor metrology area is preferred
+•	Fresh B.S./M.S./Ph.D. in Engineering Sciences, Materials Science, Electrical Engineering, Chemical Engineering, Applied Sciences
+•	Fluency in both written and Spoken English required
+•	Ability to work independently under minimal supervision
+•	Ability to deliver effective technical presentations to internal and external audiences
+•	Experience with computational-based modeling
+•	Knowledge of statistics, and design of experiments
+•	Knowledge of basic semiconductor device physics
+•	Knowledge of numerical analysis, mathematical optimization is a plus
+•	Experience with semiconductor fabrication and process integration is a plus
+1.製程整合數據分析
+2.產品良率提升
+3.異常產品分析
+4.客戶關係維護
+5.其他跨組織合作之專案計劃
+
+＊實際薪資依學歷、科系、相關工作經驗、專業證照、特殊專長與語言能力綜合核敘
+＊資深人員薪資另議。 1、配合公司生產線的運作，進行有效率的異常排除。 2、系過系統上的資訊，即時性的配合出貨需求。 3、利用流程上的資訊，即時性的分析異常品。 4、定期進行教育訓練提升。。1.提供客戶端安裝、移機、檢修維護保養機台設備。 
+2.接聽客戶電話，回應並處理客戶問題、故障排除。  
+3.機台Log的分析處理和後續異常追蹤 
+*可接受手機值班&on call •	Communicates as a subject matter expert on high level technical issues 
+        and escalations while providing guidance and recommending solutions.
+•	Provides technical support to field engineers, technicians, and product 
+        support personnel who are diagnosing, troubleshooting, repairing and 
+        debugging complex electro/mechanical equipment, computer systems, 
+        complex software, or networked and/or wireless systems. 
+•	Partners with the account team to present to customers the problem 
+         statement, identified root causes and getting buy-in on proposed solutions
+•	Identifies and communicates opportunities for installed base performance 
+        improvements within a customer site/account through hands on and or 
+         installed based performance data collection/analysis.
+半導體設備機台的維修保養與售後服務
+1.設備裝機
+2.客戶端現場(無塵室內)設備保養、修繕、改造等
+3.設備軟體作業支援
+  (1)系統更新等自動化設備軟體相關對應
+  (2)機台Log的分析處理與後續異常追蹤
+4.公司其他據點支援
+5.需配合加班或輪班
+  (1)設備機台的ON CALL對應。
+6.有機會至國外出差或受訓，須具備良好外語溝通能力
+7.與客戶維持良好關係
+8.遵守客戶端工安規定
+9.具半導體設備經驗尤佳1. 負責封裝wafer process製程相關業務
+2.了解雷射原理
+3. 熟悉異常處理流程、有define process rule 經驗
+4. 規劃與督導部門活動以及公司組織目標
+5. 規劃、整合部門人力資源，並持續推動製程改善專案
+6. 督導教育訓練計畫，提升人力資源素質
+7. 督導並改善製程績效與成本降低
+8. 執行部門人員績效評估 
+
+*具5年以上封裝廠wafer process製程經驗, ex : DISCO SDBG, DBG, wafer dicing, laser cut.....等，其中包含3年以上管理職經驗。
+*有thin die(<80um) 製程經驗尤佳。In your role as process engineer you are responsible to support Laser Anneal & Ion Implantation Equipment.
+Equipment installations and operations. This responsibility includes :
+ - Work with the equipment suppliers, maintenance technicians, and cross-functional teams.
+ - Support yield and Continuous Improvement activities related to the Diffusion Equipment. (Laser Anneal & Ion Implantation)
+ - Participate in and support troubleshooting and taskforces as needed. Develop solutions that prevent recurrence. Strong Electronic and mechanical troubleshooting skills.
+ - Experience in leading teams with an emphasis on project leadership fundamentals, effective communication and spending justification.
+ - In-depth knowledge of Predictive and Preventive Maintenance techniques.
+ - Continue to improve robust process, DOE techniques, data driven decision making and systematic problem solving skills.
+ - Support installation of new equipment as well as sustaining of existing tools.
+ - Provide leadership and guidance to effectively identifying root causes to equipment issues. Responsible for driving resolutions and closures of issues.
+ - Develop process and train the equipment technicians. Create materials and perform training of technicians working on tools in the area.
+ - Perform all activities in a safe and responsible manner and support all Environmental, Health, Safety and Security requirements and programs.1. 對IC封裝各階段製程參數進行生產可行性風險評估
+2. 分析及改善工程、量產階段的IC封裝異常及散熱問題。
+3. 新封裝製程開發評估，並管理開發階段之相關專案進度。
+4. 相關IC封裝資訊收集及提供改善方案。
+5. 進行IC封裝可靠度等相關實驗、分析、驗證及製程簡化。
+6. 負責IC封裝後本體熱傳導模式、熱阻等相關數據量測。1、測試程式開發及異常排除,維持產品量產穩定性。
+2、新產品Qual run。
+3、產品Low yield分析。
+4、簡易的機台故障維修。1.	設計/分析/測試。
+2.	按照統計格式定義及分析數據。
+3.	定義DFB，VCSEL，TOSA的測試協定。
+4.	分析測試結果以確定問題的根本原因。
+5.	分析burn-in測試結果確認對最終產品，那些部分工程進度須被完成。
+6.	與CM和Bandwidth10工程師合作解決問題。
+7.    能夠建立/修改測試軟件。
+8.	準備測試文件，供主要工程師審查。
+
+
+1. FT產品異常低良率分析。
+2. 達交廠內與客戶需求。
+3. 新產品Qual Run。
+4.工程分析支援。
+5. 協助線上異常處理。1.主導與組織擴散模組的工藝開發
+2.負責新產品的試產pi-run
+3.最佳化本模組的工藝、產品等，確保研發生產線順利運作，並導入量產規模
+4.規範本模組的技術管理及各項制度和工藝文件
+5.客戶溝通與合作1. 半導體廠晶圓製造設備之關鍵模組與零組件設計開發
+2. 關鍵模組與零組件之材料、加工、表面處理供應鏈開發
+3. 定義關鍵零組件生產流程，技轉生產線，由開發轉量產1.	標準工時制定及優化
+2.	生產成本計算及分析
+3.	工廠生產動線規劃
+4.	製程/設備改善效益評估
+5.	生產人員工作教導及管理
+6.	工時異常分析及生產效率改善
+7.	熟半導體或封裝製程尤佳
+8.	其他主管交辦事項
+1. 測試良率分析改善
+2. SOP 撰寫
+3. 異常分析與改善
+4. 流程改善與生產效率提升
+5. 新客戶/新產品導入 協助產品工程師建立相關資料(BOM表、標準‧‧‧‧‧‧‧)及相關實驗
+1. Setting up key process modules required for new cutting-edge HV SuperJunction MOSFET technology development.
+2. DOEs planning to realize new concepts, and wafer probing & assembled performance data analysis for each learning cycle.
+3. Wafer cost analysis, wafer probing yield analysis & yield-up activities for the new innovative technologies.
+4. Process module optimization for derivative technology development, based on proven technologies.1. Setting up key process modules and potentially generating new device architectures required for new cutting-edge MV Shielded-Gate Trench MOSFET technology development.
+2. DOEs planning to realize new concepts, and wafer probing & assembled performance data analysis for each learning cycle.
+3. Wafer cost analysis, wafer probing yield analysis & yield-up activities for the new innovative technologies.
+4. Process module optimization for derivative technology development, based on proven technologies.1. Setting up key process modules required for new cutting-edge HV SuperJunction MOSFET technology development
+2. Wafer probing & assembled performance data analysis for each learning cycle
+3. Wafer probing yield-up and industrialization activities for the new innovative technologies
+4. Derivative technology development support, based on proven technologies
+
+1. Setting up key process modules required for new cutting-edge MV Shielded-Gate Trench MOSFET technology development.
+2. Wafer probing & assembled performance data analysis for each learning cycle.
+3. Wafer probing yield-up and industrialization activities for the new innovative technologies.
+4. Derivative technology development support, based on proven technologies.
+1. Setting up key process modules required for new cutting-edge Field-Stop Trench IGBT technology development
+2. Wafer probing & assembled performance data analysis for each learning cycle
+3. Wafer probing yield-up and industrialization activities for the new innovative technologies
+4. Derivative technology development support, based on proven technologies
+1. 熟悉半導體製程, 對於PVD設備需具備相當的專業程度及工作經驗. 
+3. 積極有效的跨部門協調能力, 能展現優質團隊領導能力. 
+4. 能精準掌握客戶問題與需求, 並追蹤後續執行狀況. 
+5. 具半導體廠PVD製程、研發、設備、客服等工作經驗五年以上.1. Fab產品良率監控。
+2. QBR活動執行。
+3. 跨部門活動整合。
+4. Trouble case 真因查找。1.協助SET UP及異常排除。
+2.FT設備保養維修。
+3.跨部門協調溝通。
+4.人員教育訓練。Job Description
+As an MTB NPM PLM Sr. Engineer, you will be primarily responsible for New Product NPI Phase Gate / Tech node PMI management and overall product lifecycle management. To co-work with PDE / APTD to control NPI Phase Gate / Tech node PMI to successfully transfer to Site for HVM.
+
+Responsibilities and Tasks
+Responsibilities and Tasks
+		
+Support the New Production Introduction (NPI) / Tech Node (TN) Process 
+- Coordinate and facilitate Phase Gate meetings
+- Work with Package Development Engineering (PDE) / Advance Product Technology Development (APTD) and define required Phase Gate / PMI milestones to meet HVM required date.
+- Work with Package Development Engineering (PDE) / Advance Product Technology Development (APTD) for PG/PMI report preparation, process flow & readiness check and E2E monitoring.
+- Work with Package Development Engineering (PDE) / Advance Product Technology Development (APTD) for LVM facilitator & healthy monitoring.
+- Partner with technology development teams on milestones and product validation.
+- The other NPM PLM
+
+Track all Managed new product development against milestones 
+- Plan and drive schedules to ensure on-time execution
+- Ensure the schedule and resource data is current, accurate and up to date 
+- Ensure milestones are created for new product requests 
+- Follow up on issues that delay project milestones
+- Ensure smooth execution of product requests and adherence to NPI methodology
+- Ensure methodology and process documentation adhere to the best quality standards1. 封裝製程良率提升與生產異常處理。
+2. 負責新產品製程驗證、生產管控及封裝量產導入。
+3. 封裝製程與材料的審查及改善，提升產品可靠度。※Job Contents:
+1. Work with GUC's customers to define a competitive packaging solution.
+2. Package design and the related actions follow up.  
+3. Work with GUC signal integrity engineer, substrate designer and thermal designer to come up with a cost effective package
+
+※Requirements:
+1.機械/電子/電機工程相關研究所(含)以上畢 
+2.熟悉Cadence Allegro Package Designer, Autocad 
+3.熟悉各種類型之封裝及基板設計流程及製程
+4.熟悉各種封裝結構如PBGA/TFBGA/FlipChip/POP/PiP/SiP/Module/3DIC
+5.精通英文聽說讀寫
+6.此職缺工作地有竹科及內湖科學園區
+
+※自我推薦獎金辦法:
+1.期間限定：即日起至2020/09/30止
+2.適用職缺:
+職缺上有註明”享自我推薦獎金，獎金最高15萬”者適用
+3.獎勵內容:
+相關年資5年(含)未滿10年：NT 80,000元/位；
+相關年資10年(含)以上： NT 120,000元/位；
+歡迎GUC畢業校友回娘家，若為GUC前同事，另加碼NT 30,000元/位。
+4.核發方式：報到後滿6個月時發給全額獎金。
+5.應徵方式:
+a.請從104人力銀行主動投遞
+b.請投遞履歷至 hr@guc-asic.com 註明應徵職缺
+c.若已透過親友推薦，會以投遞先後認定資格
+6.注意事項:
+a.獎金會列入個人薪資所得
+b.若提早招募額滿，活動會提早結束
+c.本活動由創意電子保留內容變更及最終解釋之權利从事电源集成电路技术，功率器件，或光电器件的研发。根据技术路线图和产品的要求， 从事相关工艺和器件技术的开发和优化。利用仿真优化设计方案， 组织DOE流片测试 ，设计测试芯片完成技术的验证，完成产品工艺技术PDK的编写等. Be responsible for the development of power integrated circuits technology, discrete power device, or photoelectrical device according to the technology roadmap and product requirement: from simulation to DOE experiment, from measurement and characterization to production qualification, from technology IOS documentation to final PDK release1、中英文專利說明書之撰寫
+2、專利調查，專利申請及相關作業
+3、爭議與侵權訴訟處理
+4、依業務需求需出差，但一般情況都是當日來回1. 產品異常低良率分析。
+2. 達交廠內與客戶需求
+3. 維護系統製程參數
+4. 新產品導入與建置
+5. 協助線上異常處理
+6. 協助客戶開發及提升良率
+ Sales Executive.Sales Engineer1.具備基本產品專案經驗, 研發產品導入量產計畫
+2.產品製程能力提升及良率改善
+3.制定及改善產品製造程序
+4.產品不良分析及改善措施
+5.產品測試, 監控產品規格, 保證產品品質
+1.執行產品及技術開發各項工作，分析問題並處理異常。
+2.負責管理產品之製程流程及參數。
+3.建立元件電性及WAT量測條件，整理及分析電性資料。
+4.線上材料及產品故障分析。
+5.工程及技術資料收集，並針對異常或問題解析與處理。
+6.改善元件特性並提昇產品良率。1 WAT test program establishment to collect WAT data for SPICE modeling
+2 WAT algorithm edition for device characterization
+3 Semi-auto bench measurement for WAT trouble shooting
+4 Maintain the precision and efficiency of WAT and semi-auto tools
+1、本科或以上學歷，工科背景；
+2、需具有半導體行業或精密製造業3年以上制程改善工程師/主管工作經驗（不符合勿投）
+3、有較強的邏輯思維能力，有DOE實戰經驗，有成功的制程改善經歷1. 負責產線相關設備評估與導入
+2. 負責機台導入與驗收
+3. 製程參數DOE優化與SOP撰寫
+4. 製程設備工制具設計與設備維護
+5. 線上機台問題處理與解決1.配合公司生產線的運作，進行有效率的異常排除
+2.生產設備保養，維修及處理機台異常
+3.機台設備部件更換
+4.維護機台表單及ISO文件作業指導書
+5.其他交辦事項(1) 客戶關係管理及開發
+(2) 專案管理及執行
+(3) 針對公司銷售產品擬定技術方案及執行
+(4) 備產品及技術專業知識，協助業務產品銷售
+(5) 完成業務主管其他交辦事項*Must send your English resume to Joe (yuhang.yang@svxr.com). We won't consider you if you don't send English resume.
+* 請註明應徵職缺名稱
+
+About Silicon Valley X-ray:
+Silicon Valley X-ray (SVXR) is a privately funded company based in San Jose, California, USA.
+SVXR's vision is to provide an inline inspection and metrology system that will allow manufacturers of advanced interconnects to quickly bring the products to market at high yields and high reliability.
+SVXR's main advantages are higher sensitivity to defects, higher throughput, faster inspection speed, enormous field of view, uniform imaging capabilities, and lower noise flow.  We are developing algorithms that will automatically detect defects such as non-wets, voids in vias, and misalignment problems in order to catch process variations that negatively impact yields.
+
+PS: SVXR Taiwan HQ is located at Hsinchu.
+
+Job Description and Responsibilities:
+You need to be able to work at Taichung for supporting our customer. 
+
+The Senior Field Applications Engineer would work with customers to inspect semiconductor parts in a high volume production environment (i.e. FAB clean room).  He would be responsible for installing and qualifying new tools in the customer’s factory, for creating / managing / modifying recipes on the tool, and for troubleshooting issues with data quality.
+As the main contact for the customer and SVXR on technical issues, the Engineer must be able to communicate clearly in Mandarin and English.  More than just a translator, he must understand what the customer is asking for and why and if necessary, managing the customer on the spot.
+The Engineer is further responsible for finding potentially new applications of SVXR’s x-ray technology, communicating the application and requirements to the local team and SVXR, executing experiments to demonstrate feasibility, and analyzing the experimental data.※此公司所開發之產品用途在於日常生活的一般家電到航太科業零件之積體電路。運用之廣已成今日電子產業界一項不或缺的產品，公司之創立係由歸國學人基於工業報國之精神，並配合政府發展高科技政策...........☆
+
+
+◎ 職務內容 ◎
+1.熟悉Cadence軟體操作 (PCB/APD/SIP) 
+2.熟悉Cadence SKILL 
+3.其他程式編譯能力 (Tcl/VBA/C++/AutoLisp) 
+4.串連作業系統能力 (DLL/Dos/Powershell) 
+5.熟悉資料庫架構及語法 (SQL)
+
+
+※ 工作地點 : 桃園市中壢區
+㊣年薪優~獎金高~福利制度佳~公司另有附設幼兒園~
+>>歡迎優秀人才迎向高薪時代!!
+....................................................................................................................................
+Manpower萬寶華專業顧問公司
+顧問名稱 : 徐小姐 Jane Hsu
+TEL : 03-3701558 #107
+手機 : 0982631093
+LINE ID : mp0982631093
+1. 新產品工程開發。
+2. 量產產品導入 / 維護 / 資料分析。
+3. 維護系統製程參數。
+4. 產品測試問題分析與異常排除。
+5.其它主管交辦事項。
+
+1. 10G~50G 高速光電元件(LD, APD, PIN)、封裝之製程(整合)工程
+2. 其他: 主管交辦事項1.指導、檢閱並負責產品設計與變更的認可。
+2.分析技術、資源成本與市場需要，以評估計畫可行性。
+3.負責專案計劃經營之責任。
+4.負責發展.提升.建立及運用專案計劃。
+5.確保專案計劃之質量.成本效益與結果。
+6.掌控產品良率及精度。
+7.提出潛在的精度問題，並提供相關預防措施方案。
+8.規劃產品製造流程並提出改善的方案。
+9.確實執行全方位製程掌控，以符合客戶產品需求，提高客戶滿意度
+1.負責推集團內品質持續改善CIP活動,6 Sigma持續改善活動,以規劃品質技巧教育訓練課程。
+2.負責規劃，推行與維護威剛集團內ISO 9001 品質系統運作及發展相關活動。
+3.負責規劃，推行與維護威剛集團內IECQ QC080000/OEM-GP環保系統運作及發展相關活動。
+4.主導國外OEM/SI大廠客戶稽核需求
+5.熟悉供應商工廠品質稽核作業管理(QSA/QPA)
+6 新產品開發及ECR管理,協助新產品開發及工程變更時需特別關注的零件供應商之製程/產品進行管控/輔導.1、製程之開發
+2、檢討與監控製程異常
+3、品質問題分析與處理
+4、製程穩定性保持與良率/效率之提升※Job Contents:
+1. Work with GUC's customers to define a competitive packaging solution.
+2. Package design, solve technical challenge, and all package related actions follow up.
+3. Work with GUC signal integrity engineer, substrate designer and thermal designer to come up with a cost effective package.
+4. New package technology design flow development
+
+※Requirements:
+1.機械/電子/電機工程/材料工程相關研究所(含)以上畢
+2.專業年資至少15年以上，有帶領團隊經驗佳
+3.熟悉Cadence Allegro Package Designer, Auto CAD
+4.熟悉各種封裝結構如 FCCSP/FCBGA/ CoWoS/InFO_oS ( Fanout MCM)
+5.熟悉各種類型之封裝及基板 Co-design of IC-PKG-PCB 設計流程
+6.熟悉各 IP 的 SI/PI Co-simulation 概念及流程 
+7.精通英文聽說讀寫
+
+※自我推薦獎金辦法:
+1.期間限定：即日起至2020/09/30止
+2.適用職缺:
+職缺上有註明”享自我推薦獎金，獎金最高15萬”者適用
+3.獎勵內容:
+相關年資5年(含)未滿10年：NT 80,000元/位；
+相關年資10年(含)以上： NT 120,000元/位；
+歡迎GUC畢業校友回娘家，若為GUC前同事，另加碼NT 30,000元/位。
+4.核發方式：報到後滿6個月時發給全額獎金。
+5.應徵方式:
+a.請從104人力銀行主動投遞
+b.請投遞履歷至 hr@guc-asic.com 註明應徵職缺
+c.若已透過親友推薦，會以投遞先後認定資格
+6.注意事項:
+a.獎金會列入個人薪資所得
+b.若提早招募額滿，活動會提早結束
+c.本活動由創意電子保留內容變更及最終解釋之權利※Job Contents:
+1. Work with GUC's customers to define a competitive packaging solution.
+2. Package design and the related actions follow up.  
+3. Work with GUC signal integrity engineer, substrate designer and thermal designer to come up with a cost effective package
+
+※Requirements:
+1.機械/電子/電機工程相關研究所(含)以上畢 
+2.熟悉Cadence Allegro Package Designer, Autocad 
+3.熟悉各種類型之封裝及基板設計流程及製程
+4.熟悉各種封裝結構如PBGA/TFBGA/FlipChip/POP/PiP/SiP/Module/3DIC
+5.精通英文聽說讀寫
+6.此職缺工作地有竹科及內湖科學園區
+
+※自我推薦獎金辦法:
+1.期間限定：即日起至2020/09/30止
+2.適用職缺:
+職缺上有註明”享自我推薦獎金，獎金最高15萬”者適用
+3.獎勵內容:
+相關年資5年(含)未滿10年：NT 80,000元/位；
+相關年資10年(含)以上： NT 120,000元/位；
+歡迎GUC畢業校友回娘家，若為GUC前同事，另加碼NT 30,000元/位。
+4.核發方式：報到後滿6個月時發給全額獎金。
+5.應徵方式:
+a.請從104人力銀行主動投遞
+b.請投遞履歷至 hr@guc-asic.com 註明應徵職缺
+c.若已透過親友推薦，會以投遞先後認定資格
+6.注意事項:
+a.獎金會列入個人薪資所得
+b.若提早招募額滿，活動會提早結束
+c.本活動由創意電子保留內容變更及最終解釋之權利 ▼工作內容▼
+新產品需求及工程安定化對應
+產品SOP制定與規格標準化
+實驗規劃
+製程改善
+
+▼應徵條件▼
+歡迎畢業生
+具PCB相關製程經驗尤佳
+
+▼企業資訊▼
+為全球國際知名的日商製造商，台灣分公司以成立超過30年，主要為專業印刷電路基板製造廠。
+海外據點分布於：東南亞(馬來西亞、泰國)、歐美(美國、法國、義大利)等超過20個以上的國家。
+
+▼福利制度▼
+★年終固定2個月+業績調整 (平均年薪14~16個月)
+◎薪資獎金
+每年調薪、專案推進獎金、紅利獎金、廠慶感謝金
+◎福利制度
+休假-修車假、特別休假、生理假、育嬰假、陪產及產檢假...等
+保險-勞工保險、全民健保、團險保險
+補助-結婚、生育、國內外旅遊、急難救助房屋修繕
+禮金(品)-端午、中秋、勞動節、生日、尾牙參加獎
+獎金(品)-子女教育獎學金、資深員工服務獎
+設施-哺乳室、員工餐廳、汽/機車停車場 其它-免費供餐、員工制服、員工健康檢查
+◎人才培育
+新人教育訓練、日語學習環境
+主管能力培訓、各項認證培訓、工業安全培訓、海內外研修機會
+符合國家＂勞動基準法＂之相關規定(勞/健/團保、退休金制度、婚喪假津貼、員工健康檢查、生理假、家庭照顧假、產假、陪產假等…)。1.PCB,半導體,封裝,陶瓷基板產品開發打樣;
+2.應供商及材料調查
+3.有曝光,顯影,蝕刻,研磨,印刷技能
+4.具PCB,半導體濕製程,封裝, LED載板,陶瓷基板概念.Position Overview:
+1. CF/ML process improvement for OVT product performance or quality in production stage: Process BKM developing and evaluation/verification to implement into production line
+2. CF/ML wafer foundry capacity expansion for mass production: Qualify/release more tools and materials suppliers verification
+3. CF/ML process yield improvement: Process and tools tighten control, defect reduction
+4. Resolve CF/ML process related low yield or MRB or CCN issue: EFA/PFA to find out the root cause and drive corrective and preventive actions for fab excursion, MRB and customer complains events 
+5. CF/ML fabs production stability Improvement: Production baseline monitor by inline/offline SPC, OQC, equipments real time monitor or FDC (fault defection and classification) system to reduce baseline variation
+
+1.AMAT磊晶機台與KLA量測儀器的維護與保養
+2.氣體鋼瓶的切換與更換
+3.Local scrubber的檢查與清潔
+4.參與並負責新設備安裝及訓練
+5. 設備操作程序書、設備保養程序書及EFMEA 文件建立
+6. 更換產品需求的設備變更與調整
+7. 設備與量測儀器的維修
+8. Golden sample的校正測試或調整
+9.完成主管交辦事項
+1.蝕刻設備的維護與保養
+2.氣體鋼瓶的切換與更換
+3.化學品供給系統的切換與更換
+4.Local scrubber的檢查與清潔
+5.產品(過濾器)的更換更換、變更與調整
+6.參與並負責新設備安裝及訓練
+7,設備操作程序書、設備保養程序書及EFMEA 文件建立
+8. 設備與量測儀器的維修
+9. Golden sample的校正測試或調整
+10.完成主管交辦事項
+
+1.  logic  product process yield improvement
+2.  WAT analysis and device performance analysis
+3. ESD and Latch Up verification
+4. product tape out flowPosition Overview: 
+● Primary responsibility is to regularly summarize CP/FT/overall yield trend, and analyze yield loss root cause for yield improvement. 
+● Working in close collaboration with foundry, testing, and HQ product engineers to identify yield issue solution and drive improvement progress.
+
+Responsibilities:
+1. CP/FT yield trend chart analysis, major yield loss parato analysis, wafer map analysis, p-charts analysis, WAT correlation analysis... to verify yield loss root cause.
+2. Clarify overall yield loss partition from silicon, color filter,or assembly process.Co-work with process teams to drive the solution on yield issue.
+3. Co-work with testing and HQ product engineers to fix testing induced yield loss and optimize test program setting/spec to prevent overkill.
+4. Maintain production WAT and CP/FT/Assembly yield data .
+5. Develop powerful and advanced yield analysis function/methodolody by EDA or other software tool.
+1.	ICP / RIE 乾蝕刻設備保養及維修管理
+2.	濕蝕刻設備保養及維修管理
+3.	刀輪及雷射切割設備保養及維修管理
+4.	Cost reduction
+5.	設備問題改善檢討並預防
+6.	跨部門合作設備改進增加效率及良率1.機台與設備的日常保養與維護
+2.機台與設備的故障排除
+3.維持產線的正常運轉
+4.設備換線調整、設備供應商溝通
+5.製程改善、規範增修
+6.工程製圖(solid works)
+- Drive suppliers to meet and exceed QCT bumping, WLP, FO/FX WLP quality requirements and ensure full compliance 
+- Work with suppliers to closely monitor and improve bumping, WLP and FO/FX WLP quality metrics 
+- Closely collaborate with AP Ops and US teams on WLP PRU and PCN soft-landing data review and drive for successful implementation 
+- Conduct Bumping ,WLP and FO/FX WLP audits and participate in regular suppliers/US team conference calls. Position will require frequent travel domestically & oversees 
+- Drive systematic improvements at suppliers through ongoing supplier visits and tracking implementation of key initiatives. 
+- Follow up problem investigations and validate corrective/preventive actions to reduce excursions and RMA/NC incidents 
+- Escalation of issues to AP Ops and US management and throughout cross functional teams as required.  1.生產線清洗零件
+2.清洗設備機台及檢驗精密儀器之操作。
+3.零件化學溶液清洗
+4.無塵室作業。需配合輪班與加班。
+5完成主管交辦有關生產產品、生產程序事宜。
+6.生產品質異常改善
+7.生產線人員教育訓練學歷不拘，有工程師相關經驗者佳
+會日文者佳，不會亦可
+需出差
+有經驗者或相關科系者及依日文程度薪水可另議再增加
+出差補貼出差費交通費及住宿，另有出差津貼
+目前上班地點多在南科科學園區
+半導體設備工程師
+1. 保養日常設備，維持設備正常運作。
+2. 負責組裝、拆解設備機器。
+3. 判斷設備異常的原因，並排除問題。
+4.主管交付業務
+1.	晶片切割(wafer saw, dicing)製程實務經驗一年以上
+2.	DISCO晶片切割機操作或設備維護經驗
+3.	提昇產品的良率及效能。
+4.	監控生產狀況。
+5.	改善潛在的失效問題，並提供相關預防措施方案。1. Process yield improvement
+2. DRAM WAT analysis and device performance analysis
+3. ESD and Latchup verification
+4. product  tape out flow職位描述
+1、 負責MOSFET/TVS/Schottky Diode的工藝改善及新產品開發；
+2、 負責工藝異常、產品異常分析及改善、品質客訴處理；
+3、 作業指導文件的制定或修訂；
+4、 新材料、新工藝的開發驗證；
+崗位要求：
+1、 半導體物理、材料或微電子相關專業；
+2、 三年以上半導體分立器件芯片工藝工程師經驗或兩年以上TVS芯片工藝工程師經驗；
+3、 具備英語聽說讀寫能力，熟練使用半導體專業英語；1. 封裝製程良率提升與生產異常處理。
+2. 負責製程專案計劃與新封裝開發。
+3. 負責新產品製程導入、生產管控，使能夠穩定生產且訂定相關標準。
+4. 封裝製程與材料的審查及改善，提升產品可靠度與降低成本。1. IC ESD規劃及電路設計。
+2. ESD故障分析。
+3. ESD客退分析。We are looking for a creative and independent Product Engineer in Hsinchu, Taiwan. 
+
+NVIDIA has continuously reinvented itself over two decades. Our invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing — with the GPU acting as the brains of computers, robots, and self-driving cars that can perceive and understand the world. Today, we are increasingly known as “the AI computing company.” We're looking to grow our company and build our teams with the smartest people in the world. Join us at the forefront of technological advancement.
+
+Make the choice to join us today. We need a creative individual who will help transfer GPU gamming and compute products from design engineering to mass production. You will be exposed to various aspects of building and testing NVIDIA products, from GPUs to assembled boards. In addition, your responsibilities will be to increase yields, test coverage and capacity, and reduce production costs. If you are passionate about building the highest quality server products that will change the world, then we really want to hear from you.
+ 
+What you’ll be doing:
+
+•As part of Operations Engineering team that plays a key role in developing new Tegra/Automotive products, you will architect, design, and implement efficient manufacturing test processes for our state of the art Tegra/Automotive chips.
+•You will identify and implement test processes to improve manufacturing efficiency for our latest GPU architectures, built in leading-edge process technology.
+•Analyze product yield limiters and drive resolution of failures on Automatic Test Equipment (ATE) while leading multi-functional efforts with design, foundry, quality, test to root-cause problems and implement improvements
+•You will define product test requirements and drive NPI bring up, validation, and characterization for smooth production ramp at worldwide manufacturing sites as you continuously find opportunities for potential process improvements and collaborate with multi-functional teams to implement.
+•Influence and optimize the accurate placement of test coverage across our test and supply chain to reduce cost and production waste.
+•Lead detailed data analysis methods to correlate customer failures with internal production data to help understand root cause, risk, and exposure.
+
+What we need to see:
+
+•Master's degree in Electrical Engineering or 2+ years of equivalent experiences
+•Strength presenting to technical audiences and generating content for developers.
+•Critical thinking, solution focused and attention to detail
+•Experience with ASIC mixed-signal design, characterization and qualification.
+•In-depth knowledge and hands-on experience in Advantest 93K ATE platform are essential
+•Knowledgeable in the area of DFT and device physics
+•Functional knowledge of transistor device physics & advanced CMOS manufacturing processes
+•We like people who are highly motivated, have excellent interpersonal skills, good work ethics and a high sense of team-work
+
+Ways to stand out from the crowd:
+
+•Experience with DRAM testing and familiarity with 2.5D assembly
+•Understanding of DFT insertion techniques including SCAN, ATPG, MBIST and IOBIST
+•Passionate about experimental work and data evaluation, hunger to get to the bottom of understanding where models fall short in the real world
+•We appreciate additional programming skills in Python or other scripting languages
+•Hands-on experience with ATE testers for Silicon bring-up and debug, as well as utilizing Failure Diagnosis/Isolation tools to root cause fix Silicon manufacturing defects.
+•Skilled at collaborating with teams across the globe
+
+
+工作項目：
+1. 負責 WiFi產品的yield maintain & improvement
+2. 負責新進製程的量產導入以及轉廠評估
+3. Co-work with Foundry for CP yield improvement
+4. Co-work with SD/TE for FT yield improvement
+5. 支援RMA案件的相關分析
+
+應徵條件：
+1. 須熟悉半導體元件物理
+2. 須熟悉相關CMOS製程參數, WAT analysis,process flow等
+3. 須熟悉量產相關技能.(tape out, Job view, Reliability calculation, OLT, yield analysis, RMA analysis)
+4. 有先進製程(28nm HKMG以下)量產經驗者尤佳
+5. 良好的人際關係以及跨部門溝通能力工作項目： 
+支援以下先進製程與特殊製程產品線量產工作 
+1. 65nm to 22nm CMOS technology. 
+2. FinFET technology. 
+3. BCD technology. 
+
+應徵條件： 
+1. 熟悉半導體元件物理. 
+2. 熟悉製程整合.(製程參數, process flow) 
+3. 熟悉量產業務.(tape out, Job view, WAT analysis, Reliability calculation, OLT, yield analysis, RMA)职责描述：
+1、负责SiC、GaN功率器件系统应用方案开发；
+2、负责适配于SiC、GaN器件的驱动电路设计；
+3、制定SiC、GaN功率器件应用参考方案；
+4、负责功率器件的应用测试与验证；
+5、配合市场部门进行功率器件产品推广。
+
+任职要求：
+1、具有良好的模拟和数字电路基础，逻辑思维清晰、周密，接受能力强，实验动手能力强；
+2、熟悉功率器件在电源领域的应用，熟悉逆变器、变频器领域优先；
+3、1年以上半导体产品市场应用经验，熟悉SiC、GaN器件与模块应用优先；
+4、本科及以上学历，有汽车行业功率电路研发和测试相关工作经验优先。
+1.制訂製造程序與產品標準。
+2.評估製程專案計劃，訂出最適化的製造流程。
+3.負責新產品製程的導入，並進行製程的檢測，以使新產品能夠穩定生產且符合相關標準。
+4.持續改善現有生產製程。1. 提出完整之測試數據與分析報告
+2. 測試機台程式安裝維護。
+3. CP機台日常保養，維持設備正常運作
+4. 判斷設備異常的原因，並排除問題。
+5. 量產測試程式的維護與測試效率最佳化
+6. On duty1.光電及半導體製程設備程式設計，客戶現場對應。
+2.主要勤務地為台南及新竹科學園區。需配合公司日本 、海外外駐出差。1.Arrange engineering activities for customer
+  a. arrange meeting between customer and fab, subcom
+  b. arrange customer visit and audit activities
+2.Improve the overall customer satisfaction index
+3.Engineering and production lot flow(part) arrangement
+4.Support customer to tape out new product and control the deliver
+5.Monitor yield improvement activities for customer１製程工作年資  5 年以上
+２調適機台製程參數,機台性能測試,實驗規劃和測試.
+３服務客戶,與客戶溝通,調試最佳製程.
+４半導體濕製程製程經驗及設備經驗者佳  
+ 5 機台規格溝通撰寫,實驗報告產出
+1.半導體晶圓至凸塊封裝段之自動化濕製程機台推展銷售。
+2.熟悉設備規格及技術說明。可配合當地業務   創造設備給予客戶之高端價值。
+3.開發潛在客戶，拓展市場，以達成業績目標。
+4.負責大陸半導體業務接洽，訂單處理及交貨，達到客戶滿意。
+5.負責產品報價及產品展示，並處理帳款回收相關事宜。
+6.負責業務推展，傳達及說明公司各項業務重大訊息、活動及產品。This position will be based in Taiwan (Hsinchu) and report to the Director of External Manufacturing Operation Engineering and Planning.
+
+The Regional Operation Manager will be responsible for the management and development of the regional external subcontractors to achieve the highest possible performance in the areas of quality, cost, delivery and technology. 
+This role will demand teamwork with internal Engineering teams, Quality team, Planning team and partnership with subcontractors to reduce overall cost of ownership including but not limited to the following:
+ 
+• Manage the supplier development process to safeguard requirements, planning, cost and compliance to process or product specifications. 
+• Drive manufacturing operational readiness in subcontractors by leveraging internal and external resources to support production ramp or sudden surge in customer demand. 
+• Proactively identify and eliminate process bottlenecks or production risks and drive value stream process to shorten process cycle time and reduction in WIP. 
+• Brainstorm improvement activities with the subcontractors to meet assembly or test yield targets. 
+• Promote value engineering activities in subcontractors to meet lowest possible cost of ownership. 
+• Assist in internal and external customer feedback reviews and help to implement products and process improvements to achieve customers' satisfaction.   
+
+Additional specific responsibilities will include, but not limited to, the following: 
+• Weekly and monthly reporting of key performance indicators
+• Quarterly or half yearly Operation review with key subcontractors to drive improvement activities to meet targets. 晶圓減薄晶圓拋光  加工生產幹部1. 晶片加工機制研究
+2. 晶片加工條件最佳化
+3. 缺陷分析與解決1.配向/光配向/RUB/ODF製程良率與設備稼動率提升
+2.製程改善
+3.專案執行1.半導體雷射晶圓 乾、溼蝕刻製程操作及優化 
+( develop/optimize dry and wet etching process for semiconductor laser ) 
+2. 高頻雷射二極體特性測試( 10/25G device characteristics and measurement)
+3. 工作90%以上時間須於無塵室環境作業。(> 90% working time in clean room )1.監控線上SPC Chart，並針對異常部分即時處理。2.製程異常分析，並維護產品品質。3.需要輪替值班，協助線上處理異常。
+『具工作經驗者，薪資另議』 主導大型智慧製造系統與標準化專案的推動與管理，及Benchmark同業，以建構並維持具競爭力的智慧製造系統。
+(1)針對智慧製造相關系統流程(Cross Functional)進行跨平台分析、整合與改善，使其符合合理化、制定標準化、建立系統化的流程。
+(2)評估及導入有關智慧製造之新資訊應用。
+(3)Benchmark同業智慧製造系統與自動化廠商與技術
+(4)上級交辦事項1、機台異常排除、追蹤、例行保養。
+2、製程穩定性監控與維護。
+3、製程異常排除與改善。
+4、工程相關問題回覆，封裝異常問題處理、設備異常失效分析與統計。
+5、產品異常失效分析與統計。
+6、執行部門交辦事項。
+5、執行具有原創性或高複雜性之產品電性分析工作，提供準確之產品電性資料、建立產品設計準則。
+(1)執行高複雜電性(SI/PI)分析，建立產品特性及設計準則。
+(2)建立與客戶溝通及電性深入技術諮詢管道。
+(3)吸收新知識、新技術，提昇產品研發電性分析能力。
+(4)規劃/指導工程師專業技能。
+(5)先進軟體/設備評估與驗證，提昇產品研發電性分析能力
+(6)其他上級交辦事項。【本職缺僅接受華邦官方網站投遞】
+請至華邦官方網站投遞個人履歷表，此職缺履歷登錄網
+https://bit.ly/3iCdfVj
+
+工作內容：
+1.Furnace 爐管機台 ( TEL / KE ) recipe setup and tuning
+2.擴散製程參數調整與機台SPC/FDC管理
+3.Hold lot 異常產品 處理
+4.製程品質維護及改善
+5.產能改善
+6.良率改善【本職缺僅接受華邦官方網站投遞】
+請至華邦官方網站投遞個人履歷表，此職缺履歷登錄網
+https://bit.ly/3gxovjC
+
+工作內容：
+1.IMP / RTP機台 recipe setup and tuning
+2.擴散製程參數調整與機台SPC/FDC管理
+3.Hold lot 異常產品 處理
+4.製程品質維護及改善
+5.產能改善
+6.良率改善【本職缺僅接受華邦官方網站投遞】
+請至華邦官方網站投遞個人履歷表，此職缺履歷登錄網址:bit.ly/2ZLMeax
+
+1.機台/製程SPC提昇
+2.良率提升
+3.機台生產狀況維護
+4.產品線異常狀況排除
+5.支援交接事項處理
+6.半導體工作經驗佳★請勿重複投遞★ 
+1.配合新產品及新製程開發計畫及實驗設計
+2.良率改善計畫建立及改善項目追蹤，評估最適化製程及維護製程穩定
+3.製程異常處理及追蹤並建立改善方案及建立標準製程異常處理流程1. 半導體蝕刻相關工程improvement及handling.
+2. 生產線上異常產品之處理.
+3. 新產品pilot run.
+4. 蝕刻新機台驗機及製程管理
+5. 蝕刻製程規範編撰建立
+6. 製程改善及良率提升
+7. 製程配方調整及最佳化
+8. 維護產品製程品質及穩定度
+『具工作經驗者，薪資另議』 1. 具備三五族epi and device knowledge
+2. 具備RF測試相關經驗
+3. 抗壓性強 配合度高
+4. 細心負責 穩定性高負責執行專案計畫驗證資料收集，並以製程分析統計之相關手法，產出驗證資料。
+1.工程批首設檔執行 : 
+a.製程、機台參數及品質確認 
+b.工程批製程資料收集 (ex: profile , X-Ray ,SAT…etc)
+2.執行製程異常材料處置、現象解析、資料分析及改善措施。
+3.專案 : Quality Cost Delivery Safety1、Set Up異常排除。
+2、異常分析改善與追蹤。
+3、其他主管交辦事項。1、配合產線運作，進行有效率的借機Set Up / 異常排除。
+2、負責焊接配件作業。
+3、系過系統上的資訊，即時性的配合出貨需求。
+4、利用流程上的資訊，即時性的分析產品。
+5、其他交辦事項。1.協同客戶進行先進製程開發與支援。
+2.新裝置製程導入及新技術開發。
+3.維持現有POR(Process Of Record)優勢及擴大市佔率。
+4.理解客戶製程issue需求的本質，進行構思、 實驗、評價及分析等，提供解決方案。1.從事專業性基礎研究與製程Design rule制訂，使其Roadmap meet 客戶需求。
+2.執行制訂/ Review 產品與製程Design rule。
+3.規劃基礎研究專案、風險評估、投資計畫與執行計畫。
+4.依據製程專業知識與經驗，提供製程改善建議。1. 新產品導入並進行製程條件的檢測
+2. 製程效率提升與改善
+3. 產品品質控管與提升歡迎109年應屆畢業碩士(未役)投遞履歷
+
+1.產品新製程轉移
+2.生產線異常產品處理 
+3.Product trend chart maintain (SPC) 
+4.製程改善 
+5.產品良率提升
+6.需輪班■ Key Responsibilities :
+1. Design, collect data, analyze and compile reports on a variety of difficult process engineering experiments, within safety guidelines
+2. Perform hardware characterization on a variety of difficult systems, within safety guidelines
+3. Troubleshoot a variety of complex problems, perform Root Cause Analysis and resolve a variety of difficult process engineering issues
+4. Generate internal and external documentation for products, presentations and technical reports
+5. Interact with customers to resolve a variety of difficult process engineering issues/problems with limited supervision
+6. Measure film properties and interpret data
+7. Identify, select and work with vendors and suppliers with limited supervision
+8. Implement new technology, products and analytical instrumentation
+9. Execute cross-function projects (as TPS and new biz support for EPG)
+10. R&D objects in Tainan Display Lab (TDL)Functional 
+Knowledge :
+- Demonstrates conceptual and practical expertise in own discipline and basic knowledge of related disciplines in display industry Business Expertise :
+- Has knowledge of best practices and how own area integrates with others; is aware of the competition and the factors that differentiate them in the market Leadership :
+- Acts as a resource for colleagues with less experience; may lead small projects with manageable risks and resource requirements Problem Solving :
+- Solves complex problems; takes a new perspective on existing solutions; exercises judgment based on the analysis of multiple sources of information Impact :
+- Impacts a range of customer, operational, project or service activities within own team and other related teams; works within broad guidelines and policies Interpersonal Skills
+- Explains difficult or sensitive information; works to build consensus1、製程能力提升及製程良率改善
+2、制訂及改善製造程序
+3、不良品分析及改善1、PCB Layout協助製作專用電路版。
+2、產線測試轉板及相關測式配件維修。
+3、Probe Card & Load Board線路設計與製作。
+4、支援產品測試問題分析與排除異常。
+5、生產良率與設備妥善率提升與改善。1. 製程良率改善及提升
+2. 生產流程管理
+3. 專案推動、改善及執行
+4. 具PCB、封測廠、藥水商相關工作經驗2年以上者佳
+
+◆ 因應新冠肺炎疫情，懇請求職者到場面試能配戴口罩，做好防疫措施，謝謝您的配合！
+1. 外包商管理(封裝廠&測試廠)
+2. 熟半導體封裝測試製程知識&封裝製程管制&技術能力評估
+3. 量產品的管理，Low yield及良率改進。 
+4. 工作態度主動積極、溝通協調能力佳與負責任。
+5..其他主管交辦工作 
+1、Set Up異常排除。
+2、異常分析改善與追蹤。
+3、其他主管交辦事項。測試系統設計與測試技術開發及系統整合驗證，並協助產線測試系統順利導入量產，以期提高良率與產出率。
+1.客戶需求及資訊澄清。
+2.制訂部門開發策略，完成測試系統設計開發目標。
+3.分析測試資料及改善測試流程，縮短測試時間 提高產出。
+4.規劃制定測試系統及驗證開發平台，符合模組電測需求。
+5.執行測試系統軟硬體整合順利導入NPI。
+6.發展新測試技術，以建立準確之測試開發流程及準則。
+7.彙整分析研發過程中問題，並給予工程人員或客戶建議。
+8.定期搜集、分析測試數據指標，做為測試程式優化的參考。
+6.發展新測試技術，以建立準確之測試開發流程及準則。負責執行專案計畫驗證資料收集，並以製程分析統計之相關手法，產出驗證資料
+1.工程批首設檔執行 : 
+a.製程、機台參數及品質確認 
+b.工程批製程資料收集 (ex: profile , X-Ray ,SAT…etc)
+2.執行製程異常材料處置、現象解析、資料分析及改善措施
+3.專案 : Quality Cost Delivery Safety
+*實際薪資依學歷、科系、相關工作經歷、專業證照、特殊專長與語言能力等條件綜合核敘1.良率統計分析與分析報表開發。
+2.異常品缺陷分析及追蹤改善。
+3.相關良率資料彙整分析與判定。
+4.客訴案件解析及判定進度追蹤。
+5.配合新進機台試機、驗機。1. 半導體蝕刻相關工程improvement及handling.
+2. 生產線上異常產品之處理.
+3. 新產品pilot run.
+4. 蝕刻新機台驗機及製程管理
+5. 蝕刻製程規範編撰建立
+6. 製程改善及良率提升
+7. 製程配方調整及最佳化
+8. 維護產品製程品質及穩定度
+『具工作經驗者，薪資另議』 1. 具備三五族epi and device knowledge
+2. 具備RF測試相關經驗
+3. 抗壓性強 配合度高
+4. 細心負責 穩定性高1.     Logic circuit Diagnosis & Memory FA 相關經驗.
+2.	RMA客訴不良品分析、生產品不良分析.
+3.	ESD相關測試安排 & FA 分析
+4.	FA分析Report 撰寫.
+5.	供應商管理.
+
+其它條件： 
+1. 具EFA & PFA 能力, 建議5年以上FA經驗，或5年以上CQE經驗； 
+2. 需具備半導體或封裝製程相關知識.
+3. 個性：積極負責、溝通能力好.
+4.  IC design house RMA工作經驗尤佳.1、配合公司生產線的運作，進行有效率的異常排除。
+2、機台設備MOVE IN/OUT架設及拆除工作。
+3、維護機台表單及ISO文件作業指導書。
+4、其它交辦事項。
+負責執行專案計畫驗證資料收集，並以製程分析統計之相關手法，產出驗證資料。
+1.工程批首設檔執行 : 
+a.製程、機台參數及品質確認 
+b.工程批製程資料收集 (ex: profile , X-Ray ,SAT…etc)
+2.執行製程異常材料處置、現象解析、資料分析及改善措施。
+3.專案 : Quality Cost Delivery Safety1.SMT製程流程改善及良率提升
+2.提升產品製程能力
+3.製程相關專案執行【本職缺僅接受台積電官方網站投遞】
+請至台積電官方網站投遞個人履歷表，此職缺履歷登錄網址:https://tinyurl.com/y5x3gjth
+
+【Description】
+1. To be responsible for helping to drive leading edge process/device development and optimization of Flash/CMOS/RF devices in order to meet scaling, performance, reliability, and manufacturability requirements.
+2. Identify and solve IC process and device problems.
+ 
+【Qualifications】
+1. Minimum Master degrees in Electrical Engineering, Physics, Materials science, Chemistry or Chemical Engineering. 
+2. Over 1 year experience in process integration is preferred. 
+3. Exhibit good and open communication skills, be able to work within cross-functional teams. 
+4. Fluent in English.1、For WLCSP & COG product。
+2、機況異常排除。
+3、異常報告 ,工程品管理。
+4、其它主管交辦事項。1.  Pre-Production and developing Sensor Performance characterization 
+( Dark current , PRNU , Noise , Power , Image quality , High/low temperature )。
+2. 車規產品高低溫 Sensor Performance characterization & Qualification  
+3. 支援產品工程 1. Bumping process maintenance.
+2. Process troubleshooting.
+3. SPC system control.
+4. Document establishment.
+5. In-line project development (process optimization, capacity improvement,cost down...etc). 
+6. Yield improvment.1.建立晶片測試相關平台COG/FOG/COF Bonding
+2.測試平台相關測試參數分析 & 調整能力，並可排除相關問題
+3.手動清潔與拆解樣品,操作時需接觸(帶防護手套)清潔化學藥劑(丙酮)/ACF 去除液
+4.手動貼附IC與FPC的ACF
+5.COG/FOG 機台操作，無經驗可
+6.測試內部產品驗證及分析
+7.撰寫應用文件及相關驗證報告 Sales Executive.Sales Engineer
+TFT glass / TN  glass /  TP glass / STN  glass /Quartz glass銷售工程師  銷售主管 Sales Executive.Sales Engineer
+TFT glass / TN  glass /  TP glass / STN  glass /Quartz glass
+TFT 液晶玻璃 / TN 玻璃/  TP 玻璃 / STN  玻璃 /石英玻璃  / 藍寶石  銷售主管 銷售工程師 Product manager Sales Executive.Sales Engineer
+TFT glass / TN  glass /  TP glass / STN  glass /Quartz glass任職要求：
+1、大學以上學歷，理工科類專業
+2、會使用office辦公軟件
+
+主要職責：
+1、新產品導入及APQP管理
+New Product Phase-in and APQP management
+2、Molding 制程新材料及新機台評估導入
+Molding new material/machine phase in &evaluation
+3、Molding 制程優化/成本優化/效率提升
+Molding process improvement/cost down/OEE UPH improvement
+4、客户品質/工程評估样品線上處理
+Qual / Eng Lot inline handle
+5、客户抱怨處理及技術支持
+customer complaint handing and provide technical support and solutions for customer
+6、生產線技術支持
+Provide technical support for production line
+7、數據分析及處理
+Data analysis&handle
+8、其他問题處理及協助相關部門處理問題
+issue handle and support other relevant departments
+
+重要績效指標：
+1、Key project 完成進度管理
+2、BKM/自主學習/自我管理完成
+3、日常工作指項项目完成状况1. 掌控產品良率及精度。
+2. 監控產品規格。
+3. 控制製作方法（recipe），並計算產品補值。
+4. 提出潛在的精度問題，並提供相關預防措施方案。
+5. 規劃產品製造流程並提出改善的方案（如：縮短生產線製造過程的時間、降低製造成本等）。
+6. 提出重大產品良率問題的處理方式與報告說明。
+7. 製作、管理半導體材料與元件產品。
+8. 提供技術性建議及相關諮詢。1.Yield and testing performance monitor
+2.Hold lot follow & disposition.
+3.Trouble-shooting.【本職缺僅接受華邦官方網站投遞】
+請至華邦官方網站投遞個人履歷表，此職缺履歷登錄網
+https://bit.ly/3edCGZz
+
+1.處理異常產品與管理產品品質
+2.新產品及機台驗證導入生產線
+3.開發蝕刻製程程式
+4.三班制輪值1、Set Up異常排除。
+2、異常分析改善與追蹤。
+3、其他主管交辦事項。負責執行專案計畫驗證資料收集，並以製程分析統計之相關手法，產出驗證資料
+1.工程批首設檔執行 : 
+a.製程、機台參數及品質確認 
+b.工程批製程資料收集 (ex: profile , X-Ray ,SAT…etc)
+2.執行製程異常材料處置、現象解析、資料分析及改善措施
+3.專案 : Quality Cost Delivery Safety
+*實際薪資依學歷、科系、相關工作經歷、專業證照、特殊專長與語言能力等條件綜合核敘1.負責晶圓凸塊異常分析及改善，以提升產品之良率
+2.晶圓凸塊機台程式維護與改善，以降低生產成本，提升產品品質
+3.負責晶圓凸塊製程改進及配合新製程開發，以達公司發展之目標
+4.定期教育訓練人員(值班PE、產線)，以降低產品異常失誤 
+5.機台標準操作維護，以降低產品異常失誤 
+6.其他及臨時交辦事項測試系統設計與測試技術開發及系統整合驗證，並協助產線測試系統順利導入量產，以期提高良率與產出率。
+1.客戶需求及資訊澄清。
+2.制訂部門開發策略，完成測試系統設計開發目標。
+3.分析測試資料及改善測試流程，縮短測試時間 提高產出。
+4.規劃制定測試系統及驗證開發平台，符合模組電測需求。
+5.執行測試系統軟硬體整合順利導入NPI。
+6.發展新測試技術，以建立準確之測試開發流程及準則。
+7.彙整分析研發過程中問題，並給予工程人員或客戶建議。
+8.定期搜集、分析測試數據指標，做為測試程式優化的參考。
+6.發展新測試技術，以建立準確之測試開發流程及準則。■Key Responsibilities
+1.Provides highly visible customer support through the performance of on-site installation, as well as overseeing any necessary diagnoses, troubleshooting, service, and repair of complex equipment and systems. 
+2.When necessary, works closely with customer to optimize tool performance to meet customer process and integration requirements. 
+3.Checks and approves operational quality of system equipment. Instructs customers in the operation and maintenance of the system.
+4.Knowledge of 2 or more processes on 1 or more technologies■ Key Responsibilities
+1. Responsible for development and assurance of marketable technologies in the area of Display PVD
+2. Design, collect data, analyze and compile reports on moderately difficult process engineering experiments, within safety guidelines
+3. Perform hardware characterization on moderately difficult systems, within safety guidelines
+4. Troubleshoot moderately complex problems, perform Root Cause Analysis and resolve moderately difficult process engineering issues
+5. Measure film properties, organize data/reports for review and interpret data
+6. Generate internal documentation for products, presentations and technical reports
+7. Interact with customers to resolve moderately difficult process engineering issues/problems under general supervision
+8. Identify, select and work with vendors and suppliers under general supervision
+9. Implement new technology, products and analytical instrumentation
+10. Preparation of lectures, papers and patent applications1. 生產線上異常產品之處理2. 協助工程實驗排run3. Handle生產線異常機台status4. 生產線異常機台復機lot handling5. 擴散新機台驗機及製程管理6. 擴散製程規範編撰建立7. 製程改善及良率提升8. 製程配方調整及最佳化9. 維護產品製程品質及穩定度
+『具工作經驗者，薪資另議』 1.產品新製程轉移
+2.生產線異常產品處理 
+3.Product trend chart maintain (SPC) 
+4.製程改善 
+5.產品良率提升
+6.需輪班1. 光電半導體磊晶片技術研究開發
+2. 太陽能電池製程技術及光電量測技術開發
+
+華亞廠:桃園市龜山區華亞科技園區華亞二路358號
+龜山廠:桃園市龜山區建國東路38號1、產品製程相關規格定義
+2、客戶報告及對應
+3、新產品製程導入Account coordinator
+To perform tooling operation, in order to smoothly port in customer design db, 
+and achieve the goal of first time pilot success.
+Project coordination. Customer interfacing, and cross department coordination. 
+To achieve seamless communication.
+To manage conf. call meetings and customer visits with professional skill, in 
+order to enhance project success and customer confidence level.
+To perform project management by documenting report, summary, meeting minutes, 
+and allow management team to capture the project status easily.
+To maintain customer relation through active interaction, in order to achieve 
+customer satisfaction and information gathering.1.產品製程改善
+2.線上機台/製程/生產維護
+3.配合需求輪班(含假日值班/小夜班/夜班)
+4.新製程導入及改善1.參與先進 3D NAND 製程開發
+2.專注於薄膜製程與 CMP 製程, 使用世界最先進的機台與製程技術開發下一世代 3D 記憶體1.非揮發性記憶體製程之良率改善與成本降低. 
+2.衍生製程之開發與量產.
+3.新產品試產、產品特性及光罩驗證，必要時調整製程參數，以改善產品表現。
+4.良率異常產品之電性、物性及缺陷分析1.改善擴散製程技術、維持並提昇良率。
+2.FAB產品品質異常之處理及解決。
+3.執行良率改善、生產力提昇及降低生產成本。1.依據無塵室規範進行晶圓製造。2.Hold reduction and S/H lot push and C/T reduction.3.機台效率/產能管理/派工系統。4.維持安全的工作區域。5.人員教育訓練/紀律管理。6.Execute TECN/PDCA/OCAP system.7.支援新產品RD之需求。
+『具工作經驗者，薪資另議』測試系統設計與測試技術開發及系統整合驗證，並協助產線測試系統順利導入量產，以期提高良率與產出率。
+1.客戶需求及資訊澄清。
+2.制訂部門開發策略，完成測試系統設計開發目標。
+3.分析測試資料及改善測試流程，縮短測試時間 提高產出。
+4.規劃制定測試系統及驗證開發平台，符合模組電測需求。
+5.執行測試系統軟硬體整合順利導入NPI。
+6.發展新測試技術，以建立準確之測試開發流程及準則。
+7.彙整分析研發過程中問題，並給予工程人員或客戶建議。
+8.定期搜集、分析測試數據指標，做為測試程式優化的參考。
+6.發展新測試技術，以建立準確之測試開發流程及準則。品質改善/ 製程開發1. 負責(掌控)產品黃光製程之良率及精度。
+2. 參數(recipe）制定與管理，符合產品規格。
+3. 撰寫文件制定SOP。
+4. 製程異常問題分析並提出改善的方案。
+5. 協助新產品微影製程之開發。■Key Responsibilities
+1.Provides highly visible customer support through the performance of on-site installation, as well as overseeing any necessary diagnoses, troubleshooting, service, and repair of complex equipment and systems. 
+2.When necessary, works closely with customer to optimize tool performance to meet customer process and integration requirements. 
+3.Checks and approves operational quality of system equipment. Instructs customers in the operation and maintenance of the system.
+4.Knowledge of 2 or more processes on 1 or more technologies1. 整流二椷體產品新製程開發。配合客戶/新產品需求，整合開發新製程以滿足產品需求。
+2. 開發ULLD製程以滿足產品品質/良率改善及降低生產成本。1.Optical coating 製程開發
+2.新製程導入
+3.專案開發★請勿重複投遞★
+1.磊晶生產相關異常排除
+2.產品品質管制
+3.機台維護支援
+4.無塵室作業管理
+(四班二輪)1.負責產品技術支援推廣及資料蒐集整合
+2.協助將客戶規格設計導入新產品開發上
+3.協助解決客戶端應用問題
+I. Semiconductor Device Process Design. / 半導體元件製程設計 
+II. Process of Lithography, Metallization, Etching and Thin Film Coating / 黃光製程, 金屬電極製程, 蝕刻製程, 薄膜製程
+制程工程處 處長Manufacture Process Engineering Director
+福利：提供住宿、上下班班車、13薪、年度體檢、年度旅遊、
+月度、季度、年度獎金紅利（依每月公司營利狀況發放）
+直接管理人數：經理4人 、工程師50人
+上班地點：上海市浦東新區郭守敬路669號
+資格條件 Job Requirement：
+1.15年以上封裝測試制程工作經驗。 
+2.本科以上電子、半導體、物理工程等相關專業。
+3.豐富的半導體封裝測試生產、技術、品管管理經驗。
+4.熟悉半導體封裝測試各工序生產技術流程及品質管理。
+5.瞭解原材料、設備的供應管道。 
+6.具有出色的英文能力。
+
+Job Description:
+1.組織制定工藝技術工作近期和長遠發展規劃，並制定技術組織措施方案。
+2.根據工藝需要，設計工藝裝備並負責工藝工裝的驗證和改進工作；
+3.深入生產現場，掌握品質情況；指導、督促車間一線生產及時解決生產中出現的技術問題，完善工藝技術服務工作。
+4.負責新產品圖紙的會簽和新產品批量試製的工藝工裝設計，完善試製報告和有關工藝資料，參與新產品鑒定工作。
+5.承擔工藝技術管理制度的起草和修訂工作，組織相關人員完善工藝管理，監督執行工藝紀律。
+6.組織領導新工藝、新技術的試驗研究工作，完善工藝試驗課題的總結與成果鑒定，
+7.協助人力資源部完善對職工的技術教育及培訓。
+8.積極開展技術攻關和技術改進工作，對技術改進方案與措施，負責簽署意見，不斷提高工藝技術水準。
+9.負責本部門方針目標的展開和檢查、診斷、落實工作。
+10.按規定審批程式，對工藝檔、工裝圖紙有更改權，對制訂的工藝檔有解釋權，對不符合圖紙要求的工藝作業有糾正權。
+11.對在計畫規定期限內未完成工藝準備工作，而影響新產品試製進度和生產任務完成負責。
+12.對解決生產中發生的工藝技術問題不及時，影響生產負責。
+13.對審查簽署的工藝技術檔、產品技術條件、工藝標準、工藝規程等工藝資料的正確性、合理性、完整性負責。
+14.對原材料工藝消耗定額存在計算方法或數值錯誤，造成浪費或損失現象負責。
+15.對由於工藝設計不合理，造成不良影響負責。1.新產品導入追蹤
+2.協調異常處理及進度確認
+3.客戶服務及關係維持
+4.規劃製程提昇產能效益專案1.製造專案之規劃及執行。
+2.批次紀錄、SOP及確效文件之撰寫。 
+3.排程之順暢度提升 。
+4.作業線上之技術支援、產線效率改善建議及專案改善等。
+5.填寫每日工作日報、每週工作週報。
+6.主管交辦事宜。★請勿重複投遞★
+1.MOCVD磊晶成品開發及量產
+2.產品品質管制
+3.機台維護支援
+4.無塵室作業管理1.協調內部資源,處理一般的客訴問題，以提昇客戶滿意度並維持與原廠良好互動。
+2.蒐集客戶情報及部門產品營運所需資訊，以提供機台改善及部門內部業務銷售參考。
+3.撰寫技術報告及技術文件，以確保後續機台維護與知識傳承。
+4.充分瞭解產品設計概念與細部設計規格,能作問題解析與故障排除。 
+5.具備製造常見問題及排除法整理的能力。 
+6.具備技術報告撰寫與發表能力。1.AlGaN/GaN製程開發/In-line process control/良率提升
+2.整合各module建立process flow，以符合客戶產品需求
+3.WAT電性參數分析，keep process stable
+4.Customized/New process development,滿足客戶需求
+
+★有工作經驗者加計專業年資1. WAT/SPC 資料監控與製程異常分析
+2. 協助稽核相關事項(WAT/SPC)
+3. 數據統計與分析
+4. 其他專案或交辦事項導入新治具、新產品、新材料及製程改善計劃之執行，彙整新材料、產品結構模擬分析報告及量產相關文件，以使新產品、新製程或新材料能加速投入生產線量產。
+(1)	專案項目預算匯整與執行項目展開
+(2)  	彙整客戶產品SOW與完成 PKG TRA,產品結構分析
+(3)	新治具需求與設計, 設計產品開發DOE
+(4)	訂定產品SPEC/SOP, 彙整PFMEA/CP
+(5)	執行與完成Tech qual及提出技術移轉計畫1.負責產品技術支援推廣及資料蒐集整合
+2.協助將客戶規格設計導入新產品開發上
+3.協助解決客戶端應用問題
+★請勿重複投遞★ 
+1.凸塊生產線建立及凸塊製程導入量產
+2.落實公司品質政策, 完成部門目標及專案推行
+3.維護凸塊產品良率及提升設備稼動率
+4.與各部門溝通協調之工作，產出最利於公司之對策
+5.新晶圓級封裝製程開發及導入旭丞光電為專業之雷射精密加工設備商(非代理商)，我們需要對雷射精密加工技術開發有興趣的您加入我們的研發團隊，請與我們連絡以了解更詳細的工作內容。1. 生產線上異常產品之處理2. 協助工程實驗排run3. Handle生產線異常機台status4. 生產線異常機台復機lot handling5. 薄膜新機台驗機及製程管理6. 薄膜製程規範編撰建立7. 製程改善及良率提升8. 製程配方調整及最佳化9. 維護產品製程品質及穩定度
+『具工作經驗者，薪資另議』 I. Semiconductor Device Process Design. / 半導體元件製程設計 
+II. Process of Lithography, Metallization, Etching and Thin Film Coating / 黃光製程, 金屬電極製程, 蝕刻製程, 薄膜製程
+1.Optical coating 製程開發
+2.新製程導入
+3.專案開發製程或元件開發1. 跨製程問題整合及改善
+2. 生產流程最佳化 / 製程能力提升
+3. 客戶專案推動及執行 / 新產品開發
+4. 熟統計學基本知識 /工具
+5. 定期與客戶會議 
+6. 多益成績需達650以上
+
+1.multi process integration and yield improvement.
+2.Process flow optimization and capability improvement . 
+3.Good skill with communication of engineer issue with others department.
+4.Well knowledge with statistics software.
+5.Regular report preparation and meeting with customer. 
+6.Fluency in English language ( TOEIC : 650 above)
+
+◆ 因應新冠肺炎疫情，懇請求職者到場面試能配戴口罩，做好防疫措施，謝謝您的配合！
+1.維持製程穩定
+2.產品異常處理1.製程生產參數標準化制定
+2.新設備評估導入
+3.新製程開發、製程能力提升
+4.新資材、部品評價開發
+5.新規品目試作良率提升
+6.JIQ品質異常排除改善
+7.客訴分析改善
+8.設計要領準則建立
+9.專案改善執行
+  (品質/成本/效率)【本職缺僅接受華邦官方網站投遞】
+請至華邦官方網站投遞個人履歷表，此職缺履歷登錄網
+http://bit.ly/2SWUpgL
+
+工作內容：
+
+1.處理異常產品與管理產品品質
+2.新產品及機台驗證導入生產線
+3.開發蝕刻製程程式
+4.三班制輪值1. 製程值班 & 線上異常 處理
+2. 驗機/New Process setup
+3. 製程能力提升 & 條件改善1. 制定Wafer CP Test Plan, 執行Wafer CP測試，問題解決及規範制訂。
+2. 協助處理生產製程異常事項、瞭解問題、追查原因、分析重點。
+3. 協助處理客問題、協助研究客戶抱怨或退貨原因。1.mini-LED中Cu製程相關技術
+2.X-ray sensor 中Cu製程相關技術、 LTPS, Oxide TFT技術從事專業性之新產品專案及新機種正確快速導入規劃與執行，並確保QUAL LOT成功
+1.執行與協調NPI/NP導入活動
+2.規劃Qual plan, 監控Qual lot執行/成果
+
+*實際薪資依學歷、科系、相關工作經歷、專業證照、特殊專長與語言能力等條件綜合核敘1.Responsible for Structure design and DM evaluation in new device of Wombat
+2.Familiar with Package design or Assembly process 
+3.Familiar with Auto CAD, mechanical drawings, and packaging material characteristics are plus.
+
+＊實際薪資依學歷、科系、相關工作經驗、專業證照、特殊專長與語言能力綜合核敘。
+＊資深人員薪資另議。	1.學歷: 理工研究所, 優先:物理,化工,化學,材料。
+2.工作經歷:1~3years 半導體module。
+3.需配合輪值假日班。 Sales Executive.Sales Engineer
+TFT glass / TN  glass /  TP glass / STN  glass /Quartz glass銷售工程師  銷售主管 Sales Executive.Sales Engineer
+TFT glass / TN  glass /  TP glass / STN  glass /Quartz glass
+TFT 液晶玻璃 / TN 玻璃/  TP 玻璃 / STN  玻璃 /石英玻璃  / 藍寶石  銷售主管 銷售工程師 Product manager Sales Executive.Sales Engineer
+TFT glass / TN  glass /  TP glass / STN  glass /Quartz glass1.LCM模組廠製程良率與設備稼動率提升
+2.專案執行
+3.客訴問題對應
+4.稽核對應【本職缺僅接受台積電官方網站投遞】
+請至台積電官方網站投遞個人履歷表，此職缺履歷登錄網址:https://tinyurl.com/y5je4jee
+
+【Description】
+1. To be responsible for helping to drive leading edge process/device development and optimization of Flash/CMOS/RF devices in order to meet scaling, performance, reliability, and manufacturability requirements.
+2. Identify and solve IC process and device problems.
+
+【Qualifications】
+1. Minimum Master degrees in Electrical Engineering, Physics, Materials science, Chemistry or Chemical Engineering.
+2. Over 1 year experience in process integration is preferred.
+3. Exhibit good and open communication skills, be able to work within cross-functional teams.
+4. Fluent in English.【本職缺僅接受台積電官方網站投遞】
+請至台積電官方網站投遞個人履歷表，此職缺履歷登錄網址:https://tinyurl.com/y3pfutkv
+
+【Description】
+1. Advanced module process development and baseline sustaining.
+2. Process stability/manufacturability improvement for yield and reliability qualification.
+3. Working with a team which may include device, integration, yield, module, manufacturing and external suppliers to drive leading-edge integrated module development, control and improvements.
+ 
+【Qualifications】
+1. Minimum Master degrees in Materials Science, Electrical Engineering, Chemical Engineering, Mechanical Engineering, Physics, Chemistry or a related engineer discipline.
+2. Exhibit good and open communication skills, be able to work within cross-functional teams, including internal and external partners.
+3. Fluent in English.
+4. Strong knowledge of Statistical Process Control (SPC) and/or Design of Experiments (DOE) principles.
+5. Strong technical problem-solving and analytical skills, based upon fundamental, rather than empirical models is required.
+6. Hands-on participation and a strong sense of ownership.
+7. Willingness to make frequent fab presence.【本職缺僅接受台積電官方網站投遞】
+請至台積電官方網站投遞個人履歷表，此職缺履歷登錄網址:https://tinyurl.com/y5x3gjth
+
+【Description】
+1. To be responsible for helping to drive leading edge process/device development and optimization of Flash/CMOS/RF devices in order to meet scaling, performance, reliability, and manufacturability requirements.
+2. Identify and solve IC process and device problems.
+ 
+【Qualifications】
+1. Minimum Master degrees in Electrical Engineering, Physics, Materials science, Chemistry or Chemical Engineering. 
+2. Over 1 year experience in process integration is preferred. 
+3. Exhibit good and open communication skills, be able to work within cross-functional teams. 
+4. Fluent in English.1.Yield and testing performance monitor
+2.Hold lot follow & disposition.
+3.Trouble-shooting.Responsibilities：
+1. Automatic evaluation of optical module manufacturing process;
+2. Plan design of automation equipment, prepare working schematic diagram and workflow of equipment;
+3. Communicated with outsourcing manufacturers to complete the type selection, processing and equipment installation and debugging of equipment parts;
+4. Follow up the use of equipment and put forward Suggestions for improvement in time.
+Requirements：
+1. College degree or above, major in mechanical design and automation;
+2. Proficient in the use of Solidwork, CAD and other drawing software, with experience in non-standard automation development
+3. Capable of independently completing equipment design and development;
+4. Good communication skills in English, familiar with Chinese or Vietnamese.
+工作職責：
+1.光模塊製程自動化評估；
+2.自動化設備的方案設計，編寫設備的工作原理圖和工作流程；
+3.與外協廠商溝通完成設備零部件的選型、加工及設備安裝調試；
+4.跟進設備使用狀況，及時提出改善建議。
+崗位要求：
+1. 大專以上學歷，機械設計及自動化相關專業；
+2.精通Solidwork、CAD等繪圖軟件的使用，具有非標自動化開發經驗;
+3. 能獨立完成設備設計開發；
+4.良好的英文溝通能力，熟悉中文或越南語。1. 外包商管理(封裝廠&測試廠)
+2. 熟半導體封裝測試製程知識&封裝製程管制&技術能力評估
+3. 量產品的管理，Low yield及良率改進。 
+4. 工作態度主動積極、溝通協調能力佳與負責任。
+5..其他主管交辦工作 
+1. 跨製程問題整合及改善
+2. 生產流程最佳化 / 製程能力提升
+3. 客戶專案推動及執行 / 新產品開發
+4. 熟統計學基本知識 /工具
+5. 定期與客戶會議 
+6. 多益成績需達650以上
+
+1.multi process integration and yield improvement.
+2.Process flow optimization and capability improvement . 
+3.Good skill with communication of engineer issue with others department.
+4.Well knowledge with statistics software.
+5.Regular report preparation and meeting with customer. 
+6.Fluency in English language ( TOEIC : 650 above)
+
+◆ 因應新冠肺炎疫情，懇請求職者到場面試能配戴口罩，做好防疫措施，謝謝您的配合！
+1.維持製程穩定
+2.產品異常處理1. 產品新製程轉移
+2. 生產線異常產品處理 
+3. Product trend chart maintain (SPC) 
+4. 製程改善 
+5. 產品良率提升
+6. 需輪班★請勿重複投遞★
+1.MOCVD磊晶成品開發及量產
+2.產品品質管制
+3.機台維護支援
+4.無塵室作業管理1.黃光製程開發研究、參數改善、日常機台、SPC、Recipe maintain。
+2.新產品研發與導入，兼顧品質、良率、成本、樣品、量產達成之任務。
+3.製程異常專案改善。
+
+*需配合輪值小夜班/假日值班1. 晶片加工機制研究
+2. 晶片加工條件最佳化
+3. 缺陷分析與解決1.監控線上SPC Chart，並針對異常部分即時處理。2.製程異常分析，並維護產品品質。3.需要輪替值班，協助線上處理異常。
+『具工作經驗者，薪資另議』 1.AOI及晶粒挑揀機台的操作學習。
+2.產品異常及生產線異常分析處理。
+3.工程委託相關事務的安排與執行。支援機台作業, 資料收集整理
+1. Project support: Follow POA, optimize recipe
+2. Data collection and analysis.
+3. Sustaining support: Trouble shooting for production.
+4. New tool installation: Perform new tool acceptance and tier2 qualification.
+5. work hour: 大夜班23:00-8:001.工程批及品質管控/規格定義/報表產出
+2.異常問題層別分析/
+3.即時異常處理
+4.異常處理報告/查詢/追蹤 從事專業性之新產品專案及新機種正確快速導入規劃與執行，並確保QUAL LOT成功
+1.執行與協調NPI/NP導入活動
+2.規劃Qual plan, 監控Qual lot執行/成果
+
+*實際薪資依學歷、科系、相關工作經歷、專業證照、特殊專長與語言能力等條件綜合核敘【本職缺僅接受台積電官方網站投遞】
+請至台積電官方網站投遞個人履歷表，此職缺履歷登錄網址:https://tinyurl.com/sssptgs
+
+【Description】
+1. A highly motivated individuals with a strong technical background and capabilities to develop and sustain process technologies for flash memory and logic products.
+2. Working with a team which may include device, integration, yield, lithography, etch and thin films or external suppliers to drive leading-edge integrated module development, control and improvements.
+3. Be responsible for sustaining ownership such as day-to-day operations, equipment troubleshooting and mentoring technicians.
+
+【Qualifications】
+1. Minimum Master degrees in an engineering and scientific field such as Materials Science, Engineering, Electrical Engineering, Chemical Engineering, Mechanical Engineering, Physics, Chemistry or Optics.
+2. Solid technical understanding of IC processing equipment, integrated flow, chemistry and physics
+3. Exhibit good and open communication skills, be able to work within cross-functional teams, including internal and external partners.
+4. Fluent in English.
+5. Strong knowledge of Statistical Process Control (SPC) and/or Design of Experiments (DOE) principles
+6. Flexibility in changing priorities and responsibilities to support business needs.
+7. Hands-on participation and a strong sense of ownership.
+8. Willingness to make frequent fab presence- Development engineering for MEMS packages
+- Package design and development of assembly process for MEMS devices in co-operation with supplier and product engineering team
+- Providing solutions for assembly process and materials of automotive and consumer sensor products
+- Project coordination for development activities and sample manufacturing
+- Team working in English language with a multitude of international interfaces is mandatory
+1.協助hold lot處置
+2.線上即時異常分析與處理.
+3.擷取測試異常shmoo與datalog
+4.製作產品良率分析報表提供給客戶.
+5.其他主管交辦或常日班交接協助事項1.Array廠製程良率改善
+2.異常解析與防堵
+3.客訴處理1.參與開發新技術，與研發單位合作進行工程分析。
+2.處理製程疊構異常之物性及元件電性失效分析。
+3.針對失效做品質改善專案，溝通協調規劃實驗及分析報告。
+4.客戶品質專案及出貨分析。
+5.實驗室機台管理及技術員教育訓練。1.製程技術與新產品開發、量產導入
+2.監控製程品質及良率改善
+3.製程能力提昇、測試實驗規劃與結果分析
+4.降低生產成本，優化製程品質及參數
+5.遵守SOP流程，處理及排除異常 
+-----------------------------------------------------------------------
+*理工相關科系畢
+*積極主動、邏輯清晰能力佳
+*具備溝通協調能力佳1.協調並定義IC端PAD排列與PCB端Pin assignment
+2.使用Cadence Allegro APD/ SiP/ MCM or Autocad or Mentor Xpedition進行封裝基板初步佈局設計 
+3.與封裝廠合作與溝通, 對封裝型態進行先期評估, 設計出Package, 並順利的導入Package量產 
+4.基本判斷電性特性, 與Package電性部門互相支援與解決問題.
+5.熟悉FCCSP/ FCBGA/ wBGA/ QFN/ QFP 封裝基板設計與流程1. 新產品導入製程穩定及最佳化之研究及行動方案之執行
+2. 執行新產品導入Qual Lot ，工程品作業管制
+3. 新產品導入時製程異常解析及對策提出及客訴調查分析
+4. 執行新設備驗收及新產品的導入，確保量產順利
+5. QIT，SPC 活動之參予
+
+*薪資依學歷、科系、相關工作經歷、專業證照、特殊專長與語言能力綜合核敘1.Arrange engineering activities for customer
+  a. arrange meeting between customer and fab, subcom
+  b. arrange customer visit and audit activities
+2.Improve the overall customer satisfaction index
+3.Engineering and production lot flow(part) arrangement
+4.Support customer to tape out new product and control the deliver
+5.Monitor yield improvement activities for customer提供客戶工程解決方案，提升客戶工程服務滿意度
+1.承接業務需求，積極導入客戶專案
+2.整合內部資源，提供客戶產品開發所需之工程服務
+3.完成產品Tape out及Pilot相關事宜
+4.協助客戶產品順利進入量產，整合工程資源，持續提升產品良率
+5.配合業務發展，不定時結合內部開發成果，主動提供客戶技術需求及解決方案,確保客戶競爭力R&D Pilot Line Fab
+• Updating the Fab engineers on customer issues and technology needs.
+• Supporting root cause defect and unique fail mode analysis.
+Process Integration
+• Delivering advanced technology to meet future product nodes.
+• Developing recipes to meet structural & electrical requirements.
+• Managing wafers though Wet&Dry etch levels in support of special requirements.
+Other Process Areas
+• Working in cross-functional teams to jointly develop device structures.
+• Supporting cross-functional failure analysis and yield improvement.
+Wet or Dry Etch peers
+• Maintaining or developing expertise in multiple process, hardware, or technology areas.
+• Serving as a resource for peers in recipe & process development.
+ 
+Qualifications:  
+• Understanding in:  Transport phenomena, Electromagnetics, Atomic/Molecular physics, and Surface phenomena
+• Solid trouble shooting, experimental design and data analysis skills
+• Strong computer skills, including MS Office
+• Basic understanding of wet process /plasma etching
+• Understanding in the principles of wet etch or dry etch processing
+• Rudimentary understanding of process control and Statistical Process Control (SPC)
+ 
+Education/Experience:  
+MS/PhD in Electrical Engineering, Mechanical Engineering, Materials Science, Chemical Engineering, Chemistry, Physics
+『具工作經驗者，薪資另議』 Job Description
+
+As a Global Quality (GQ) Back End Central Operations Quality Assurance (BECQA) Engineer at Micron Technology, Inc., you will be responsible for all quality aspects of Micron subcontractors, and will manage document and change control. (The subcontractors provide outsourcing services to Micron that include component assembly and packaging, electrical test, memory module assembly, and SSD assembly.)
+
+In part, you will communicate and interface directly with Micron subcontractors regarding engineering, quality and reliability topics; participate in regular review of Subcon manufacturing line quality performance (Quality KPIs - example Line Yield), and follow through with recovery and corrective actions for target misses.
+
+You will verify CAPA for line incidents that cause non-conformance to Micron’s WIP and impact delivery, participate in periodic on-site Quality audits, and provide input for and participate in quarterly quality reviews.
+
+
+Responsibilities and Tasks
+
+Analyze Data for Decision Making
+
+Manage and Drive Local and Global Material Review Board Meetings
+
+Facilitate and Review 8D, Validating Corrective Action and Preventive Action
+
+Support Customer and Internal Audits
+
+Perform Manufacturing Surveillance Assessment on Site
+
+Driving Sites to achieve Quality KPI and Metrics
+
+
+Requirements:
+
+ Bachelor's/Master's Degree in Engineering
+•Min 3 years of Assembly Process Engineering Experience
+•Good interpersonal skills and able to work in teams
+•Good analytical and problem solving skills
+•Experience/knowledge in Managing Subcontractors will be an advantage
+•Occasional Travelling within Taiwan may be required
+
+
+
+Work Location: Zhongli/Taoyuan【本職缺僅接受台積電官方網站投遞】
+請至台積電官方網站投遞個人履歷表，此職缺履歷登錄網址:https://tinyurl.com/yy99wc4z
+
+
+【Description】
+1. Advanced mask process development and baseline sustaining.
+2. New material and equipment evaluation & development.
+3. Process stability/manufacturability improvement for yield and reliability qualification.
+4. Process/tool transfer to volume manufacturing.
+
+【Qualifications】 
+1. MS or Ph.D. in Chemical Engineering, Material Science, Chemistry, Physics, or a related engineering discipline.
+2. Hands-on participation and a strong sense of ownership is required.
+3. Strong technical problem-solving and analytical skills, based upon fundamental, rather than empirical models is required.
+4. Excellent written and spoken communication skills is required.
+5. Experience in IC fabrication would be an added advantage.
+6. Must be effectively bilingual in Mandarin and English.1.負責製程線上生產與機台維護
+2.線上製程異常分析與排除
+3.專案支援(如:良率提升與Cost Reduction相關專案)
+
+工作地點:華亞廠/龜山廠1.產品良率提升
+2.產品異常處理及分析
+3.製程流程改良專案
+4.協助新製程導入1.晶圓代工新產品導入工程服務
+2.代工、量產產品良率提升服務學歷不拘，有工程師相關經驗者佳
+會日文者佳，不會亦可
+需出差
+出差補貼出差費交通費及住宿，另有出差津貼
+目前上班地點多在南科科學園區
+半導體設備工程師
+1. 保養日常設備，維持設備正常運作。
+2. 負責組裝、拆解設備機器。
+3. 判斷設備異常的原因，並排除問題。
+4.主管交付業務
+ 1.電子產品不良分析及維修.
+ 2.PCBA解析及維修.
+ 3.DOE工程品分析
+ 4.協助SMT良率提升及改善.
+
+＊實際薪資依學歷、科系、相關工作經驗、專業證照、特殊專長與語言能力綜合核敘
+ ＊資深人員薪資另議 
+
+1. 班別: 四二制
+2. 熟悉基本Microsoft文書工具(Word、Excel、PowerPoint)
+3. 能配合加班
+4. 需穿著無塵衣及長時間待無塵室
+5. 個性細心，有耐性
+6. 有量測相關經驗尤佳1.電鍍製程改善
+2.新電鍍製程及藥液應用測試及導入1.新設備、製程評估
+2.新材料、治工具、藥水評估
+3.製程參數優化
+4.新產品跟催與導入量產
+5.製程三基準書建立、優化
+6.Cost down專案執行1.與客戶對焦產品需求，回饋廠內進行跨部門溝通協調達成專案目標30%
+2.規劃專案時程並追蹤進度(含改善方案)，定期與客戶說明進度30%
+3.新產品開發需求規劃及導入30%
+4.市場新技術評估10%1.薄膜 PVD ITO SPUTTER製程良率提升及產品異常解決
+2.專案執行1. CMP新製程評估規劃。2. 製程規範編撰建立。3. CMP 先進機台技術及耗材評估。4. 製程品質改善及良率提升。5. 品質管制&異常處理。6. Recipe實驗&最佳化。
+『具工作經驗者，薪資另議』 1.LED/LD 相關新產品/新技術開發，包括：
+mini LED, micro LED, VCSEL, Display, IRIS, 3D sensing, UV/IR 相關應用領域
+2.製程與機台開發，包括：LED/LD 相關封裝製程1.新產品導入與先期產品導入品質規劃
+2.機台,配件與量產程式驗證
+3.生產相關文件制訂與維護
+4.客戶工程分析協助
+5.線上生產良率與工程貨批管控
+6.產品生產良與品質改善1.學歷: 理工研究所, 優先:物理,化工,化學,材料。
+2.工作經歷:1~3years 半導體module。
+3.需配合輪值假日班。Job Description
+As a MTB Assembly Process Engineer you will be primarily responsible for starting up, developing and optimizing processes to improve product quality and reliability, working on process yield improvement, cost reduction, productivity improvement and risk management as well as resolving manufacturing line problems. You will also be required to identify, diagnose and resolve assembly process related problems by applying failure analysis, FMEA, 8D or SPC methodology. Additional responsibilities include co-ordinating and carrying out process, equipment and material evaluation/optimisation to implement changes at process step, leading and participating in yield improvement and cost reduction activities, handling new process baseline qualifications and managing, auditing and liaising with material suppliers to achieve quality, cost and risk management objectives.
+ 
+Responsibilities and Tasks
+Evaluate and Improve Assigned Assembly Manufacturing Processes, Materials, and/or Equipment	
+Maintain in-depth process knowledge	
+Maintain materials and equipment knowledge as it relates to the process and how they interact	
+Optimize process and/or equipment variables
+Identify all process variables
+Apply DOE techniques
+Perform containment of process and equipment deviations
+Determine root cause and implement corrective actions
+Evaluate Future Process, Equipment and/or Material Technologies
+Evaluate pertinent technology and engineering advancements relating to equipment, materials and processes
+Locate and research technical information on equipment, materials, and/or processes in journals, literature, web, etc
+Build and maintain effective relationships with suppliers
+Identify supplier’s materials or equipment design and production processes
+Create decision matrix for equipment and material selection
+Develop Process of Record (POR)
+Define and document customer requirements
+Define process variables
+Define process edges and center the process (CPK)
+Qualify New Process, Equipment and/or Material
+Define and implement quality systems
+Maintain knowledge of Assembly’s qualification procedures
+Maintian knowledge of Quality and Reliability Assurance (QRA)
+Implement New Process, Equipment and/or Material
+Define and maintain operation procedures
+Review current procedures on an on-going basis
+Maintain knowledge of Assembly On-Line Document System (AODS) and change communication procedures: ECN (Engineering Change Notice)
+Assess material requirements and projections
+Maintain knowledge of material attributes (shelf life, storage requirements, etc.)
+Ensure materials compatibility with equipment and parameters
+Maintain knowledge of supplier’s constraints
+Maintain knowledge of new chemical/material approval process and MICIS (Micron Chemical Information Systems)
+Coordinate Training Requirements and Conduct Training
+Develop, or coordinate development of, training materials for existing/new process
+Conduct training for production trainers
+Train and mentor others1.穿戴式產品生產或研發之經驗；
+2.新產品導入；
+3.英文可與外國客戶溝通；
+4.與客戶及合作夥伴建立良好工作溝通與關係，促進專案達成；
+5.接受長期派駐大陸地區。1.協助研發樣品製作，瞭解新產品開發狀況；						
+2.新產品導入，試產跟進、試產總結，主導試產會議						
+3.制程工藝改良，指導生產現場技術操作及現場異常問題的及時排除；					
+4.標準化作業的維護；						
+5.負責工藝指導書、設備操作指引的編寫						
+6.對產品作業方法、產品結構的優化						
+7.人員管理與培訓1.異常分析、良率改善及製程改善
+2.生產參數管控及產品品質管控
+3.製程整合
+4.新產品、材料導入■Key Responsibilities
+1.Provides highly visible customer support through the performance of on-site installation, as well as overseeing any necessary diagnoses, troubleshooting, service, and repair of complex equipment and systems.
+2.When necessary, works closely with customer to optimize tool performance to meet customer process and integration requirements.
+3.Checks and approves operational quality of system equipment. Instructs customers in the operation and maintenance of the system.[2020 Cyntec 儲備幹部專案]
+
+1. 專聘為 2020 Cyntec 儲備幹部培訓計畫成員, 18個月基礎培訓並參與區域輪調 (台灣9個月+蘇州吳江9個月) ，訓練完成後在台灣工作。
+PS.蘇州輪調會視2021年疫情狀況做調整
+
+2. 學成後依學習狀況分派負責
+   (A) 自動化設備設計
+   (B) 產品製程良率分析改善或製程整合
+   (C) 製程改善專案執行
+  
+3. 電機電子/機械/材料/化學 等理工大學或碩士畢 (應屆畢或 1-2 年工作經驗) 
+
+4. 具良好溝通協調、自我驅動能力強、邏輯清晰、抗壓性佳、並樂於創新、接受挑戰，能快速且持續學習。
+
+5. Toeic 550 分以上 
+
+6. 歡迎有意願接受挑戰者, 以有社團幹部, 志工服務... 等活動經驗者尤佳。
+
+7.履歷表請檢附成績單
+
+8.7月中集體面試維護相關PROD 產品資訊，執行整合產品管理流程合理化、標準化及自動化系統(產品管理系統)，提升產品工程相關單位作業效率與改善工作品質。
+1.執行NPI/PDM/ECM 流程標準化檢討與修訂
+2.執行改善計畫與IMD/CIM/IT人員溝通協助開發提案系統與環境測試、驗收
+3.建立/維護PROD產品資訊 (PDM, Mapping/MK/Label)
+4.Review客戶文件/解讀客戶需求，轉換客戶之Mapping/MK/ Label成矽品格式，並取得客戶核准。
+5.解決產線之NPI/PDM/ECM作業系統異常反應As a Manager at Micron Technology, Inc., you will be responsible for the management and development of direct reports to enable superior functional service delivery. You will be responsible for managing and improving functional area performance by collaborating with internal and external stakeholders to build and execute service strategies aligned to corporate strategic objectives. You will assist with improving individual capability by conducting performance appraisals with team members to create goals and development plans.
+
+You will monitor performance metrics to identify and implement continual improvement opportunities. Other responsibilities include ensuring organizational compliance to company policies and regulations, as well as to departmental procedures, and providing organizational leadership for building and implementing department strategies, processes, and policy through active participation in functional teams and projects, as well as mentoring other functional leaders through collaboration and the development of sustainably successful solutions
+
+ 
+
+Vision: Create health micro environment for wafer manufacturing
+Mission: The most advanced process contamination total solution provider
+Strategy: Make highest benefit for yield and manufacturing by contamination control
+Goal:
+One management of Q-time control of OMT
+Zero out Q-time induced yield impact
+Be the Best contamination monitor systemic within Micron .
+STB / Load port purge system implement for yield opportunities.
+Management and attack potential production contamination issue
+Q-time margin extend for cycle time improvement
+FOUP and FI contamination control and monitor
+Responsibilities:
+Complete all required safety training and ensuring all works are conducted in accordance with Micron’s safety policies.
+Assist in the definition of projects and programs to meet goals for startup, yield, quality, cost and output.
+Assist in the development of project plans and associated communications material/plan
+Work closely with cross-function area to meet company's goal and top focus.
+Build strong relationships with external/internal stakeholders - all Micron network
+Make training resources available and provide guidance on process & equipment related programs, systems, and processes
+Responsible for creating and driving a performance plan for each employee with a formal reguarly review
+Lead each member of your team of their job expectations, and hold them accountable to the expectations
+Meet regularly with each employee to work on clarifying expectations, developmental plans/execution
+Coach, mentor, motivate and supervise team members
+Provide recognition for progress and project/program member contributions1.負責整合產品工程/人員管理。
+2.與各部門協調溝通。
+3.制定/修改規範。
+4.程式開發。1.配合高市場佔有率的原廠產品, 建置自動化機台流程控制和管理功能。
+2.進行軟體之測試與修改。 
+3.熟.NET 開發技能(VB, C#)。
+4.具備半導體或CIM 專案開發與導入相關經驗者佳。(option)
+5.工作發展性高。
+※工作待遇：將依學經歷進行敘薪。Department & Job Description
+The External Manufacturing Quality organization drives continuous improvement in our
+existing foundry partners and assists in the selection process of new foundry partners, to consistently deliver quality products to our customers.
+
+Scope of Responsibilities/Expectations:
+1.	Candidate will work closely with suppliers to insure Best Known Methods are applied to supplier's quality systems, through quality system assessments or audits, regular meetings, metrics reviews, and operations reviews.
+2.	Candidate will work closely with suppliers, peers, and customers to achieve customer satisfaction.
+3.	Evaluate suppliers for production capability & quality management.
+4.	Provide leadership to suppliers and NXP team in resolving complex internal or customer impacted product/process quality issues utilizing quality and problems solving tools
+5.	Early engagement in development activities working with cross functional product teams & Foundries in understanding and resolving technical issues, early detection and highlighting Quality risks to core teams and management
+6.	Will participate or lead SQE/EMQ efforts in supplier selection and qualification
+7.	Will be responsible for monitoring supplier product quality by means of supplier product quality data analysis, trends and capability and provide management and business units with regular reports
+8.	Will conduct regular supplier audit/visits to monitor and sustain supplier quality system in place to ensure the manufacture of NXP products is performed with consistent quality meeting NXP’s requirements and specifications.
+9.	Will be responsible for supplier score card, evaluating supplier quality systems, performance, and results and drive for supplier continuous improvement
+10.	Will serve as advocate coordinator to resolve any Customer Corrective Action Requests that require Supplier Corrective Action(s) in a timely manner.
+11.	Will be responsible for coordinating and managing process change within quality system and assume full responsibility for foundry supplier process change management and communication.
+
+Candidate should possess the following qualifications:
+1.	Minimum BS in Mechanical, Electrical Engineering, Chemical Engineering, or Material Engineering and Science, Physics.
+2.	At least 8 years engineering experience in semiconductor wafer fabrication. Wafer Fabrication engineering experience at process integration is preferred.
+3.	Experience with manufacturing quality systems such as: Root Cause analysis and Problem Solving (8D, 5-Why, DMAIC), Statistical Process Control, Cpk, Failure Mode Effects & Analysis, Control Plan, FMEA, DOE. Strong in Change Management, Suspect Material Control, and Principles of 5S
+4.	Understanding of semiconductor device processing, inspection, test and statistical process control.
+5.	Ability to audit suppliers as a leader to ISO9000, IATF16949 and ANSI 20.20 Quality Standards
+6.	Familiar with data analysis and product/test engineer experience is plus.  Effects & Analysis, Control Plan, FMEA, DOE. Strong in Change Management, Suspect Material Control, and Principles of 5S
+7.	ASQ Certified Quality Engineer, Auditor or Black Belt a plus.
+8.	Experience in customer communication preferred
+9.	Experience in supplier management preferred
+10.	Experience as team leader and member
+11.	Ability to effectively work independently, remote from direct supervisor
+12.	Ability to occasionally travel within region
+13.	Candidate will be the voice of NXP and NXP's customers for all quality concerns in the Foundrie
+1.AOI及晶粒挑揀機台的操作學習。
+2.產品異常及生產線異常分析處理。
+3.工程委託相關事務的安排與執行。Responsibilities and Tasks
+
+Maintain Data Collection Tools and Software
+
+Coordinate quality excursions and drive resolution
+Call MRB meeting
+Ensure accurate containment and disposition of materials
+Collaborate with Back End (BE) operations and engineering groups to identify root cause and corrective actions
+Drive effective metrics (e.g., 8D Score)
+
+
+Develop Metrics and Data Analysis Tools to Measure/Monitor Package Quality
+
+Develop scripts to collect, analyze and format data
+Monitor excursions and Returned Material Authorization (RMA)
+Identify additional metrics that need to be monitored
+Publish data
+
+
+Assist Package Reliability Engineers by Gathering and Analyzing Data, and Developing Analysis Tools
+
+Consult with internal customers to understand needs
+Develop tools for extracting and formatting data
+Extract, organize, and analyze data for internal customers
+Analyze and report data
+
+
+Collaborate with BE Operations and network on Continuous Improvement Activities
+
+Prepare and publish quality metric data
+Facilitate and host meetings
+Document and publish data and meeting minutes
+Communicate with appropriate BE Operations and network
+Monitor progress on action items
+
+
+Provide Technical Expertise to Internal Customers for Data Collection and Analysis Tools
+
+Collect, monitor and report data
+Define and develop tools and methods for data extraction, formatting and reporting
+Maintain data repository and tools
+Provide support and consultation with internal customers
+Support data collection for department and group goals
+Manage multi-functional team independently
+Provide mentorship and coach engineers in solving complex quality issues
+
+
+Requirements:
+
+Bachelor's/Master's Degree in Engineering
+Fresh graduates/highly motivated individuals with 1-3 years' working experience are encourage to apply
+Good interpersonal skills and able to work in teams
+Good analytical and problem solving skills
+Experience/knowledge in Component Assembly and Test Processes will be highly helpful工作內容
+1. 獨立建立缺陷掃描程式
+2. 獨立值班，處理hold lot 以及異常事件
+3. 能撰寫標準作業流程以及操作介紹，指導助理工程師工作
+4. 發現線上缺陷異常時間並追蹤相關部門 解決過程以及結果
+5. 缺陷事件真因尋找，基本資料統計知識；實驗設計與分析工作
+6. 針對不同產品及NTO制定缺陷解決方案，協助相關部門降低產品缺陷
+7. 針對各種機台制定缺陷防守方案，協助相關部門發現並解決問題
+8. 破片晶圓管理和返工程式的建立
+9. 能制定 降低產品/機台缺陷的計畫及 指導工程師執行 （leader/section）
+10. 缺陷改善策略與機台配置策略的制定與執行 （leader/section）
+11. 客戶缺陷改善計畫溝通協調（leader/section）[2020 Cyntec 儲備幹部專案]
+
+1. 專聘為 2020 Cyntec 儲備幹部培訓計畫成員, 18個月基礎培訓並參與區域輪調 (台灣9個月+蘇州吳江9個月) ，訓練完成後在台灣工作。
+PS.蘇州輪調會視2021年疫情狀況做調整
+
+2. 學成後依學習狀況分派負責
+   (A) 自動化設備設計
+   (B) 產品製程良率分析改善或製程整合
+   (C) 製程改善專案執行
+  
+3. 電機電子/機械/材料/化學 等理工大學或碩士畢 (應屆畢或 1-2 年工作經驗) 
+
+4. 具良好溝通協調、自我驅動能力強、邏輯清晰、抗壓性佳、並樂於創新、接受挑戰，能快速且持續學習。
+
+5. Toeic 550 分以上 
+
+6. 歡迎有意願接受挑戰者, 以有社團幹部, 志工服務... 等活動經驗者尤佳。
+
+7.履歷表請檢附成績單
+
+8.7月中集體面試1.  Set Up 上貨與機台異常處理。
+2. MES結單。
+3. 設備機本異常排除。
+4. 新產品導入與建置。
+5. 確保正常機台運作。
+6. 做好6S。1. 製程改善.良率管理.提升良率等專案
+2. 新產品導入.協調生產製造進行
+3. 產品驗證與量產前準備工作
+4. 具半導體製程相關經驗
+**********************************************
+本廠為專業功率二極體(SF /TVS)與閘流體的研發與生產製造中心, 同時朝向車用二極體研發與製造的目標邁進. 
+工作屬性為半導體元件研發與生產製造的製程整合工作, 需要對相關元件電性與應用具有經驗或高度學習熱忱的人加入.  1. 廠內表單傳簽 (報廢單、借機單、投片ECS單等) 
+2. 線上實驗貨Push至特定站點供工程師進行實驗 
+3. 前後段製程產品 /實驗貨: 帶貨執行。
+4. 從旁協助工程師進行實驗 
+5. 協助工程師進行產品/實驗貨SEM /EDS拍攝及協助廠外各式samples分析
+6. 協調產線資源設備及部門RD物料請購及管理工作內容
+1.線上問題處理：解決線上制程問題，確保流程的順暢，協助新制程導入與技術轉移，解決工藝異常及減少工藝缺陷,產品良率。
+2.計畫並執行改進制程良率與降低製造成本的專案，提升及改善工藝能力。
+3.與器件，整合，良率提升，制程整合，製造部等多部門跨部門合作。1. 產品良率提升 
+2. 產品異常處理及分析 
+3. 製程流程改良專案 
+4. 新製程導入 
+5. 其他專案支援【本職缺僅接受華邦官方網站投遞】
+請至華邦官方網站投遞個人履歷表，此職缺履歷登錄網
+https://bit.ly/3edCGZz
+
+1.處理異常產品與管理產品品質
+2.新產品及機台驗證導入生產線
+3.開發蝕刻製程程式
+4.三班制輪值R&D Pilot Line Fab
+• Updating the Fab engineers on customer issues and technology needs.
+• Supporting root cause defect and unique fail mode analysis.
+Process Integration
+• Delivering advanced technology to meet future product nodes.
+• Developing recipes to meet structural & electrical requirements.
+• Managing wafers though Dry Etch levels in support of special requirements.
+Other Process Areas
+• Working in cross-functional teams to jointly develop device structures.
+• Supporting cross-functional failure analysis and yield improvement.
+Dry Etch peers
+• Maintaining or developing expertise in multiple process, hardware, or technology areas.
+• Serving as a resource for peers in recipe & process development.
+ 
+Qualifications:  
+• Understanding in:  Transport phenomena, Electromagnetics, Atomic/Molecular physics, and Surface phenomena
+• Solid trouble shooting, experimental design and data analysis skills
+• Strong computer skills, including MS Office
+• Basic understanding of plasma sources used in plasma etching
+• Understanding in the principles of dry etch processing
+• Rudimentary understanding of process control and Statistical Process Control (SPC)
+ 
+Education/Experience:  
+MS/PhD in Electrical Engineering, Mechanical Engineering, Materials Science, Chemical Engineering, Chemistry, Physics1.負責影像與智能等相關IC產品的設計、開發、測試、驗證及維護
+2.負責矽智財設計、電腦輔助設計之流程建立與維護
+3.工作地點為台北1.薄膜 PVD ITO SPUTTER製程良率提升及產品異常解決
+2.專案執行1.  Set Up 上貨與機台異常處理。
+2. MES結單。
+3. 設備機本異常排除。
+4. 新產品導入與建置。
+5. 確保正常機台運作。
+6. 做好6S。1.負責整合產品工程/人員管理。
+2.與各部門協調溝通。
+3.制定/修改規範。
+4.程式開發。[2020 Cyntec 儲備幹部專案]
+
+1. 專聘為 2020 Cyntec 儲備幹部培訓計畫成員, 18個月基礎培訓並參與區域輪調 (台灣9個月+蘇州吳江9個月) ，訓練完成後在台灣工作。
+PS.蘇州輪調會視2021年疫情狀況做調整
+
+2. 學成後依學習狀況分派負責
+   (A) 自動化設備設計
+   (B) 產品製程良率分析改善或製程整合
+   (C) 製程改善專案執行
+  
+3. 電機電子/機械/材料/化學 等理工大學或碩士畢 (應屆畢或 1-2 年工作經驗) 
+
+4. 具良好溝通協調、自我驅動能力強、邏輯清晰、抗壓性佳、並樂於創新、接受挑戰，能快速且持續學習。
+
+5. Toeic 550 分以上 
+
+6. 歡迎有意願接受挑戰者, 以有社團幹部, 志工服務... 等活動經驗者尤佳。
+
+7.履歷表請檢附成績單
+
+8.7月中集體面試主導大型智慧製造系統與標準化專案的推動與管理，及Benchmark同業，以建構並維持具競爭力的智慧製造系統。
+(1)針對智慧製造相關系統流程(Cross Functional)進行跨平台分析、整合與改善，使其符合合理化、制定標準化、建立系統化的流程。
+(2)評估及導入有關智慧製造之新資訊應用。
+(3)Benchmark同業智慧製造系統與自動化廠商與技術
+(4)上級交辦事項1.配合高市場佔有率的原廠產品, 建置自動化機台流程控制和管理功能。
+2.進行軟體之測試與修改。 
+3.熟.NET 開發技能(VB, C#)。
+4.具備半導體或CIM 專案開發與導入相關經驗者佳。(option)
+5.工作發展性高。
+※工作待遇：將依學經歷進行敘薪。【本職缺僅接受華邦官方網站投遞】
+請至華邦官方網站投遞個人履歷表，此職缺履歷登錄網
+https://bit.ly/3iCdfVj
+
+工作內容：
+1.Furnace 爐管機台 ( TEL / KE ) recipe setup and tuning
+2.擴散製程參數調整與機台SPC/FDC管理
+3.Hold lot 異常產品 處理
+4.製程品質維護及改善
+5.產能改善
+6.良率改善【本職缺僅接受華邦官方網站投遞】
+請至華邦官方網站投遞個人履歷表，此職缺履歷登錄網
+https://bit.ly/3gxovjC
+
+工作內容：
+1.IMP / RTP機台 recipe setup and tuning
+2.擴散製程參數調整與機台SPC/FDC管理
+3.Hold lot 異常產品 處理
+4.製程品質維護及改善
+5.產能改善
+6.良率改善執行具有原創性或高複雜性之產品電性分析工作，提供準確之產品電性資料、建立產品設計準則。
+(1)執行高複雜電性(SI/PI)分析，建立產品特性及設計準則。
+(2)建立與客戶溝通及電性深入技術諮詢管道。
+(3)吸收新知識、新技術，提昇產品研發電性分析能力。
+(4)規劃/指導工程師專業技能。
+(5)先進軟體/設備評估與驗證，提昇產品研發電性分析能力
+(6)其他上級交辦事項。[2020 Cyntec 儲備幹部專案]
+
+1. 專聘為 2020 Cyntec 儲備幹部培訓計畫成員, 18個月基礎培訓並參與區域輪調 (台灣9個月+蘇州吳江9個月) ，訓練完成後在台灣工作。
+PS.蘇州輪調會視2021年疫情狀況做調整
+
+2. 學成後依學習狀況分派負責
+   (A) 自動化設備設計
+   (B) 產品製程良率分析改善或製程整合
+   (C) 製程改善專案執行
+  
+3. 電機電子/機械/材料/化學 等理工大學或碩士畢 (應屆畢或 1-2 年工作經驗) 
+
+4. 具良好溝通協調、自我驅動能力強、邏輯清晰、抗壓性佳、並樂於創新、接受挑戰，能快速且持續學習。
+
+5. Toeic 550 分以上 
+
+6. 歡迎有意願接受挑戰者, 以有社團幹部, 志工服務... 等活動經驗者尤佳。
+
+7.履歷表請檢附成績單
+
+8.7月中集體面試1. 廠內表單傳簽 (報廢單、借機單、投片ECS單等) 
+2. 線上實驗貨Push至特定站點供工程師進行實驗 
+3. 前後段製程產品 /實驗貨: 帶貨執行。
+4. 從旁協助工程師進行實驗 
+5. 協助工程師進行產品/實驗貨SEM /EDS拍攝及協助廠外各式samples分析
+6. 協調產線資源設備及部門RD物料請購及管理1. 製程改善.良率管理.提升良率等專案
+2. 新產品導入.協調生產製造進行
+3. 產品驗證與量產前準備工作
+4. 具半導體製程相關經驗
+**********************************************
+本廠為專業功率二極體(SF /TVS)與閘流體的研發與生產製造中心, 同時朝向車用二極體研發與製造的目標邁進. 
+工作屬性為半導體元件研發與生產製造的製程整合工作, 需要對相關元件電性與應用具有經驗或高度學習熱忱的人加入.  ■Key Responsibilities
+1.Provides highly visible customer support through the performance of on-site installation, as well as overseeing any necessary diagnoses, troubleshooting, service, and repair of complex equipment and systems.
+2.When necessary, works closely with customer to optimize tool performance to meet customer process and integration requirements.
+3.Checks and approves operational quality of system equipment. Instructs customers in the operation and maintenance of the system.1、機台異常排除、追蹤、例行保養。
+2、製程穩定性監控與維護。
+3、製程異常排除與改善。
+4、工程相關問題回覆，封裝異常問題處理、設備異常失效分析與統計。
+5、產品異常失效分析與統計。
+6、執行部門交辦事項。
+5、【本職缺僅接受華邦官方網站投遞】
+請至華邦官方網站投遞個人履歷表，此職缺履歷登錄網址:bit.ly/2ZLMeax
+
+1.機台/製程SPC提昇
+2.良率提升
+3.機台生產狀況維護
+4.產品線異常狀況排除
+5.支援交接事項處理
+6.半導體工作經驗佳【本職缺僅接受華邦官方網站投遞】
+請至華邦官方網站投遞個人履歷表，此職缺履歷登錄網址:bit.ly/2DRQRai
+
+1. DRAM Defect continue improvement
+2. BF/DF/EBI/SEM recipe setup and tuning
+3.異常製程/產品分析
+4.小夜班輪值
+5.假日值班負責智慧製造系統之設計與分析，落實作業合理化、電腦化、標準化、系統化的設計流程，進而降低異常次數、增進作業效率及提升客戶滿意度。
+(1)優化與整合智慧製造作業流程及系統化最佳解決方案。
+(2)規劃與推動智慧製造合理化、電腦化、標準化專案。
+(3)吸收最新之智慧製造系統資訊並協助新技術導入訓練準備。
+(4)上級交辦事項。負責智慧製造系統之設計與分析，落實作業合理化、電腦化、標準化、系統化的設計流程，進而降低異常次數、增進作業效率及提升客戶滿意度。
+(1)優化與整合智慧製造作業流程及系統化最佳解決方案。
+(2)規劃與推動智慧製造合理化、電腦化、標準化專案。
+(3)吸收最新之智慧製造系統資訊並協助新技術導入訓練準備。
+(4)上級交辦事項。負責智慧製造系統之設計與分析，落實作業合理化、電腦化、標準化、系統化的設計流程，進而降低異常次數、增進作業效率及提升客戶滿意度。
+(1)優化與整合智慧製造作業流程及系統化最佳解決方案。
+(2)規劃與推動智慧製造合理化、電腦化、標準化專案。
+(3)吸收最新之智慧製造系統資訊並協助新技術導入訓練準備。
+(4)上級交辦事項。負責智慧製造系統之設計與分析，落實作業合理化、電腦化、標準化、系統化的設計流程，進而降低異常次數、增進作業效率及提升客戶滿意度。
+(1)優化與整合智慧製造作業流程及系統化最佳解決方案。
+(2)規劃與推動智慧製造合理化、電腦化、標準化專案。
+(3)吸收最新之智慧製造系統資訊並協助新技術導入訓練準備。
+(4)上級交辦事項。1.良率預估
+2.客戶良率改善報告準備
+3.良率資料整理 & 分析
+4.良率分析、資料處理系統改善
+5.廠內製程良率之確認及改善
+-------------------------------------------------------
+*具相關工作經驗者佳
+1.數理統計，理工、資訊相關科系
+2.客務服務、良率、製程改善及品管相關
+3.細心、善於溝通協調、邏輯清楚、抗壓與適應力佳
+4.具Excel、統計軟體工具處理能力佳
