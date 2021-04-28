@@ -165,8 +165,7 @@ def word_cloud_generator(dictionary_path, stop_word_path, font_path, project_nam
     font_path = font for plotting a word cloud
     project_name = name of a project (defined by user) 
     
-    '''
-    '''output_folder = 'img'
+    output_folder = 'img'
     try:
         os.makedirs(output_folder)
     except OSError as e:
