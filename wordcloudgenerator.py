@@ -170,9 +170,10 @@ def word_cloud_generator(dictionary_path, stop_word_path, font_path, project_nam
         os.makedirs(output_folder)
     except OSError as e:
         if e.errno != errno.EEXIST:
-            raise'''
+            raise
+    '''
     
-    with open(f"{project_name}/{project_name}.txt",encoding='utf-8') as f:  
+    with open(f"result/{project_name}/{project_name}.txt",encoding='utf-8') as f:  
         content = f.read()
 
     jieba.load_userdict(dictionary_path) # load dictionary       
@@ -206,7 +207,7 @@ def word_cloud_generator(dictionary_path, stop_word_path, font_path, project_nam
         like_mask = np.array(Image.open(mask_path))
         
         # output the word cloud
-        make_wordcloud(listcontent,font_path,mask=like_mask,project_name=f'{project_name}/{project_name}_post_WordCloud')
+        make_wordcloud(listcontent,font_path,mask=like_mask,project_name=f'result/{project_name}/{project_name}_post_WordCloud')
     else:
         print('no vocab in words_collector. skipping through')
     

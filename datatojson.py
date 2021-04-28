@@ -6,13 +6,17 @@ import time
 import json
 import os
 import csv 
+from tqdm import tqdm
 
-# project = 'Process_engineer'
+# Configuration
+# driver_path = './chromedriver'
+# num_of_pages = 2 #設定抓幾頁
+# End of configuration 
 
 def init_selenium(driver_path):
     chrome_options = webdriver.ChromeOptions()
     prefs = {"profile.default_content_setting_values.notifications" : 2}
-    # chrome_options.add_argument('--headless')
+    chrome_options.add_argument('--headless')
     chrome_options.add_argument('--no-sandbox')
     chrome_options.add_argument('--disable-dev-shm-usage')
     chrome_options.add_argument("--disable-notifications")
@@ -22,7 +26,8 @@ def init_selenium(driver_path):
     return driver
 
 def download_content(project,driver):
-    with open(f'./{project}/{project}.csv', newline='') as csvfile:
+    print('crawl infomation to txt...')
+    with open(f'result/{project}/{project}.csv', newline='') as csvfile:
         # 讀取 CSV 檔案內容
         rows = csv.reader(csvfile)
         # 以迴圈輸出每一列
@@ -34,12 +39,12 @@ def download_content(project,driver):
                 res = driver.page_source
                 soup = BeautifulSoup(res,'lxml')
                 content = soup.select('[class="mb-5 r3 job-description__content text-break"]')[0].text
-                with open (f'{project}/{project}.txt','a',encoding='utf-8') as f:
+                with open (f'result/{project}/{project}.txt','a',encoding='utf-8') as f:
                     f.write(content)
-            except:
-                print(row[0])
+            except Exception as e:
+                print(row[0],e)
         driver.quit()
 
 # Execution
-# driver = init_selenium()
+# driver = init_selenium(driver_path)
 # download_content(project,driver)
